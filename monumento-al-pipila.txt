@@ -1,0 +1,204 @@
+
+我们网站是
+
+检查下有没有错误
+
+
+
+
+
+
+
+你正在用（Next.js开发）
+为一个新景点【 Monumento Al Pipila 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文、西班牙语、英文，三语言
+
+monumento-al-pipila
+
+墨西哥瓜纳华托州	Monumento Al Pipila
+Monumento Al Pipila
+4.7(38,759)
+观景台
+Cerro de San Miguel S/N, Zona Centro, 36000 Guanajuato, Gto., Mexico
+
+2P7W+Q6 Guanajuato, Mexico
+
+https://maps.app.goo.gl/RUu82rxrCQKy1Unq5
+
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Documents\GitHub\墨西哥\monumento-al-pipila\public\gallery\monumento-al-pipila (3).jpg
+
+
+
+删除原先友情链接，新增以下友情链接
+
+墨西哥国家旅游局
+https://visitmexico.com/
+
+墨西哥联邦政府旅游部
+https://www.gob.mx/sectur
+
+瓜纳华托州旅游局
+https://guanajuato.travel/
+
+国家遗产与历史名胜数据库
+https://lugares.inah.gob.mx/es
+
+墨西哥外交部
+https://www.gob.mx/sre
+
+
+
+墨西哥州文化与旅游局
+https://cultura.edomex.gob.mx/
+
+莫雷洛斯州旅游
+https://visitmexico.com/es/estado/17/morelos
+
+墨西哥国家自然保护区委员会 - 森波阿拉潟湖专属档案
+https://descubreanp.conanp.gob.mx/es/conanp/ANP?suri=97
+
+国家遗产与历史名胜数据库
+https://lugares.inah.gob.mx/es
+
+
+照片画廊
+精彩照片 
+检查照片名称是否正确并修正
+
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/RUu82rxrCQKy1Unq5
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/RUu82rxrCQKy1Unq5
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/RUu82rxrCQKy1Unq5
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/RUu82rxrCQKy1Unq5
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+
+
+
+
+
+
+
+
+生成一个文件忽略不需要上传的文件
+
+根据以下信息继续完善网站，你自己判断是否要新增板块
+
+关于拉古纳斯德泽姆波阿拉
+这座国家公园距离墨西哥城不远，是阿帕特拉科河微流域含水层的主要补给区；泻湖与针叶林交相辉映，为游客呈现出令人叹为观止的壮丽景色。这里也是莫雷洛斯州唯一有美洲豹猫记录的地方。
+
+墨西哥州和莫雷洛斯州
+莫雷洛斯州
+：惠齐拉克；墨西哥州：奥库伊兰
+法令日期： 1936年11月27日
+陆地面积和/或内陆水域4,790 公顷
+
+该区域的独特性（使受保护的自然区域独具特色的特征）
+它们是墨西哥城都市区附近为数不多的常年水体之一。这里森林茂密，交通便利，与墨西哥城都市区连接便捷，再加上该区域内的其他三个自然保护区，使其成为众多特有物种的重要栖息地，例如横斑鳄（Crotalus transversus）。这里也是莫雷洛斯州唯一有记录到美洲豹猫（Leopardus pardalis）踪迹的地方。
+
+日程安排
+星期六、星期日及公众假期，上午9:00至下午6:00。
+
+入场费
+95墨西哥比索
+
+该地区的平均气候
+春夏气候温和，秋冬气候寒冷。
+
+如何到达那里？
+最相关的位置
+莫雷洛斯州库埃纳瓦卡 (Cuernavaca)，距离 20.3 公里。
+
+飞机场
+墨西哥城“贝尼托华雷斯”国际机场，CDMX
+
+参考资料和运输
+到达那里的路线
+从墨西哥城出发，经联邦公路到库埃纳瓦卡/CDMX (95) / 墨西哥/库埃纳瓦卡公路，然后进入H市...
+
+交通工具
+从墨西哥城出发，在塔斯奎尼亚巴士总站乘坐普尔曼德莫雷洛斯公共交通工具。从库埃纳瓦卡、莫雷洛斯以及……
+
+在受保护的自然区域内活动
+大部分路段步行，但也可以租马。
+
+活动和建议
+营
+远足
+景观冥想
+环境教育
+自然摄影
+观察动植物
+运动钓鱼
+
+受保护自然区域内的服务
+游客中心或类似
+设施；观景点
+；信息模块；
+洗手间
+；解说步道；指示牌；出售工艺品、可持续产品和纪念品的
+商店
+
+保护区附近的住宿
+露营区
+酒店
+
+保护区附近的食物
+经济实惠的
+餐厅
+
+保护区附近城镇的服务
+银行、
+自动取款机、
+药房、
+医院、
+市场/超市、
+交通服务
+
+受保护自然区域的最近位置
+莫雷洛斯州库埃纳瓦卡 (Cuernavaca)，距离 20.3 公里。
+
+入场费
+进入自然保护区的门票
+每人每天 95 墨西哥比索，用于收取权利。
+
+老年人、退休人员、残疾人士和12岁以下儿童可免交门票。进入自然保护区（ANP）时，工作人员将核实其身份（如适用），并要求其出示相应的有效证件。学生和教职工凭有效证件可享受75%的门票折扣，入园时需出示有效证件。墨西哥公民和外国居民可享受50%的门票折扣，但需在入园时出示有效官方文件以证明其国籍或居住地。
+
+吸引人的
+风景优美。
+
+所有有趣的事实
+Zempoala在纳瓦特尔语中意为“众多泻湖”，因为构成这座国家公园景观的泻湖共有七个：奎拉泻湖、Zempoala泻湖、康皮拉泻湖、托纳蒂瓦泻湖、塞卡泻湖、普列塔泻湖和韦亚潘泻湖。其中只有三个是常年泻湖；其余的都是间歇性泻湖，其出现和形成大型水体都取决于降雨量。
+
+ANP 条例
+保护区游客须知
+1. 请做一名负责任且环保的游客。2
+. 进入泽姆波阿拉湖国家公园后，请听从公园管理员的指示。
+
+保护区代表性物种
+野猫（Lynx rufus）、浣熊（Procyon lotor）、蓝知更鸟（Cyanocitta stelleri）、横断火山响尾蛇（Crotalus triseriatus）、墨西哥钝口螈（Ambystoma altamirani）、山鸡蛇（Dendrortyx macroura）、横带响尾蛇（Crotalus transversus）、蒙特祖玛松（Pinus montezumae）、大叶紫菀（Muhlenbergia macroura）、香蒲（Typha domingensis）、红花山梗菜（Lobelia cardinalis）。
+
+
+
+
+
+新增
+西班牙语
+
+
+
+
+显示照片不全目前只显示8张，需要有显示完整照片显示功能
+删除 探索更多 板块
+
