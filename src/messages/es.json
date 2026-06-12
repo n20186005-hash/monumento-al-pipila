@@ -1,0 +1,406 @@
+{
+  "meta": {
+    "title": "Monumento Al Pipila | Guanajuato | México",
+    "description": "Explora el Monumento al Pípila en Guanajuato, México. Este icónico monumento se encuentra en la cima de un cerro y ofrece una vista panorámica breathtaking de la ciudad de Guanajuato, Patrimonio de la Humanidad de la UNESCO."
+  },
+  "header": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Reseñas",
+    "map": "Mapa",
+    "backToHome": "Volver al inicio"
+  },
+  "hero": {
+    "title": "Monumento Al Pipila",
+    "subtitle": "Guanajuato · México",
+    "rating": "4.7",
+    "reviewCount": "38,759",
+    "hours": "Abierto 24/7",
+    "openMaps": "Ver ubicación"
+  },
+  "intro": {
+    "title": "Explora el Monumento Al Pipila",
+    "description": "El Monumento al Pípila es uno de los lugares más icónicos de Guanajuato, ciudad Patrimonio de la Humanidad de la UNESCO en el estado de Guanajuato, México. El obelisco de 28 metros de altura fue construido en 1939 para honrar a Juan José de los Reyes Martínez Amaro, apodado 'El Pípila', héroe de la Guerra de Independencia de México. Desde la plaza del monumento, los visitantes pueden disfrutar de una vista panorámica de 360 grados de Guanajuato, lo que lo convierte en un mirador imperdible.",
+    "visitGuide": {
+      "title": "Consejos de visita",
+      "items": [
+        "Visita en el atardecer para disfrutar tanto del ocaso como de las vistas nocturnas",
+        "Camina desde el centro (unos 20-30 minutos) o toma el teleférico",
+        "Lleva una cámara, este es el mejor lugar para fotos panorámicas de Guanajuato",
+        "En el cerro puede hacer viento, lleva una chaqueta"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Aspectos destacados",
+      "items": [
+        "Monumento icónico: Obelisco de 28 metros construido en 1939, honrando al héroe de la Independencia El Pípila.",
+        "Mirador panorámico: Vista de 360 grados de la ciudad de Guanajuato, el mejor lugar para fotografía panorámica.",
+        "Significado histórico: El Pípila prendió fuego valientemente al fuerte español en el Sitio de Guanajuato de 1810, un símbolo clave de la independencia mexicana.",
+        "Fácil acceso: Camina desde el centro o toma el teleférico directamente hasta la cima."
+      ]
+    }
+  },
+  "route": {
+    "title": "Ruta Turística",
+    "overview": "Descubre la ruta ideal para explorar el Monumento al Pípila y experimentar la perfecta combinación de historia y vistas panorámicas.",
+    "steps": [
+      "Comienza desde el centro de Guanajuato (por ejemplo, el Jardín de la Unión) y camina por la carretera del cerro unos 20-30 minutos hasta llegar al monumento.",
+      "Disfruta de la vista panorámica de Guanajuato desde la plaza del monumento, capturando fotos de la ciudad y las montañas circundantes.",
+      "Visita el monumento mismo y conoce sobre las hazañas heroicas de El Pípila en la Guerra de Independencia.",
+      "Opccionalmente toma el teleférico para bajar, o quédate para el atardecer y las vistas nocturnas antes de regresar."
+    ],
+    "supplementsTitle": "Consejos adicionales",
+    "supplements": [
+      "El teleférico generalmente opera martes a domingo 10:00-18:00, por favor verifica con anticipación.",
+      "El atardecer es el mejor momento para visitar, ya que puedes disfrutar tanto del ocaso como de las vistas nocturnas.",
+      "Puede haber pequeños vendedores en el cerro, pero lleva tu propia agua.",
+      "Usa zapatos cómodos para caminar, ya que la ruta cuesta arriba tiene cierta inclinación."
+    ]
+  },
+  "knowledge": {
+    "title": "Descubre el encanto del Monumento Al Pipila",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Significado histórico",
+        "content": "El Monumento al Pípila fue construido en 1939 para honrar a Juan José de los Reyes Martínez Amaro, apodado El Pípila, héroe de la Guerra de Independencia de México. El 28 de septiembre de 1810, durante el Sitio de Guanajuato, El Pípila valientemente llevó una losa de piedra en llamas sobre su espalda y prendió fuego a la puerta de la Alhóndiga de Granaditas, el fuerte español, permitiendo que las fuerzas rebeldes capturaran la fortaleza. El monumento fue diseñado por el arquitecto Agustín L. Rodríguez y es uno de los símbolos históricos más importantes de Guanajuato."
+      },
+      {
+        "id": "nature",
+        "title": "Experiencia de mirador",
+        "content": "El Monumento al Pípila se encuentra en la cima del Cerro de San Miguel a una altitud de aproximadamente 2,000 metros, ofreciendo una posición excepcional sobre Guanajuato. Los visitantes pueden disfrutar de una vista de 360 grados de las coloridas casas de la ciudad, las calles serpenteantes, la arquitectura histórica y las sierras circundantes. Especialmente al atardecer, toda la ciudad se baña en luz dorada: una vista breathtaking. Este también es el lugar más clásico para tomar fotos panorámicas de Guanajuato."
+      },
+      {
+        "id": "experience",
+        "title": "Experiencia de visita",
+        "content": "Visitar el Monumento al Pípila es una perfecta combinación de historia y paisaje natural. Puedes caminar desde el centro por la carretera del cerro, disfrutando de las vistas de Guanajuato a lo largo del camino, o tomar el teleférico directamente hasta la cima para tener una vista aérea de la ciudad. Una vez allí, pasea por la plaza del monumento, conoce la historia heroica de El Pípila y captura fotos panorámicas inolvidables. Este también es un excelente lugar para fotografía de atardecer y nocturna, cuando las luces de la ciudad crean un despliegue deslumbrante."
+      },
+      {
+        "id": "rules",
+        "title": "Reglamento para visitantes",
+        "content": "1. Por favor respeta el monumento histórico, no hagas grafiti ni te subas al monumento.\n2. Por favor ten cuidado en el área del mirador, especialmente al visitar de noche.\n3. Por favor mantén el ambiente limpio, no tires basura.\n4. Se recomienda visitar en grupo, especialmente en la tarde y de noche."
+      },
+      {
+        "id": "species",
+        "title": "Atracciones cercanas",
+        "content": "Hay varias otras atracciones que vale la pena visitar cerca del Monumento al Pípila: la Alhóndiga de Granaditas (sitio histórico de la Guerra de Independencia), la Catedral Basílica de Guanajuato, el Jardín de la Unión, el sistema de calles subterráneas, y el famoso Museo de las Momias. Desde el monumento, puedes caminar fácilmente hacia abajo para llegar a estas atracciones."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Información básica",
+    "officialName": "Nombre oficial",
+    "officialNameValue": "Monumento Al Pipila",
+    "type": "Tipo de sitio",
+    "typeValue": "Monumento · Mirador",
+    "country": "País",
+    "countryValue": "México",
+    "city": "Estado",
+    "cityValue": "Guanajuato, Estado de Guanajuato",
+    "googleRating": "Calificación de Google",
+    "address": "Dirección",
+    "addressValue": "Cerro de San Miguel S/N, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "2P7W+Q6 Guanajuato, Mexico"
+  },
+  "hours": {
+    "title": "Horarios",
+    "outdoor": "Plaza del monumento",
+    "outdoorTime": "Abierto 24/7 (área de plaza pública)",
+    "lighthouse": "Teleférico",
+    "summer": "Martes a domingo",
+    "summerTime": "Aproximadamente 10:00-18:00 (por favor verifica con anticipación)",
+    "winter": "Lunes",
+    "winterTime": "Teleférico cerrado (se puede caminar hacia arriba)",
+    "warning": "Notas importantes",
+    "warningTime": "El horario del teleférico puede variar según la temporada, verifique la información más reciente antes de visitar",
+    "tip": "Visita en el atardecer para disfrutar tanto del ocaso como de las vistas nocturnas"
+  },
+  "tickets": {
+    "title": "Entradas",
+    "outdoor": "Plaza del monumento",
+    "outdoorPrice": "Gratis (plaza pública)",
+    "lighthouse": "Teleférico",
+    "adults": "Ida y vuelta (adulto)",
+    "adultsPrice": "Aproximadamente 80-100 MXN (precio sujeto a cambios)",
+    "students": "Niños/Estudiantes",
+    "studentsPrice": "Puede haber descuento (se requiere identificación válida)",
+    "children": "Caminar hacia arriba",
+    "childrenPrice": "Gratis (unos 20-30 minutos caminando desde el centro)",
+    "card": "Consejos",
+    "cardPrice": "Visita al atardecer para buenas fotos, lleva una cámara, usa zapatos cómodos para caminar"
+  },
+  "transport": {
+    "title": "Cómo llegar",
+    "airport": "Desde el aeropuerto",
+    "airportDesc": "Aeropuerto más cercano: Aeropuerto Internacional de Del Bajío (BJX), unos 30 km del centro de Guanajuato, unos 30 minutos en automóvil al centro de la ciudad.",
+    "selfDrive": "En automóvil",
+    "selfDriveDesc": "Desde la Ciudad de México, toma la Carretera México-Guanajuato (MEX-45D), unas 5-6 horas a Guanajuato. Las calles de la ciudad son estrechas y serpenteantes, se recomienda estacionar en el centro y caminar o usar transporte público.",
+    "bus": "Transporte público",
+    "busDesc": "Desde la Terminal del Norte en la Ciudad de México, toma un autobús de larga distancia a Guanajuato, unas 5-6 horas. Después de llegar a Guanajuato, camina hacia arriba o toma el teleférico.",
+    "intercity": "Transporte local",
+    "intercityDesc": "Camina desde el centro (por ejemplo, Jardín de la Unión) unos 20-30 minutos; o toma el teleférico directamente al área del monumento. También hay taxis disponibles.",
+    "cycling": "Servicios cercanos",
+    "cyclingDesc": "Cerca del monumento hay áreas de estacionamiento, pequeños puestos de comida y tiendas de recuerdos. En el centro de la ciudad hay bancos, cajeros automáticos, farmacias, restaurantes, hoteles y otras instalaciones completas.",
+    "tips": "Consejos de viaje",
+    "tipsDesc": "El Monumento al Pípila es una atracción imperdible en Guanajuato. Visita en el atardecer para disfrutar tanto del ocaso como de las vistas nocturnas. Caminar desde el centro es una ruta muy interesante."
+  },
+  "gallery": {
+    "title": "Fotos impresionantes",
+    "subtitle": "El encanto del Monumento Al Pipila",
+    "captions": [
+      "Vista panorámica del monumento",
+      "Panorama de Guanajuato",
+      "Acercamiento del monumento",
+      "Vista sobre la ciudad",
+      "Vista del atardecer",
+      "Luces nocturnas",
+      "Detalle del obelisco",
+      "Perspectiva del mirador",
+      "Paisaje del cerro",
+      "Panorama de casas coloridas"
+    ],
+    "viewAll": "Ver en Google Maps",
+    "showAllPhotos": "Mostrar todas las fotos"
+  },
+  "reviews": {
+    "title": "Reseñas de visitantes",
+    "declaration": "La información de reseñas se puede ver a través de Google Maps (enlace externo).",
+    "moreReviews": "Ver en Google Maps",
+    "items": [
+      {
+        "name": "Juan Carlos",
+        "date": "Hace 1 mes",
+        "rating": 5,
+        "text": "¡Un mirador imperdible en Guanajuato! Disfrutamos de una vista de 360 grados de toda la ciudad desde aquí, el paisaje es breathtaking. Especialmente hermoso al atardecer, definitivamente ven aquí."
+      },
+      {
+        "name": "María Fernanda",
+        "date": "Hace 2 semanas",
+        "rating": 5,
+        "text": "Un monumento impresionante que honra a El Pípila, héroe de la Guerra de Independencia de México. Las fotos panorámicas de Guanajuato tomadas desde aquí son simplemente perfectas, altamente recomendable visitar en la tarde."
+      },
+      {
+        "name": "Roberto López",
+        "date": "Hace 3 semanas",
+        "rating": 5,
+        "text": "Unos 20 minutos caminando desde el centro, el paisaje a lo largo del camino también es hermoso. La vista después de llegar vale completamente el esfuerzo. Este es uno de los lugares más importantes de Guanajuato."
+      },
+      {
+        "name": "Sofía Martínez",
+        "date": "Hace 1 mes",
+        "rating": 4,
+        "text": "Excelente mirador de la ciudad. El monumento mismo también es históricamente significativo, conocer la historia de El Pípila da una comprensión más profunda de la historia de la independencia mexicana. La vista nocturna también es muy hermosa."
+      },
+      {
+        "name": "Alejandro Torres",
+        "date": "Hace 2 meses",
+        "rating": 5,
+        "text": "Tomar el teleférico hacia arriba es una experiencia muy divertida, mirar hacia abajo a Guanajuato desde el aire ofrece una perspectiva única. La plaza del monumento es el mejor lugar para fotos panorámicas, no te lo pierdas."
+      },
+      {
+        "name": "Luisa Hernández",
+        "date": "Hace 3 semanas",
+        "rating": 5,
+        "text": "Este es mi lugar favorito en Guanajuato. La panorámica de 360 grados de la ciudad es inolvidable, especialmente cuando se encienden las luces de la ciudad al anochecer, toda la ciudad es como un cuento de hadas. La historia heroica de El Pípila también es conmovedora."
+      },
+      {
+        "name": "Miguel Ángel",
+        "date": "Hace 1 mes",
+        "rating": 4,
+        "text": "Monumento histórico en una gran ubicación. Puedes pasar una hora aquí disfrutando tranquilamente de la belleza de Guanajuato. Recomienda llevar una botella de agua, en el cerro puede hacer viento."
+      },
+      {
+        "name": "Carmen Rivera",
+        "date": "Hace 2 semanas",
+        "rating": 5,
+        "text": "¡Mirador perfecto! El monumento de 28 metros de altura es muy espectacular, este es el lugar más clásico para tomar fotos de Guanajuato. Definitivamente ven al atardecer, la vista es incomparable."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación y mapa",
+    "subtitle": "Cerro de San Miguel S/N, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+    "openMaps": "Ver en Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Monumento Al Pipila. Todos los derechos reservados.",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "cookies": "Configuración de cookies",
+    "officialResourcesTitle": "Recursos oficiales",
+    "officialLinks": {
+      "visitmexico": {
+        "name": "Consejo Nacional de Turismo de México",
+        "url": "https://visitmexico.com/"
+      },
+      "sectur": {
+        "name": "Secretaría de Turismo del Gobierno de México",
+        "url": "https://www.gob.mx/sectur"
+      },
+      "guanajuatotravel": {
+        "name": "Secretaría de Turismo del Estado de Guanajuato",
+        "url": "https://guanajuato.travel/"
+      },
+      "inah": {
+        "name": "Base de Datos de Patrimonio Nacional y Monumentos Históricos",
+        "url": "https://lugares.inah.gob.mx/es"
+      },
+      "sre": {
+        "name": "Secretaría de Relaciones Exteriores de México",
+        "url": "https://www.gob.mx/sre"
+      }
+    },
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales."
+  },
+  "privacy": {
+    "title": "Política de privacidad",
+    "lastUpdated": "Última actualización: junio 2026",
+    "sections": [
+      {
+        "heading": "1. Información que recopilamos",
+        "content": "Solo recopilamos los datos mínimos necesarios para proporcionar nuestros servicios. Estos datos pueden incluir: datos de navegación (dirección IP, tipo de navegador, páginas visitadas), cookies y tecnologías similares, y cualquier información que proporcione voluntariamente a través de formularios de contacto o correo electrónico."
+      },
+      {
+        "heading": "2. Cómo utilizamos su información",
+        "content": "Utilizamos la información recopilada para: mejorar el contenido del sitio web y la experiencia del usuario, analizar el tráfico y los patrones de uso, responder a consultas y cumplir con nuestras obligaciones legales."
+      },
+      {
+        "heading": "3. Servicios de terceros",
+        "content": "Nuestro sitio web puede utilizar servicios de terceros, como Google Maps (para mapas integrados y datos de ubicación) y Google Analytics (para análisis de tráfico). Estos servicios tienen sus propias políticas de privacidad."
+      },
+      {
+        "heading": "4. Sus derechos",
+        "content": "De acuerdo con el Reglamento General de Protección de Datos (GDPR) y regulaciones relacionadas, usted tiene derecho a: acceder a sus datos personales, solicitar corrección o eliminación, oponerse al procesamiento y presentar una queja ante una autoridad de control."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos de servicio",
+    "lastUpdated": "Última actualización: junio 2026",
+    "sections": [
+      {
+        "heading": "1. Aceptación de términos",
+        "content": "Al acceder y utilizar este sitio web, usted acepta estar sujeto a estos términos de servicio."
+      },
+      {
+        "heading": "2. Uso del contenido",
+        "content": "Todo el contenido de este sitio web es solo para fines informativos. Somos un sitio web independiente de información turística de terceros, no afiliado con ningún atractivo turístico, agencia gubernamental u operador comercial."
+      },
+      {
+        "heading": "3. Precisión de la información",
+        "content": "Nos esforzamos por proporcionar información precisa y oportuna, pero no podemos garantizar su integridad o precisión. Los itinerarios, condiciones y servicios están sujetos a cambios sin previo aviso. Verifique siempre la información importante a través de canales oficiales antes de viajar."
+      },
+      {
+        "heading": "4. Propiedad intelectual",
+        "content": "El diseño y el contenido original de este sitio web están protegidos por derechos de autor. El uso de datos de Google Maps cumple con los términos de servicio de Google."
+      },
+      {
+        "heading": "5. Limitación de responsabilidad",
+        "content": "Este sitio web se proporciona 'tal cual' sin ninguna garantía. No somos responsables de ninguna pérdida derivada del uso de la información en este sitio web, incluyendo pero no limitado a decisiones de viaje basadas en su contenido."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Configuración de cookies",
+    "description": "Última actualización: junio 2026\n\nUtilizamos cookies para mejorar su experiencia de navegación. Puede gestionar sus preferencias a continuación.",
+    "essential": {
+      "title": "Cookies esenciales",
+      "description": "Estas cookies son esenciales para el funcionamiento correcto del sitio web y no se pueden desactivar.",
+      "badge": "Siempre activas"
+    },
+    "analytics": {
+      "title": "Cookies analíticas",
+      "description": "Nos ayudan a comprender cómo interactúan los visitantes con nuestro sitio web mediante la recopilación de datos de uso anónimos.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Activo",
+          "description": "Recopila información anónima sobre cómo los visitantes utilizan nuestro sitio web."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Cookies de marketing",
+      "description": "Se utilizan para mostrar anuncios relevantes y medir la efectividad de las campañas publicitarias.",
+      "items": [
+        {
+          "name": "Anuncios personalizados",
+          "status": "Inactivo",
+          "description": "Puede mostrarle anuncios relevantes basados en sus intereses."
+        }
+      ]
+    },
+    "save": "Guardar preferencias",
+    "saved": "¡Preferencias guardadas!",
+    "preferences": {
+      "items": [
+        {
+          "name": "Preferencias del usuario",
+          "status": "Activo",
+          "description": "Guarda sus preferencias de idioma y configuración del sitio web."
+        }
+      ],
+      "title": "Cookies de preferencias",
+      "description": "Recuerdan sus configuraciones, como preferencias de idioma y tema."
+    },
+    "consentManagement": "Gestión de consentimiento: Puede cambiar su configuración de cookies en cualquier momento. Tenga en cuenta que desactivar ciertas cookies puede afectar la funcionalidad del sitio web.",
+    "rejectAll": "Rechazar todo"
+  },
+  "officialManagement": {
+    "title": "Acerca del Monumento Al Pipila",
+    "text": "El Monumento al Pípila se encuentra en Guanajuato, Estado de Guanajuato, México. Construido en 1939, el obelisco de 28 metros de altura honra a Juan José de los Reyes Martínez Amaro (apodado El Pípila), héroe de la Guerra de Independencia de México. El 28 de septiembre de 1810, durante el Sitio de Guanajuato, El Pípila valientemente prendió fuego a la puerta del fuerte español, haciendo una contribución crucial a la independencia mexicana. Hoy en día, es el mejor mirador para vistas panorámicas de la ciudad de Guanajuato, Patrimonio de la Humanidad de la UNESCO."
+  },
+  "historyTimeline": {
+    "title": "Línea de tiempo histórica",
+    "items": [
+      {
+        "year": "1782",
+        "title": "1782: Nacimiento de El Pípila",
+        "plaque": "Nacimiento de un héroe",
+        "description": "Juan José de los Reyes Martínez Amaro nació en la región de Guanajuato, México, trabajando como minero. Obtuvo el apodo El Pípila debido a una enfermedad de la piel (enfermedad pipila). A pesar de sus humildes orígenes, más tarde se convirtió en uno de los héroes más legendarios de la Guerra de Independencia de México."
+      },
+      {
+        "year": "1810",
+        "title": "28 de septiembre de 1810: Sitio de Guanajuato",
+        "plaque": "Hazaña heroica de El Pípila",
+        "description": "Durante el Sitio de Guanajuato en la Guerra de Independencia de México, el minero Juan José de los Reyes Martínez Amaro (apodado El Pípila) valientemente llevó una losa de piedra en llamas sobre su espalda y prendió fuego a la puerta de la Alhóndiga de Granaditas, el fuerte español, permitiendo que las fuerzas rebeldes capturaran esta key fortificación."
+      },
+      {
+        "year": "1939",
+        "title": "1939: Inauguración del monumento",
+        "plaque": "Monumento histórico completado",
+        "description": "Para honrar al héroe de la Guerra de Independencia El Pípila, la ciudad de Guanajuato erigió este obelisco de 28 metros de altura en el Cerro de San Miguel. El monumento fue diseñado por el arquitecto Agustín L. Rodríguez y abierto al público en 1939."
+      },
+      {
+        "year": "Hoy",
+        "title": "Hoy: Imperdible lugar cultural",
+        "plaque": "Guía para visitantes",
+        "description": "Hoy en día, el Monumento al Pípila es una de las atracciones turísticas más populares de Guanajuato y un importante lugar cultural de la ciudad Patrimonio de la Humanidad de la UNESCO. Los visitantes pueden caminar desde el centro o tomar el teleférico hasta la cima, disfrutar de las espectaculares vistas panorámicas desde la plaza del monumento, conocer la historia de la independencia mexicana y capturar fotos inolvidables."
+      }
+    ],
+    "guideTitle": "Consejo para visitantes",
+    "guideContent": "Al visitar, primero conoce sobre las **hazañas heroicas de El Pípila** en la Guerra de Independencia; luego dirígete a la **Plaza del Monumento** para una vista panorámica de 360 grados de la ciudad de Guanajuato, Patrimonio de la Humanidad de la UNESCO; captura fotos memorables en el **Mirador**; si el tiempo lo permite, visita al **atardecer** para disfrutar tanto del ocaso como de las vistas nocturnas. Camina desde el centro (unos 20-30 minutos) o toma el teleférico."
+  },
+  "pipilaStory": {
+    "title": "Hazañas heroicas de El Pípila",
+    "subtitle": "Héroe inmortal de la Guerra de Independencia de México",
+    "sections": [
+      {
+        "id": "origin",
+        "title": "Orígenes y el apodo",
+        "content": "Juan José de los Reyes Martínez Amaro nació en 1782 en la región de Guanajuato, México, trabajando como minero. Obtuvo el apodo El Pípila debido a una enfermedad de la piel (enfermedad pipila, una condición que causa engrosamiento de la piel). A pesar de sus humildes orígenes, más tarde se convirtió en uno de los héroes más legendarios de la Guerra de Independencia de México."
+      },
+      {
+        "id": "courage",
+        "title": "El acto valiente en el Sitio de Guanajuato",
+        "content": "El 28 de septiembre de 1810, durante el Sitio de Guanajuato en la Guerra de Independencia de México, El Pípila demostró una valentía extraordinaria. En ese momento, las fuerzas realistas españolas habían ocupado la Alhóndiga de Granaditas (un gran edificio de granero) como fuerte defensivo, y las fuerzas rebeldes habían fallado en múltiples intentos de capturarlo. El Pípila valientemente llevó una losa de piedra en llamas sobre su espalda, cargó hacia la puerta del fuerte, y exitosamente prendió fuego a la puerta de madera con la llama, abriendo el camino para que las fuerzas rebeldes capturaran el fuerte. Esta hazaña condujo directamente a la derrota de las fuerzas realistas españolas y se convirtió en un punto de inflexión clave en la Guerra de Independencia de México."
+      },
+      {
+        "id": "legacy",
+        "title": "Legado histórico y conmemoración",
+        "content": "Las hazañas heroicas de El Pípila dejaron una marca indeleble en la historia mexicana. Para conmemorar a este héroe de la Guerra de Independencia, el gobierno municipal de Guanajuato construyó este obelisco de 28 metros de altura en el Cerro de San Miguel en 1939. El monumento fue diseñado por el arquitecto Agustín L. Rodríguez y ahora se ha convertido en uno de los lugares más icónicos de Guanajuato y un símbolo importante del espíritu de independencia mexicana. Cada año, decenas de miles de visitantes vienen a visitar y rendir homenaje a este héroe que se dedicó a la independencia mexicana."
+      }
+    ]
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "meta": {
+    "title": "Monumento Al Pipila | 皮皮拉纪念碑 | 瓜纳华托观景台",
+    "description": "探索墨西哥瓜纳华托的 Monumento Al Pipila（皮皮拉纪念碑）。这座标志性纪念碑坐落在山丘之上，可俯瞰整个瓜纳华托城市的壮丽景色。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "Monumento Al Pipila",
+    "subtitle": "瓜纳华托州 · 墨西哥",
+    "rating": "4.7",
+    "reviewCount": "38,759",
+    "hours": "全天开放",
+    "openMaps": "查看位置"
+  },
+  "intro": {
+    "title": "探索 Monumento Al Pipila",
+    "description": "Monumento Al Pipila（皮皮拉纪念碑）位于墨西哥瓜纳华托州瓜纳华托市的山丘之上，是这座联合国世界遗产城市最具标志性的地标之一。纪念碑高 28 米，建于 1939 年，纪念墨西哥独立战争英雄 Juan José de los Reyes Martínez Amaro（绰号 El Pípila）。从纪念碑广场可以 360 度俯瞰瓜纳华托全城的壮丽景色，是游客必访的观景台。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "建议傍晚时分前往，可以欣赏日落和夜景",
+        "从市中心可步行上山（约 20-30 分钟）或乘坐缆车",
+        "带上相机，这里是拍摄瓜纳华托全景的最佳位置",
+        "山上风大，建议携带外套"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "核心亮点",
+      "items": [
+        "标志性纪念碑：高 28 米的方尖碑，建于 1939 年，纪念独立战争英雄 El Pípila。",
+        "全景观景台：360 度俯瞰瓜纳华托世界遗产城市，是拍摄城市全景的最佳地点。",
+        "历史意义：El Pípila 在 1810 年独立战争中英勇焚烧西班牙守军据点，是墨西哥独立的重要象征。",
+        "交通便利：可从市中心步行上山，也可乘坐缆车（teleférico）直达。"
+      ]
+    }
+  },
+  "route": {
+    "title": "游览路线",
+    "overview": "探索 Monumento Al Pipila 的理想路线，感受历史与全景的完美结合。",
+    "steps": [
+      "从瓜纳华托市中心（如联合花园 Jardín de la Unión）出发，沿山路步行约 20-30 分钟到达纪念碑。",
+      "在纪念碑广场欣赏瓜纳华托全景，拍摄城市和周围山脉的壮丽景色。",
+      "参观纪念碑本体，了解 El Pípila 在独立战争中的英勇事迹。",
+      "可选择乘坐缆车下山，或在黄昏时分欣赏城市夜景后返回。"
+    ],
+    "supplementsTitle": "游览补充建议",
+    "supplements": [
+      "缆车（teleférico）运营时间通常为周二至周日 10:00-18:00，建议提前确认。",
+      "傍晚时分是最佳游览时间，可以同时欣赏日落和城市夜景。",
+      "山上可能有小贩出售饮料和小吃，建议自带饮用水。",
+      "穿舒适的步行鞋，上山路段有一定坡度。"
+    ]
+  },
+  "knowledge": {
+    "title": "发现 Monumento Al Pipila 的魅力",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史意义",
+        "content": "Monumento Al Pipila 建于 1939 年，旨在纪念墨西哥独立战争中的英雄 Juan José de los Reyes Martínez Amaro（绰号 El Pípila）。1810 年 9 月 28 日，在瓜纳华托围城战中，El Pípila 背负着点燃的石板，英勇地焚烧了西班牙守军占据的阿尔霍迪斯亚托（Alhóndiga de Granaditas）的大门，为起义军攻占据点立下赫赫战功。这座纪念碑由建筑师 Agustín L. Rodríguez 设计，是瓜纳华托最重要的历史象征之一。"
+      },
+      {
+        "id": "nature",
+        "title": "观景体验",
+        "content": "Monumento Al Pipila 坐落在 Cerro de San Miguel 山丘之上，海拔约 2,000 米，是俯瞰瓜纳华托城市的绝佳位置。从这里可以 360 度观赏到瓜纳华托色彩斑斓的房屋、蜿蜒的街道、历史建筑群，以及远处起伏的山脉。尤其是在日落时分，整个城市被金色阳光笼罩，景色令人叹为观止。这里也是拍摄瓜纳华托全景照片的最经典机位。"
+      },
+      {
+        "id": "experience",
+        "title": "游览体验",
+        "content": "参观 Monumento Al Pipila 是一次融合历史与自然景观的绝佳体验。您可以沿山路步行上山，沿途欣赏瓜纳华托的城市风貌；或乘坐缆车（teleférico）直达，从空中俯瞰城市全景。到达后，在纪念碑广场漫步，了解 El Pípila 的英勇事迹，拍摄令人难忘的全景照片。这里也是观赏日落和夜景的绝佳地点，华灯初上时，整个瓜纳华托宛如一颗璀璨的宝石。"
+      },
+      {
+        "id": "rules",
+        "title": "游客须知",
+        "content": "1. 请尊重历史纪念碑，不要在纪念碑上涂鸦或攀爬。\n2. 观景台区域请注意安全，尤其是在夜间游览时。\n3. 请保持环境整洁，不要乱扔垃圾。\n4. 建议结伴游览，尤其是在傍晚和夜间。"
+      },
+      {
+        "id": "species",
+        "title": "周边景点",
+        "content": "Monumento Al Pipila 周边还有多个值得一游的景点：阿尔霍迪斯亚托（Alhóndiga de Granaditas，独立战争历史遗址）、瓜纳华托大教堂（Catedral Basílica de Guanajuato）、联合花园（Jardín de la Unión）、地下道路系统（Calles subterráneas）、以及著名的木乃伊博物馆（Museo de las Momias）。从纪念碑步行下山，可以轻松到达这些景点。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "Monumento Al Pipila",
+    "type": "景点类型",
+    "typeValue": "纪念碑 · 观景台",
+    "country": "国家",
+    "countryValue": "墨西哥",
+    "city": "州/省",
+    "cityValue": "瓜纳华托州瓜纳华托市",
+    "googleRating": "谷歌评分",
+    "address": "地址",
+    "addressValue": "Cerro de San Miguel S/N, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "2P7W+Q6 Guanajuato, Mexico"
+  },
+  "hours": {
+    "title": "开放时间",
+    "outdoor": "纪念碑广场",
+    "outdoorTime": "全天开放（公共广场区域）",
+    "lighthouse": "缆车运营时间",
+    "summer": "周二至周日",
+    "summerTime": "约 10:00-18:00（具体时间请提前确认）",
+    "winter": "周一",
+    "winterTime": "缆车休息（可步行上山）",
+    "warning": "重要提示",
+    "warningTime": "缆车运营时间可能随季节调整，建议提前核实最新信息",
+    "tip": "傍晚时分前往可以同时欣赏日落和城市夜景"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "outdoor": "纪念碑广场",
+    "outdoorPrice": "免费（公共广场）",
+    "lighthouse": "缆车（Teleférico）",
+    "adults": "成人往返",
+    "adultsPrice": "约 80-100 墨西哥比索（价格可能变动）",
+    "students": "儿童/学生",
+    "studentsPrice": "可能有折扣（需出示证件）",
+    "children": "步行上山",
+    "childrenPrice": "免费（从市中心步行约 20-30 分钟）",
+    "card": "建议",
+    "cardPrice": "傍晚前往欣赏日落，携带相机拍摄全景，穿舒适步行鞋"
+  },
+  "transport": {
+    "title": "交通方式",
+    "airport": "从机场出发",
+    "airportDesc": "最近机场：德尔巴乔国际机场（BJX），距瓜纳华托市区约 30 公里，从机场驾车约 30 分钟可到达市中心。",
+    "selfDrive": "自驾前往",
+    "selfDriveDesc": "从墨西哥城出发，沿墨西哥-瓜纳华托高速公路（MEX-45D）行驶约 5-6 小时可到达瓜纳华托。市区内山路较窄，建议将车停在市中心后步行或使用公共交通。",
+    "bus": "公共交通",
+    "busDesc": "从墨西哥城北终点站（Terminal del Norte）乘坐长途巴士前往瓜纳华托，车程约 5-6 小时。到达瓜纳华托后，可步行上山或乘坐缆车。",
+    "intercity": "市内交通",
+    "intercityDesc": "从市中心（如联合花园）步行上山约 20-30 分钟；或乘坐缆车（teleférico）直达纪念碑附近。也可乘坐出租车前往。",
+    "cycling": "周边服务",
+    "cyclingDesc": "纪念碑附近有停车场、小食摊、纪念品商店。市区内有银行、ATM、药房、餐厅、酒店等完善服务设施。",
+    "tips": "出行建议",
+    "tipsDesc": "Monumento Al Pipila 是瓜纳华托必访景点，建议傍晚前往，可以同时欣赏日落和夜景。从市中心步行上山是一条很有趣的路线。"
+  },
+  "gallery": {
+    "title": "精彩照片",
+    "subtitle": "Monumento Al Pipila 的魅力风光",
+    "captions": [
+      "纪念碑全景",
+      "瓜纳华托全景",
+      "纪念碑近景",
+      "城市俯瞰",
+      "日落景色",
+      "夜景灯光",
+      "方尖碑细节",
+      "观景台视角",
+      "山丘风光",
+      "彩色房屋全景"
+    ],
+    "viewAll": "在Google地图上查看位置",
+    "showAllPhotos": "显示全部照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
+    "moreReviews": "在Google地图上查看位置",
+    "items": [
+      {
+        "name": "Juan Carlos",
+        "date": "1个月前",
+        "rating": 5,
+        "text": "瓜纳华托必访的观景台！从这里我们 360 度俯瞰整个城市，景色令人叹为观止。日落时分尤其美丽，一定要来。"
+      },
+      {
+        "name": "María Fernanda",
+        "date": "2周前",
+        "rating": 5,
+        "text": "令人印象深刻的纪念碑，纪念墨西哥独立战争英雄 El Pípila。从这里拍摄的瓜纳华托全景照片简直完美，强烈推荐傍晚前来。"
+      },
+      {
+        "name": "Roberto López",
+        "date": "3周前",
+        "rating": 5,
+        "text": "从市中心步行上山约 20 分钟，沿途风景也很美。到达后看到的景色绝对值得一路的辛苦。这是瓜纳华托最重要的地标之一。"
+      },
+      {
+        "name": "Sofía Martínez",
+        "date": "1个月前",
+        "rating": 4,
+        "text": "很棒的城市观景台。纪念碑本身也很有历史意义，了解 El Pípila 的故事让人对墨西哥独立历史有更深的理解。夜景也非常漂亮。"
+      },
+      {
+        "name": "Alejandro Torres",
+        "date": "2个月前",
+        "rating": 5,
+        "text": "乘坐缆车上山是非常有趣的体验，从空中俯瞰瓜纳华托的城市布局别具一格。纪念碑广场是拍摄全景的最佳位置，一定不要错过。"
+      },
+      {
+        "name": "Luisa Hernández",
+        "date": "3周前",
+        "rating": 5,
+        "text": "这是我在瓜纳华托最喜欢的地方！360 度的城市全景令人难忘，尤其是华灯初上的时候，整个城市宛如童话。El Pípila 的英雄故事也让人动容。"
+      },
+      {
+        "name": "Miguel Ángel",
+        "date": "1个月前",
+        "rating": 4,
+        "text": "历史悠久的纪念碑，位置绝佳。可以在这里待上一个小时，静静地欣赏瓜纳华托的美景。建议带一瓶水，山上可能有点风。"
+      },
+      {
+        "name": "Carmen Rivera",
+        "date": "2周前",
+        "rating": 5,
+        "text": "完美的观景台！高 28 米的纪念碑非常壮观，从这里是拍摄瓜纳华托最经典照片的位置。一定要在日落前来，景色无与伦比。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "Cerro de San Miguel S/N, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "footer": {
+    "rights": "© 2026 Monumento Al Pipila. 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "相关资源与资讯",
+    "officialLinks": {
+      "visitmexico": {
+        "name": "墨西哥国家旅游局",
+        "url": "https://visitmexico.com/"
+      },
+      "sectur": {
+        "name": "墨西哥联邦政府旅游部",
+        "url": "https://www.gob.mx/sectur"
+      },
+      "guanajuatotravel": {
+        "name": "瓜纳华托州旅游局",
+        "url": "https://guanajuato.travel/"
+      },
+      "inah": {
+        "name": "国家遗产与历史名胜数据库",
+        "url": "https://lugares.inah.gob.mx/es"
+      },
+      "sre": {
+        "name": "墨西哥外交部",
+        "url": "https://www.gob.mx/sre"
+      }
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新时间：2026年6月",
+    "sections": [
+      {
+        "heading": "1. 我们收集的信息",
+        "content": "我们仅收集提供服务所必需的最低限度数据。这些数据可能包括：浏览数据（IP 地址、浏览器类型、访问页面）、Cookie 和类似技术，以及您通过联系表格或电子邮件自愿提供的任何信息。"
+      },
+      {
+        "heading": "2. 我们如何使用您的信息",
+        "content": "我们使用收集到的信息用于：改善网站内容和用户体验、分析流量和使用模式、回应请求，以及遵守我们的法律义务。"
+      },
+      {
+        "heading": "3. 第三方服务",
+        "content": "我们的网站可能会使用第三方服务，例如谷歌地图（用于嵌入式地图和位置数据）和谷歌分析（用于流量分析）。这些服务均有各自的隐私政策。"
+      },
+      {
+        "heading": "4. 您的权利",
+        "content": "根据《通用数据保护条例》(GDPR) 及相关法规，您享有以下权利：访问您的个人数据、要求更正或删除、反对处理，以及向监管机构提出投诉。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新时间：2026年6月",
+    "sections": [
+      {
+        "heading": "1. 接受条款",
+        "content": "访问和使用本网站，即表示您同意受这些服务条款的约束。"
+      },
+      {
+        "heading": "2. 内容使用",
+        "content": "本网站所有内容仅供参考。我们是一家独立的第三方旅游信息网站，与任何旅游景点、政府机构或商业运营商均无关联。"
+      },
+      {
+        "heading": "3. 信息的准确性",
+        "content": "我们力求提供准确及时的信息，但无法保证信息的完整性或准确性。行程安排、条件和服务如有变更，恕不另行通知。请务必在出行前通过官方渠道核实重要信息。"
+      },
+      {
+        "heading": "4. 知识产权",
+        "content": "本网站设计和原创内容受版权保护。Google 地图数据的使用符合 Google 的服务条款。"
+      },
+      {
+        "heading": "5. 责任限制",
+        "content": "本网站按现状提供，不作任何担保。对于因使用本网站信息而造成的任何损失，包括但不限于基于本网站内容做出的旅行决定，我们概不负责。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "最后更新时间：2026年6月\n\n我们使用 Cookie 来改善您的浏览体验。您可以在下方管理您的偏好设置。",
+    "essential": {
+      "title": "必要 Cookie",
+      "description": "这些 Cookie 对于网站正常运行至关重要，无法禁用。",
+      "badge": "始终保持活跃"
+    },
+    "analytics": {
+      "title": "分析型 Cookie",
+      "description": "它们通过收集匿名使用数据，帮助我们了解访客如何与我们的网站互动。",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "激活",
+          "description": "它会收集访客如何使用我们网站的匿名信息。"
+        }
+      ]
+    },
+    "marketing": {
+      "title": "营销 Cookie",
+      "description": "它们用于展示相关广告并衡量广告活动的有效性。",
+      "items": [
+        {
+          "name": "个性化广告",
+          "status": "停用",
+          "description": "它可以根据你的兴趣为你展示相关的广告。"
+        }
+      ]
+    },
+    "save": "保存偏好设置",
+    "saved": "设置已保存！",
+    "preferences": {
+      "items": [
+        {
+          "name": "用户偏好",
+          "status": "激活",
+          "description": "保存您的语言偏好和网站设置。"
+        }
+      ],
+      "title": "偏好 Cookie",
+      "description": "它们记住您的设置，例如语言和主题偏好。"
+    },
+    "consentManagement": "同意管理：您可以随时更改您的 Cookie 设置。请注意，禁用某些 Cookie 可能会影响网站的功能。",
+    "rejectAll": "拒绝一切"
+  },
+  "officialManagement": {
+    "title": "关于 Monumento Al Pipila",
+    "text": "Monumento Al Pipila 位于墨西哥瓜纳华托州瓜纳华托市，建于 1939 年，高 28 米，是纪念墨西哥独立战争英雄 Juan José de los Reyes Martínez Amaro（绰号 El Pípila）的纪念碑。1810 年 9 月 28 日，El Pípila 在瓜纳华托围城战中英勇焚烧了西班牙守军的据点大门，为墨西哥独立立下赫赫战功。如今，这里是俯瞰瓜纳华托世界遗产城市全景的最佳观景台。"
+  },
+  "historyTimeline": {
+    "title": "历史时间线",
+    "items": [
+      {
+        "year": "1782",
+        "title": "1782年：El Pípila 出生",
+        "plaque": "英雄的诞生",
+        "description": "Juan José de los Reyes Martínez Amaro 出生于墨西哥的瓜纳华托地区，是一位采矿工人。他因患有皮肤病（皮皮拉病）而获得绰号 El Pípila。尽管出身贫寒，他后来成为了墨西哥独立战争中的英雄人物。"
+      },
+      {
+        "year": "1810",
+        "title": "1810年9月28日：瓜纳华托围城战",
+        "plaque": "El Pípila 的英勇事迹",
+        "description": "在墨西哥独立战争的瓜纳华托围城战中，矿工 Juan José de los Reyes Martínez Amaro（绰号 El Pípila）背负点燃的石板，英勇地焚烧了西班牙守军占据的阿尔霍迪斯亚托（Alhóndiga de Granaditas）的大门，为起义军攻占据点立下关键功勋。"
+      },
+      {
+        "year": "1939",
+        "title": "1939年：纪念碑落成",
+        "plaque": "历史纪念碑建成",
+        "description": "为纪念独立战争英雄 El Pípila，瓜纳华托市政府在 Cerro de San Miguel 山丘上兴建了这座高 28 米的方尖碑纪念碑。纪念碑由建筑师 Agustín L. Rodríguez 设计，于 1939 年建成向公众开放。"
+      },
+      {
+        "year": "今天",
+        "title": "今日：必访的文化地标",
+        "plaque": "游客指南",
+        "description": "如今，Monumento Al Pipila 是瓜纳华托最受欢迎的旅游景点之一，也是联合国世界遗产城市的重要文化地标。游客可以步行上山或乘坐缆车（teleférico）到达，在纪念碑广场欣赏壮丽的全景，了解墨西哥独立历史，拍摄令人难忘的照片。"
+      }
+    ],
+    "guideTitle": "游客导览建议",
+    "guideContent": "参观时，可以先了解 **El Pípila** 在独立战争中的英勇事迹；然后前往**纪念碑广场**，360 度俯瞰瓜纳华托世界遗产城市的全景；在**观景台**拍摄令人难忘的照片；如果时间允许，建议在**日落时分**前来，同时欣赏日落和城市夜景。从市中心可步行上山（约 20-30 分钟）或乘坐缆车。"
+  },
+  "pipilaStory": {
+    "title": "El Pípila 的英勇事迹",
+    "subtitle": "墨西哥独立战争中的不朽英雄",
+    "sections": [
+      {
+        "id": "origin",
+        "title": "出身与绰号由来",
+        "content": "Juan José de los Reyes Martínez Amaro 于 1782 年出生在墨西哥的瓜纳华托地区，是一位采矿工人。他因患有皮肤疾病（皮皮拉病，一种导致皮肤变厚的疾病）而获得了绰号 El Pípila（皮皮拉）。尽管出身贫寒，他后来成为了墨西哥独立战争中最具传奇色彩的英雄人物之一。"
+      },
+      {
+        "id": "courage",
+        "title": "瓜纳华托围城战中的英勇壮举",
+        "content": "1810 年 9 月 28 日，在墨西哥独立战争的瓜纳华托围城战中，El Pípila 展现了非凡的勇气。当时，西班牙守军占据了阿尔霍迪斯亚托（Alhóndiga de Granaditas，一个大型粮仓建筑）作为防御据点，起义军多次进攻均告失败。El Pípila 勇敢地背负着一块点燃的石板，冲向据点的大门，用火焰成功焚烧了木制大门，为起义军攻占据点开辟了道路。这一壮举直接导致了西班牙守军的溃败，成为了墨西哥独立战争中的关键转折点。"
+      },
+      {
+        "id": "legacy",
+        "title": "历史遗产与纪念",
+        "content": "El Pípila 的英勇事迹在墨西哥历史上留下了不可磨灭的印记。为了纪念这位独立战争英雄，瓜纳华托市政府于 1939 年在 Cerro de San Miguel 山丘上兴建了这座高 28 米的方尖碑纪念碑。纪念碑由建筑师 Agustín L. Rodríguez 设计，如今已成为瓜纳华托最具标志性的地标之一，也是墨西哥独立精神的重要象征。每年都有成千上万的游客前来参观，缅怀这位为墨西哥独立献身的英雄。"
+      }
+    ]
+  }
+}

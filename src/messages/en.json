@@ -1,0 +1,406 @@
+{
+  "meta": {
+    "title": "Monumento Al Pipila | Guanajuato Viewpoint | Mexico",
+    "description": "Explore Monumento Al Pipila in Guanajuato, Mexico. This iconic monument sits atop a hill offering breathtaking panoramic views of the UNESCO World Heritage city of Guanajuato."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Monumento Al Pipila",
+    "subtitle": "Guanajuato · Mexico",
+    "rating": "4.7",
+    "reviewCount": "38,759",
+    "hours": "Open 24/7",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Explore Monumento Al Pipila",
+    "description": "Monumento Al Pipila is one of the most iconic landmarks of Guanajuato, a UNESCO World Heritage city in Guanajuato State, Mexico. The 28-meter high obelisk was built in 1939 to honor Juan José de los Reyes Martínez Amaro, nicknamed 'El Pípila', a hero of Mexico's War of Independence. From the monument plaza, visitors can enjoy a 360-degree panoramic view of Guanajuato, making it a must-visit viewpoint.",
+    "visitGuide": {
+      "title": "Visiting Tips",
+      "items": [
+        "Visit in the late afternoon to enjoy both sunset and night views",
+        "Walk up from downtown (about 20-30 minutes) or take the cable car",
+        "Bring a camera — this is the best spot for panoramic photos of Guanajuato",
+        "It can be windy on the hill, bring a jacket"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Iconic Monument: 28-meter high obelisk built in 1939, honoring Independence War hero El Pípila.",
+        "Panoramic Viewpoint: 360-degree view of Guanajuato's UNESCO World Heritage city, the best spot for panoramic photography.",
+        "Historical Significance: El Pípila bravely set fire to the Spanish stronghold in the 1810 Siege of Guanajuato, a key symbol of Mexican independence.",
+        "Easy Access: Walk up from downtown or take the cable car (teleférico) directly to the top."
+      ]
+    }
+  },
+  "route": {
+    "title": "Tour Route",
+    "overview": "Discover the ideal route to explore Monumento Al Pipila and experience the perfect combination of history and panoramic views.",
+    "steps": [
+      "Start from downtown Guanajuato (e.g., Jardín de la Unión) and walk up the hill road for about 20-30 minutes to reach the monument.",
+      "Enjoy the panoramic view of Guanajuato from the monument plaza, capturing photos of the city and surrounding mountains.",
+      "Visit the monument itself and learn about El Pípila's heroic deeds in the War of Independence.",
+      "Optionally take the cable car down, or stay for sunset and night views before heading back."
+    ],
+    "supplementsTitle": "Additional Tour Tips",
+    "supplements": [
+      "Cable car (teleférico) typically operates Tuesday-Sunday 10:00-18:00, please verify in advance.",
+      "Late afternoon is the best time to visit, as you can enjoy both sunset and night views.",
+      "There may be small vendors selling drinks and snacks on the hill, but bring your own water.",
+      "Wear comfortable walking shoes, as the uphill route has some incline."
+    ]
+  },
+  "knowledge": {
+    "title": "Discover the Charm of Monumento Al Pipila",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historical Significance",
+        "content": "Monumento Al Pipila was built in 1939 to honor Juan José de los Reyes Martínez Amaro, nicknamed El Pípila, a hero of Mexico's War of Independence. On September 28, 1810, during the Siege of Guanajuato, El Pípila bravely carried a flaming slab of stone on his back and set fire to the gate of the Alhóndiga de Granaditas, the Spanish stronghold, enabling the rebel forces to capture the fort. The monument was designed by architect Agustín L. Rodríguez and is one of Guanajuato's most important historical symbols."
+      },
+      {
+        "id": "nature",
+        "title": "Viewing Experience",
+        "content": "Monumento Al Pipila sits atop Cerro de San Miguel at an elevation of about 2,000 meters, offering an exceptional vantage point over Guanajuato. Visitors can enjoy a 360-degree view of the city's colorful houses, winding streets, historic architecture, and the surrounding mountain ranges. Especially at sunset, the entire city is bathed in golden light — a breathtaking sight. This is also the most classic spot for taking panoramic photos of Guanajuato."
+      },
+      {
+        "id": "experience",
+        "title": "Visiting Experience",
+        "content": "Visiting Monumento Al Pipila is a perfect blend of history and natural scenery. You can walk up the hill road from downtown, enjoying views of Guanajuato along the way, or take the cable car (teleférico) directly to the top for an aerial view of the city. Once there, stroll around the monument plaza, learn about El Pípila's heroic story, and capture unforgettable panoramic photos. This is also an excellent spot for sunset and night photography, when the city lights create a dazzling display."
+      },
+      {
+        "id": "rules",
+        "title": "Visitor Guidelines",
+        "content": "1. Please respect the historical monument, do not graffiti or climb on the monument.\n2. Please be mindful of safety in the viewpoint area, especially when visiting at night.\n3. Please keep the environment clean, do not litter.\n4. It is recommended to visit in groups, especially in the evening and at night."
+      },
+      {
+        "id": "species",
+        "title": "Nearby Attractions",
+        "content": "There are several other attractions worth visiting near Monumento Al Pipila: Alhóndiga de Granaditas (Independence War historic site), Catedral Basílica de Guanajuato, Jardín de la Unión (Union Garden), underground road system (Calles subterráneas), and the famous Museo de las Momias (Mummy Museum). From the monument, you can easily walk down to these attractions."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Monumento Al Pipila",
+    "type": "Site Type",
+    "typeValue": "Monument · Viewpoint",
+    "country": "Country",
+    "countryValue": "Mexico",
+    "city": "State/Province",
+    "cityValue": "Guanajuato, Guanajuato State",
+    "googleRating": "Google Rating",
+    "address": "Address",
+    "addressValue": "Cerro de San Miguel S/N, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "2P7W+Q6 Guanajuato, Mexico"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "outdoor": "Monument Plaza",
+    "outdoorTime": "Open 24/7 (Public plaza area)",
+    "lighthouse": "Cable Car (Teleférico)",
+    "summer": "Tuesday to Sunday",
+    "summerTime": "Approximately 10:00-18:00 (please verify in advance)",
+    "winter": "Monday",
+    "winterTime": "Cable car closed (can walk up)",
+    "warning": "Important Notes",
+    "warningTime": "Cable car schedule may vary by season, please verify the latest information before visiting",
+    "tip": "Visit in the late afternoon to enjoy both sunset and night views"
+  },
+  "tickets": {
+    "title": "Ticket Information",
+    "outdoor": "Monument Plaza",
+    "outdoorPrice": "Free (public plaza)",
+    "lighthouse": "Cable Car (Teleférico)",
+    "adults": "Round-trip Adult",
+    "adultsPrice": "Approximately 80-100 MXN (price subject to change)",
+    "students": "Children/Students",
+    "studentsPrice": "Discount may be available (valid ID required)",
+    "children": "Walk Up",
+    "childrenPrice": "Free (about 20-30 minutes walk from downtown)",
+    "card": "Tips",
+    "cardPrice": "Visit at sunset for great photos, bring a camera, wear comfortable walking shoes"
+  },
+  "transport": {
+    "title": "Transportation",
+    "airport": "From the Airport",
+    "airportDesc": "Nearest airport: Del Bajío International Airport (BJX), about 30 km from Guanajuato downtown, about 30 minutes drive to the city center.",
+    "selfDrive": "Driving",
+    "selfDriveDesc": "From Mexico City, take the Mexico-Guanajuato Highway (MEX-45D), about 5-6 hours to Guanajuato. The city streets are narrow and winding, it is recommended to park downtown and walk or use public transport.",
+    "bus": "Public Transport",
+    "busDesc": "From Mexico City Terminal del Norte, take a long-distance bus to Guanajuato, about 5-6 hours. After arriving in Guanajuato, walk up or take the cable car.",
+    "intercity": "Local Transport",
+    "intercityDesc": "Walk up from downtown (e.g., Jardín de la Unión) in about 20-30 minutes; or take the cable car (teleférico) directly to the monument area. Taxis are also available.",
+    "cycling": "Nearby Services",
+    "cyclingDesc": "Near the monument there are parking areas, small food stalls, and souvenir shops. In the city center there are banks, ATMs, pharmacies, restaurants, hotels and other complete service facilities.",
+    "tips": "Travel Tips",
+    "tipsDesc": "Monumento Al Pipila is a must-visit attraction in Guanajuato. Visit in the late afternoon to enjoy both sunset and night views. Walking up from downtown is a very interesting route."
+  },
+  "gallery": {
+    "title": "Stunning Photos",
+    "subtitle": "The Charm of Monumento Al Pipila",
+    "captions": [
+      "Monument panoramic view",
+      "Guanajuato panorama",
+      "Monument close-up",
+      "City overlook",
+      "Sunset view",
+      "Night lights",
+      "Obelisk detail",
+      "Viewpoint perspective",
+      "Hill scenery",
+      "Colorful houses panorama"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAllPhotos": "Show All Photos"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Review information can be viewed via Google Maps (external link).",
+    "moreReviews": "View on Google Maps",
+    "items": [
+      {
+        "name": "Juan Carlos",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "A must-visit viewpoint in Guanajuato! We enjoyed a 360-degree view of the entire city from here, the scenery is breathtaking. Especially beautiful at sunset, definitely come here."
+      },
+      {
+        "name": "María Fernanda",
+        "date": "2 weeks ago",
+        "rating": 5,
+        "text": "An impressive monument honoring El Pípila, a hero of Mexico's War of Independence. The panoramic photos of Guanajuato taken from here are simply perfect, highly recommend visiting in the evening."
+      },
+      {
+        "name": "Roberto López",
+        "date": "3 weeks ago",
+        "rating": 5,
+        "text": "About 20 minutes walk up from downtown, the scenery along the way is also beautiful. The view after arrival is absolutely worth the effort. This is one of Guanajuato's most important landmarks."
+      },
+      {
+        "name": "Sofía Martínez",
+        "date": "1 month ago",
+        "rating": 4,
+        "text": "Great city viewpoint. The monument itself is also historically significant, learning about El Pípila's story gives deeper understanding of Mexican independence history. Night view is also very beautiful."
+      },
+      {
+        "name": "Alejandro Torres",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "Taking the cable car up the hill is a very fun experience, overlooking Guanajuato from the air offers a unique perspective. The monument plaza is the best spot for panoramic photos, don't miss it."
+      },
+      {
+        "name": "Luisa Hernández",
+        "date": "3 weeks ago",
+        "rating": 5,
+        "text": "This is my favorite place in Guanajuato! The 360-degree city panorama is unforgettable, especially when the city lights come on at dusk, the entire city is like a fairy tale. El Pípila's heroic story is also moving."
+      },
+      {
+        "name": "Miguel Ángel",
+        "date": "1 month ago",
+        "rating": 4,
+        "text": "Historic monument in a great location. You can spend an hour here quietly enjoying the beauty of Guanajuato. Recommend bringing a bottle of water, it can be windy on the hill."
+      },
+      {
+        "name": "Carmen Rivera",
+        "date": "2 weeks ago",
+        "rating": 5,
+        "text": "Perfect viewpoint! The 28-meter high monument is very spectacular, this is the most classic spot for taking photos of Guanajuato. Definitely come at sunset, the view is incomparable."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Location & Map",
+    "subtitle": "Cerro de San Miguel S/N, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Monumento Al Pipila. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources",
+    "officialLinks": {
+      "visitmexico": {
+        "name": "Mexico National Tourism Board",
+        "url": "https://visitmexico.com/"
+      },
+      "sectur": {
+        "name": "Secretary of Tourism of Mexico",
+        "url": "https://www.gob.mx/sectur"
+      },
+      "guanajuatotravel": {
+        "name": "Guanajuato State Tourism",
+        "url": "https://guanajuato.travel/"
+      },
+      "inah": {
+        "name": "National Heritage and Historic Monuments Database",
+        "url": "https://lugares.inah.gob.mx/es"
+      },
+      "sre": {
+        "name": "Ministry of Foreign Affairs of Mexico",
+        "url": "https://www.gob.mx/sre"
+      }
+    },
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Information We Collect",
+        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+      },
+      {
+        "heading": "2. How We Use Your Information",
+        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+      },
+      {
+        "heading": "3. Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data) and Google Analytics (for traffic analysis). These services have their own privacy policies."
+      },
+      {
+        "heading": "4. Your Rights",
+        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+      },
+      {
+        "heading": "2. Use of Content",
+        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+      },
+      {
+        "heading": "3. Accuracy of Information",
+        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+      },
+      {
+        "heading": "4. Intellectual Property",
+        "content": "The design and original content of this website are protected by copyright. The use of Google Maps data complies with Google's terms of service."
+      },
+      {
+        "heading": "5. Limitation of Liability",
+        "content": "This website is provided \"as is\" without any warranties. We are not responsible for any losses resulting from the use of information on this website, including but not limited to travel decisions made based on its content."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Last Updated: June 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Active",
+          "description": "It collects anonymous information about how visitors use our website."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
+      "items": [
+        {
+          "name": "Personalized Ads",
+          "status": "Inactive",
+          "description": "It can show you relevant ads based on your interests."
+        }
+      ]
+    },
+    "save": "Save Preferences",
+    "saved": "Settings saved!",
+    "preferences": {
+      "items": [
+        {
+          "name": "User Preferences",
+          "status": "Active",
+          "description": "Saves your language preferences and website settings."
+        }
+      ],
+      "title": "Preference Cookies",
+      "description": "They remember your settings, such as language and theme preferences."
+    },
+    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
+    "rejectAll": "Reject All"
+  },
+  "officialManagement": {
+    "title": "About Monumento Al Pipila",
+    "text": "Monumento Al Pipila is located in Guanajuato, Guanajuato State, Mexico. Built in 1939, the 28-meter high obelisk honors Juan José de los Reyes Martínez Amaro (nicknamed El Pípila), a hero of Mexico's War of Independence. On September 28, 1810, during the Siege of Guanajuato, El Pípila bravely set fire to the gate of the Spanish stronghold, making a crucial contribution to Mexican independence. Today, it is the best viewpoint for panoramic views of the UNESCO World Heritage city of Guanajuato."
+  },
+  "historyTimeline": {
+    "title": "History Timeline",
+    "items": [
+      {
+        "year": "1782",
+        "title": "1782: Birth of El Pípila",
+        "plaque": "Birth of a Hero",
+        "description": "Juan José de los Reyes Martínez Amaro was born in the Guanajuato region of Mexico, a mining worker. He got the nickname El Pípila due to a skin disease (pipila disease). Despite his humble origins, he later became one of the most legendary hero figures in Mexico's War of Independence."
+      },
+      {
+        "year": "1810",
+        "title": "September 28, 1810: Siege of Guanajuato",
+        "plaque": "El Pípila's Heroic Deed",
+        "description": "During the Siege of Guanajuato in Mexico's War of Independence, miner Juan José de los Reyes Martínez Amaro (nicknamed El Pípila) bravely carried a flaming slab of stone on his back and set fire to the gate of the Alhóndiga de Granaditas, the Spanish stronghold, enabling the rebel forces to capture this key fortification."
+      },
+      {
+        "year": "1939",
+        "title": "1939: Monument Inaugurated",
+        "plaque": "Historic Monument Completed",
+        "description": "To honor the Independence War hero El Pípila, the City of Guanajuato erected this 28-meter high obelisk monument on Cerro de San Miguel. The monument was designed by architect Agustín L. Rodríguez and opened to the public in 1939."
+      },
+      {
+        "year": "Today",
+        "title": "Today: Must-Visit Cultural Landmark",
+        "plaque": "Visitor Guide",
+        "description": "Today, Monumento Al Pipila is one of Guanajuato's most popular tourist attractions and an important cultural landmark of the UNESCO World Heritage city. Visitors can walk up from downtown or take the cable car (teleférico) to reach the top, enjoy the spectacular panoramic views from the monument plaza, learn about Mexican independence history, and capture unforgettable photos."
+      }
+    ],
+    "guideTitle": "Visitor Guide Tip",
+    "guideContent": "When visiting, first learn about **El Pípila's** heroic deeds in the War of Independence; then head to the **Monument Plaza** for a 360-degree panoramic view of the UNESCO World Heritage city of Guanajuato; capture memorable photos at the **Viewpoint**; if time permits, visit at **sunset** to enjoy both sunset and night views. Walk up from downtown (about 20-30 minutes) or take the cable car."
+  },
+  "pipilaStory": {
+    "title": "El Pípila's Heroic Deeds",
+    "subtitle": "An Immortal Hero of Mexico's War of Independence",
+    "sections": [
+      {
+        "id": "origin",
+        "title": "Origins and the Nickname",
+        "content": "Juan José de los Reyes Martínez Amaro was born in 1782 in the Guanajuato region of Mexico, working as a mining laborer. He acquired the nickname El Pípila due to a skin disease (pipila disease, a condition that causes skin thickening). Despite his humble origins, he later became one of the most legendary hero figures in Mexico's War of Independence."
+      },
+      {
+        "id": "courage",
+        "title": "The Brave Act in the Siege of Guanajuato",
+        "content": "On September 28, 1810, during the Siege of Guanajuato in Mexico's War of Independence, El Pípila demonstrated extraordinary courage. At that time, Spanish royal forces had occupied the Alhóndiga de Granaditas (a large granary building) as a defensive stronghold, and the rebel forces had failed in multiple attempts to capture it. El Pípila bravely carried a flaming slab of stone on his back, charged toward the stronghold's gate, and successfully set the wooden gate on fire with the flame, opening the way for the rebel forces to capture the stronghold. This feat directly led to the defeat of the Spanish royal forces and became a key turning point in Mexico's War of Independence."
+      },
+      {
+        "id": "legacy",
+        "title": "Historical Legacy and Commemoration",
+        "content": "El Pípila's heroic deeds left an indelible mark on Mexican history. To commemorate this Independence War hero, the Guanajuato municipal government built this 28-meter high obelisk monument on Cerro de San Miguel in 1939. The monument was designed by architect Agustín L. Rodríguez and has now become one of Guanajuato's most iconic landmarks and an important symbol of the Mexican independence spirit. Every year, tens of thousands of visitors come to visit and pay tribute to this hero who dedicated himself to Mexican independence."
+      }
+    ]
+  }
+}
