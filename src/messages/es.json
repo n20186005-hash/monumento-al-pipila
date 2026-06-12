@@ -35,7 +35,7 @@
       "items": [
         "Monumento icónico: Obelisco de 28 metros construido en 1939, honrando al héroe de la Independencia El Pípila.",
         "Mirador panorámico: Vista de 360 grados de la ciudad de Guanajuato, el mejor lugar para fotografía panorámica.",
-        "Significado histórico: El Pípila prendió fuego valientemente al fuerte español en el Sitio de Guanajuato de 1810, un símbolo clave de la independencia mexicana.",
+        "Significado histórico: El Pípila prendió fuego valientemente a la puerta de madera del fuerte español en el Sitio de Guanajuato de 1810, un símbolo clave de la independencia mexicana.",
         "Fácil acceso: Camina desde el centro o toma el teleférico directamente hasta la cima."
       ]
     }
@@ -51,7 +51,7 @@
     ],
     "supplementsTitle": "Consejos adicionales",
     "supplements": [
-      "El teleférico generalmente opera martes a domingo 10:00-18:00, por favor verifica con anticipación.",
+      "El teleférico generalmente es totalmente operativo de Lunes a Domingo, por favor verifique los horarios específicos con anticipación.",
       "El atardecer es el mejor momento para visitar, ya que puedes disfrutar tanto del ocaso como de las vistas nocturnas.",
       "Puede haber pequeños vendedores en el cerro, pero lleva tu propia agua.",
       "Usa zapatos cómodos para caminar, ya que la ruta cuesta arriba tiene cierta inclinación."
@@ -63,7 +63,7 @@
       {
         "id": "history",
         "title": "Significado histórico",
-        "content": "El Monumento al Pípila fue construido en 1939 para honrar a Juan José de los Reyes Martínez Amaro, apodado El Pípila, héroe de la Guerra de Independencia de México. El 28 de septiembre de 1810, durante el Sitio de Guanajuato, El Pípila valientemente llevó una losa de piedra en llamas sobre su espalda y prendió fuego a la puerta de la Alhóndiga de Granaditas, el fuerte español, permitiendo que las fuerzas rebeldes capturaran la fortaleza. El monumento fue diseñado por el arquitecto Agustín L. Rodríguez y es uno de los símbolos históricos más importantes de Guanajuato."
+        "content": "El Monumento al Pípila fue construido en 1939 para honrar a Juan José de los Reyes Martínez Amaro, apodado El Pípila, héroe de la Guerra de Independencia de México. El 28 de septiembre de 1810, durante el Sitio de Guanajuato, El Pípila cargó una pesada losa de piedra sobre su espalda como escudo antibalas, desafió una lluvia de balas para cargar contra la puerta, y usó su antorcha y alquitrán para prender fuego a la puerta de madera de la Alhóndiga de Granaditas, un gran granero público ocupado como fuerte español, permitiendo que las fuerzas rebeldes capturaran la fortaleza. El monumento fue diseñado conjuntamente por el escultor Juan Fernando Olaguíbel y el arquitecto Augusto Petriccioli, y es uno de los símbolos históricos más importantes de Guanajuato."
       },
       {
         "id": "nature",
@@ -100,18 +100,16 @@
     "googleRating": "Calificación de Google",
     "address": "Dirección",
     "addressValue": "Cerro de San Miguel S/N, Zona Centro, 36000 Guanajuato, Gto., Mexico",
-    "plusCode": "Plus Code",
-    "plusCodeValue": "2P7W+Q6 Guanajuato, Mexico"
+    "plusCode": "Coordenadas GPS",
+    "plusCodeValue": "21.0160° N, 101.2534° W"
   },
   "hours": {
     "title": "Horarios",
     "outdoor": "Plaza del monumento",
     "outdoorTime": "Abierto 24/7 (área de plaza pública)",
     "lighthouse": "Teleférico",
-    "summer": "Martes a domingo",
-    "summerTime": "Aproximadamente 10:00-18:00 (por favor verifica con anticipación)",
-    "winter": "Lunes",
-    "winterTime": "Teleférico cerrado (se puede caminar hacia arriba)",
+    "summer": "Lunes a Domingo",
+    "summerTime": "Totalmente operativo (por favor verifique los horarios específicos con anticipación)",
     "warning": "Notas importantes",
     "warningTime": "El horario del teleférico puede variar según la temporada, verifique la información más reciente antes de visitar",
     "tip": "Visita en el atardecer para disfrutar tanto del ocaso como de las vistas nocturnas"
@@ -358,19 +356,19 @@
         "year": "1782",
         "title": "1782: Nacimiento de El Pípila",
         "plaque": "Nacimiento de un héroe",
-        "description": "Juan José de los Reyes Martínez Amaro nació en la región de Guanajuato, México, trabajando como minero. Obtuvo el apodo El Pípila debido a una enfermedad de la piel (enfermedad pipila). A pesar de sus humildes orígenes, más tarde se convirtió en uno de los héroes más legendarios de la Guerra de Independencia de México."
+        "description": "Juan José de los Reyes Martínez Amaro nació en la región de Guanajuato, México, trabajando como minero. Obtuvo el apodo de El Pípila (que significa 'pavo hembra' en la jerga local) porque su rostro pecoso parecía un huevo de pavo. A pesar de sus humildes orígenes, más tarde se convirtió en uno de los héroes más legendarios de la Guerra de Independencia de México."
       },
       {
         "year": "1810",
         "title": "28 de septiembre de 1810: Sitio de Guanajuato",
         "plaque": "Hazaña heroica de El Pípila",
-        "description": "Durante el Sitio de Guanajuato en la Guerra de Independencia de México, el minero Juan José de los Reyes Martínez Amaro (apodado El Pípila) valientemente llevó una losa de piedra en llamas sobre su espalda y prendió fuego a la puerta de la Alhóndiga de Granaditas, el fuerte español, permitiendo que las fuerzas rebeldes capturaran esta key fortificación."
+        "description": "Durante el Sitio de Guanajuato en la Guerra de Independencia de México, el minero Juan José de los Reyes Martínez Amaro (apodado El Pípila) cargó una pesada losa de piedra sobre su espalda como escudo antibalas, desafió una lluvia de balas para cargar contra la puerta, y usó su antorcha y alquitrán para prender fuego a la puerta de madera de la Alhóndiga de Granaditas, un gran granero público ocupado por el fuerte español, permitiendo que las fuerzas rebeldes capturaran esta fortificación clave."
       },
       {
         "year": "1939",
         "title": "1939: Inauguración del monumento",
         "plaque": "Monumento histórico completado",
-        "description": "Para honrar al héroe de la Guerra de Independencia El Pípila, la ciudad de Guanajuato erigió este obelisco de 28 metros de altura en el Cerro de San Miguel. El monumento fue diseñado por el arquitecto Agustín L. Rodríguez y abierto al público en 1939."
+        "description": "Para honrar al héroe de la Guerra de Independencia El Pípila, la ciudad de Guanajuato erigió este obelisco de 28 metros de altura en el Cerro de San Miguel. El monumento fue diseñado conjuntamente por el escultor Juan Fernando Olaguíbel y el arquitecto Augusto Petriccioli, y abierto al público en 1939."
       },
       {
         "year": "Hoy",
@@ -389,17 +387,17 @@
       {
         "id": "origin",
         "title": "Orígenes y el apodo",
-        "content": "Juan José de los Reyes Martínez Amaro nació en 1782 en la región de Guanajuato, México, trabajando como minero. Obtuvo el apodo El Pípila debido a una enfermedad de la piel (enfermedad pipila, una condición que causa engrosamiento de la piel). A pesar de sus humildes orígenes, más tarde se convirtió en uno de los héroes más legendarios de la Guerra de Independencia de México."
+        "content": "Juan José de los Reyes Martínez Amaro nació en 1782 en la región de Guanajuato, México, trabajando como minero. Obtuvo el apodo de El Pípila (que significa 'pavo hembra' en la jerga local) porque su rostro pecoso parecía un huevo de pavo. A pesar de sus humildes orígenes, más tarde se convirtió en uno de los héroes más legendarios de la Guerra de Independencia de México."
       },
       {
         "id": "courage",
         "title": "El acto valiente en el Sitio de Guanajuato",
-        "content": "El 28 de septiembre de 1810, durante el Sitio de Guanajuato en la Guerra de Independencia de México, El Pípila demostró una valentía extraordinaria. En ese momento, las fuerzas realistas españolas habían ocupado la Alhóndiga de Granaditas (un gran edificio de granero) como fuerte defensivo, y las fuerzas rebeldes habían fallado en múltiples intentos de capturarlo. El Pípila valientemente llevó una losa de piedra en llamas sobre su espalda, cargó hacia la puerta del fuerte, y exitosamente prendió fuego a la puerta de madera con la llama, abriendo el camino para que las fuerzas rebeldes capturaran el fuerte. Esta hazaña condujo directamente a la derrota de las fuerzas realistas españolas y se convirtió en un punto de inflexión clave en la Guerra de Independencia de México."
+        "content": "El 28 de septiembre de 1810, durante el Sitio de Guanajuato en la Guerra de Independencia de México, El Pípila demostró una valentía extraordinaria. En ese momento, las fuerzas realistas españolas habían ocupado la Alhóndiga de Granaditas (un gran edificio de granero público que servía como fortaleza natural debido a su estructura robusta y sus pocas ventanas altas) como fuerte defensivo, y las fuerzas rebeldes habían fallado en múltiples intentos de capturarlo. El Pípila cargó una pesada losa de piedra sobre su espalda como escudo antibalas, desafió una lluvia de balas para cargar contra la puerta, y exitosamente prendió fuego a la puerta de madera con su antorcha y alquitrán, abriendo el camino para que las fuerzas rebeldes capturaran el fuerte. Esta hazaña condujo directamente a la derrota de las fuerzas realistas españolas y se convirtió en un punto de inflexión clave en la Guerra de Independencia de México."
       },
       {
         "id": "legacy",
         "title": "Legado histórico y conmemoración",
-        "content": "Las hazañas heroicas de El Pípila dejaron una marca indeleble en la historia mexicana. Para conmemorar a este héroe de la Guerra de Independencia, el gobierno municipal de Guanajuato construyó este obelisco de 28 metros de altura en el Cerro de San Miguel en 1939. El monumento fue diseñado por el arquitecto Agustín L. Rodríguez y ahora se ha convertido en uno de los lugares más icónicos de Guanajuato y un símbolo importante del espíritu de independencia mexicana. Cada año, decenas de miles de visitantes vienen a visitar y rendir homenaje a este héroe que se dedicó a la independencia mexicana."
+        "content": "Las hazañas heroicas de El Pípila dejaron una marca indeleble en la historia mexicana. Para conmemorar a este héroe de la Guerra de Independencia, el gobierno municipal de Guanajuato construyó este obelisco de 28 metros de altura en el Cerro de San Miguel en 1939. El monumento fue diseñado conjuntamente por el escultor Juan Fernando Olaguíbel y el arquitecto Augusto Petriccioli, y ahora se ha convertido en uno de los lugares más icónicos de Guanajuato y un símbolo importante del espíritu de independencia mexicana. Cada año, decenas de miles de visitantes vienen a visitar y rendir homenaje a este héroe que se dedicó a la independencia mexicana."
       }
     ]
   }

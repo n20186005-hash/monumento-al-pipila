@@ -35,7 +35,7 @@
       "items": [
         "Iconic Monument: 28-meter high obelisk built in 1939, honoring Independence War hero El Pípila.",
         "Panoramic Viewpoint: 360-degree view of Guanajuato's UNESCO World Heritage city, the best spot for panoramic photography.",
-        "Historical Significance: El Pípila bravely set fire to the Spanish stronghold in the 1810 Siege of Guanajuato, a key symbol of Mexican independence.",
+        "Historical Significance: El Pípila bravely set fire to the Spanish stronghold's wooden gate in the 1810 Siege of Guanajuato, a key symbol of Mexican independence.",
         "Easy Access: Walk up from downtown or take the cable car (teleférico) directly to the top."
       ]
     }
@@ -51,7 +51,7 @@
     ],
     "supplementsTitle": "Additional Tour Tips",
     "supplements": [
-      "Cable car (teleférico) typically operates Tuesday-Sunday 10:00-18:00, please verify in advance.",
+      "Cable car (teleférico) is typically fully operational Monday to Sunday, please verify specific times in advance.",
       "Late afternoon is the best time to visit, as you can enjoy both sunset and night views.",
       "There may be small vendors selling drinks and snacks on the hill, but bring your own water.",
       "Wear comfortable walking shoes, as the uphill route has some incline."
@@ -63,7 +63,7 @@
       {
         "id": "history",
         "title": "Historical Significance",
-        "content": "Monumento Al Pipila was built in 1939 to honor Juan José de los Reyes Martínez Amaro, nicknamed El Pípila, a hero of Mexico's War of Independence. On September 28, 1810, during the Siege of Guanajuato, El Pípila bravely carried a flaming slab of stone on his back and set fire to the gate of the Alhóndiga de Granaditas, the Spanish stronghold, enabling the rebel forces to capture the fort. The monument was designed by architect Agustín L. Rodríguez and is one of Guanajuato's most important historical symbols."
+        "content": "Monumento Al Pipila was built in 1939 to honor Juan José de los Reyes Martínez Amaro, nicknamed El Pípila, a hero of Mexico's War of Independence. On September 28, 1810, during the Siege of Guanajuato, El Pípila carried a heavy stone slab on his back as a bulletproof shield, braved a hail of bullets to charge the gate, and used his torch and tar to set fire to the wooden gate of the Alhóndiga de Granaditas, a large public granary occupied by the Spanish stronghold, enabling the rebel forces to capture the fort. The monument was jointly designed by sculptor Juan Fernando Olaguíbel and architect Augusto Petriccioli, and is one of Guanajuato's most important historical symbols."
       },
       {
         "id": "nature",
@@ -100,18 +100,16 @@
     "googleRating": "Google Rating",
     "address": "Address",
     "addressValue": "Cerro de San Miguel S/N, Zona Centro, 36000 Guanajuato, Gto., Mexico",
-    "plusCode": "Plus Code",
-    "plusCodeValue": "2P7W+Q6 Guanajuato, Mexico"
+    "plusCode": "GPS Coordinates",
+    "plusCodeValue": "21.0160° N, 101.2534° W"
   },
   "hours": {
     "title": "Opening Hours",
     "outdoor": "Monument Plaza",
     "outdoorTime": "Open 24/7 (Public plaza area)",
     "lighthouse": "Cable Car (Teleférico)",
-    "summer": "Tuesday to Sunday",
-    "summerTime": "Approximately 10:00-18:00 (please verify in advance)",
-    "winter": "Monday",
-    "winterTime": "Cable car closed (can walk up)",
+    "summer": "Monday to Sunday",
+    "summerTime": "Fully operational (please verify specific times in advance)",
     "warning": "Important Notes",
     "warningTime": "Cable car schedule may vary by season, please verify the latest information before visiting",
     "tip": "Visit in the late afternoon to enjoy both sunset and night views"
@@ -358,19 +356,19 @@
         "year": "1782",
         "title": "1782: Birth of El Pípila",
         "plaque": "Birth of a Hero",
-        "description": "Juan José de los Reyes Martínez Amaro was born in the Guanajuato region of Mexico, a mining worker. He got the nickname El Pípila due to a skin disease (pipila disease). Despite his humble origins, he later became one of the most legendary hero figures in Mexico's War of Independence."
+        "description": "Juan José de los Reyes Martínez Amaro was born in the Guanajuato region of Mexico, working as a mining laborer. He acquired the nickname El Pípila (meaning 'female turkey' in local slang) because his freckled face resembled a turkey egg. Despite his humble origins, he later became one of the most legendary hero figures in Mexico's War of Independence."
       },
       {
         "year": "1810",
         "title": "September 28, 1810: Siege of Guanajuato",
         "plaque": "El Pípila's Heroic Deed",
-        "description": "During the Siege of Guanajuato in Mexico's War of Independence, miner Juan José de los Reyes Martínez Amaro (nicknamed El Pípila) bravely carried a flaming slab of stone on his back and set fire to the gate of the Alhóndiga de Granaditas, the Spanish stronghold, enabling the rebel forces to capture this key fortification."
+        "description": "During the Siege of Guanajuato in Mexico's War of Independence, miner Juan José de los Reyes Martínez Amaro (nicknamed El Pípila) carried a heavy stone slab on his back as a bulletproof shield, braved a hail of bullets to charge the gate, and used his torch and tar to set fire to the wooden gate of the Alhóndiga de Granaditas, a large public granary occupied by the Spanish stronghold, enabling the rebel forces to capture this key fortification."
       },
       {
         "year": "1939",
         "title": "1939: Monument Inaugurated",
         "plaque": "Historic Monument Completed",
-        "description": "To honor the Independence War hero El Pípila, the City of Guanajuato erected this 28-meter high obelisk monument on Cerro de San Miguel. The monument was designed by architect Agustín L. Rodríguez and opened to the public in 1939."
+        "description": "To honor the Independence War hero El Pípila, the City of Guanajuato erected this 28-meter high obelisk monument on Cerro de San Miguel. The monument was jointly designed by sculptor Juan Fernando Olaguíbel and architect Augusto Petriccioli, and opened to the public in 1939."
       },
       {
         "year": "Today",
@@ -389,17 +387,17 @@
       {
         "id": "origin",
         "title": "Origins and the Nickname",
-        "content": "Juan José de los Reyes Martínez Amaro was born in 1782 in the Guanajuato region of Mexico, working as a mining laborer. He acquired the nickname El Pípila due to a skin disease (pipila disease, a condition that causes skin thickening). Despite his humble origins, he later became one of the most legendary hero figures in Mexico's War of Independence."
+        "content": "Juan José de los Reyes Martínez Amaro was born in 1782 in the Guanajuato region of Mexico, working as a mining laborer. He acquired the nickname El Pípila (meaning 'female turkey' in local slang) because his freckled face resembled a turkey egg. Despite his humble origins, he later became one of the most legendary hero figures in Mexico's War of Independence."
       },
       {
         "id": "courage",
         "title": "The Brave Act in the Siege of Guanajuato",
-        "content": "On September 28, 1810, during the Siege of Guanajuato in Mexico's War of Independence, El Pípila demonstrated extraordinary courage. At that time, Spanish royal forces had occupied the Alhóndiga de Granaditas (a large granary building) as a defensive stronghold, and the rebel forces had failed in multiple attempts to capture it. El Pípila bravely carried a flaming slab of stone on his back, charged toward the stronghold's gate, and successfully set the wooden gate on fire with the flame, opening the way for the rebel forces to capture the stronghold. This feat directly led to the defeat of the Spanish royal forces and became a key turning point in Mexico's War of Independence."
+        "content": "On September 28, 1810, during the Siege of Guanajuato in Mexico's War of Independence, El Pípila demonstrated extraordinary courage. At that time, Spanish royal forces had occupied the Alhóndiga de Granaditas (a large public granary building that served as a natural fortress due to its sturdy structure and few, high windows) as a defensive stronghold, and the rebel forces had failed in multiple attempts to capture it. El Pípila carried a heavy stone slab on his back as a bulletproof shield, braved a hail of bullets to charge the gate, and successfully set the wooden gate on fire with his torch and tar, opening the way for the rebel forces to capture the stronghold. This feat directly led to the defeat of the Spanish royal forces and became a key turning point in Mexico's War of Independence."
       },
       {
         "id": "legacy",
         "title": "Historical Legacy and Commemoration",
-        "content": "El Pípila's heroic deeds left an indelible mark on Mexican history. To commemorate this Independence War hero, the Guanajuato municipal government built this 28-meter high obelisk monument on Cerro de San Miguel in 1939. The monument was designed by architect Agustín L. Rodríguez and has now become one of Guanajuato's most iconic landmarks and an important symbol of the Mexican independence spirit. Every year, tens of thousands of visitors come to visit and pay tribute to this hero who dedicated himself to Mexican independence."
+        "content": "El Pípila's heroic deeds left an indelible mark on Mexican history. To commemorate this Independence War hero, the Guanajuato municipal government built this 28-meter high obelisk monument on Cerro de San Miguel in 1939. The monument was jointly designed by sculptor Juan Fernando Olaguíbel and architect Augusto Petriccioli, and has now become one of Guanajuato's most iconic landmarks and an important symbol of the Mexican independence spirit. Every year, tens of thousands of visitors come to visit and pay tribute to this hero who dedicated himself to Mexican independence."
       }
     ]
   }

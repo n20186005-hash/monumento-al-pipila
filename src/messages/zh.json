@@ -35,7 +35,7 @@
       "items": [
         "标志性纪念碑：高 28 米的方尖碑，建于 1939 年，纪念独立战争英雄 El Pípila。",
         "全景观景台：360 度俯瞰瓜纳华托世界遗产城市，是拍摄城市全景的最佳地点。",
-        "历史意义：El Pípila 在 1810 年独立战争中英勇焚烧西班牙守军据点，是墨西哥独立的重要象征。",
+        "历史意义：El Pípila 在 1810 年独立战争中英勇焚烧西班牙守军据点木门，是墨西哥独立的重要象征。",
         "交通便利：可从市中心步行上山，也可乘坐缆车（teleférico）直达。"
       ]
     }
@@ -51,7 +51,7 @@
     ],
     "supplementsTitle": "游览补充建议",
     "supplements": [
-      "缆车（teleférico）运营时间通常为周二至周日 10:00-18:00，建议提前确认。",
+      "缆车（teleférico）通常为周一至周日全面运营，建议提前确认具体时间。",
       "傍晚时分是最佳游览时间，可以同时欣赏日落和城市夜景。",
       "山上可能有小贩出售饮料和小吃，建议自带饮用水。",
       "穿舒适的步行鞋，上山路段有一定坡度。"
@@ -63,7 +63,7 @@
       {
         "id": "history",
         "title": "历史意义",
-        "content": "Monumento Al Pipila 建于 1939 年，旨在纪念墨西哥独立战争中的英雄 Juan José de los Reyes Martínez Amaro（绰号 El Pípila）。1810 年 9 月 28 日，在瓜纳华托围城战中，El Pípila 背负着点燃的石板，英勇地焚烧了西班牙守军占据的阿尔霍迪斯亚托（Alhóndiga de Granaditas）的大门，为起义军攻占据点立下赫赫战功。这座纪念碑由建筑师 Agustín L. Rodríguez 设计，是瓜纳华托最重要的历史象征之一。"
+        "content": "Monumento Al Pipila 建于 1939 年，旨在纪念墨西哥独立战争中的英雄 Juan José de los Reyes Martínez Amaro（绰号 El Pípila）。1810 年 9 月 28 日，在瓜纳华托围城战中，El Pípila 背负一块沉重的石板作为防弹盾牌，冒着枪林弹雨冲向大门，并用手中的火把和焦油焚烧了西班牙守军占据的阿尔霍迪斯亚托（Alhóndiga de Granaditas，一座大型公共粮仓）的木制大门，为起义军攻占据点立下赫赫战功。这座纪念碑由雕塑家 Juan Fernando Olaguíbel 和建筑师 Augusto Petriccioli 共同设计建造，是瓜纳华托最重要的历史象征之一。"
       },
       {
         "id": "nature",
@@ -100,18 +100,16 @@
     "googleRating": "谷歌评分",
     "address": "地址",
     "addressValue": "Cerro de San Miguel S/N, Zona Centro, 36000 Guanajuato, Gto., Mexico",
-    "plusCode": "Plus Code",
-    "plusCodeValue": "2P7W+Q6 Guanajuato, Mexico"
+    "plusCode": "GPS 坐标",
+    "plusCodeValue": "21.0160° N, 101.2534° W"
   },
   "hours": {
     "title": "开放时间",
     "outdoor": "纪念碑广场",
     "outdoorTime": "全天开放（公共广场区域）",
     "lighthouse": "缆车运营时间",
-    "summer": "周二至周日",
-    "summerTime": "约 10:00-18:00（具体时间请提前确认）",
-    "winter": "周一",
-    "winterTime": "缆车休息（可步行上山）",
+    "summer": "周一至周日",
+    "summerTime": "全面运营（具体时间请提前确认）",
     "warning": "重要提示",
     "warningTime": "缆车运营时间可能随季节调整，建议提前核实最新信息",
     "tip": "傍晚时分前往可以同时欣赏日落和城市夜景"
@@ -358,19 +356,19 @@
         "year": "1782",
         "title": "1782年：El Pípila 出生",
         "plaque": "英雄的诞生",
-        "description": "Juan José de los Reyes Martínez Amaro 出生于墨西哥的瓜纳华托地区，是一位采矿工人。他因患有皮肤病（皮皮拉病）而获得绰号 El Pípila。尽管出身贫寒，他后来成为了墨西哥独立战争中的英雄人物。"
+        "description": "Juan José de los Reyes Martínez Amaro 出生于墨西哥的瓜纳华托地区，是一位采矿工人。他因脸上长满雀斑，看起来像火鸡卵，从而获得了当地俚语中意为“雌火鸡”的绰号 El Pípila（皮皮拉）。尽管出身贫寒，他后来成为了墨西哥独立战争中的英雄人物。"
       },
       {
         "year": "1810",
         "title": "1810年9月28日：瓜纳华托围城战",
         "plaque": "El Pípila 的英勇事迹",
-        "description": "在墨西哥独立战争的瓜纳华托围城战中，矿工 Juan José de los Reyes Martínez Amaro（绰号 El Pípila）背负点燃的石板，英勇地焚烧了西班牙守军占据的阿尔霍迪斯亚托（Alhóndiga de Granaditas）的大门，为起义军攻占据点立下关键功勋。"
+        "description": "在墨西哥独立战争的瓜纳华托围城战中，矿工 Juan José de los Reyes Martínez Amaro（绰号 El Pípila）背负一块沉重的石板作为防弹盾牌，冒着枪林弹雨冲向大门，并用手中的火把和焦油焚烧了西班牙守军占据的阿尔霍迪斯亚托（Alhóndiga de Granaditas，一座大型公共粮仓）的木制大门，为起义军攻占据点立下关键功勋。"
       },
       {
         "year": "1939",
         "title": "1939年：纪念碑落成",
         "plaque": "历史纪念碑建成",
-        "description": "为纪念独立战争英雄 El Pípila，瓜纳华托市政府在 Cerro de San Miguel 山丘上兴建了这座高 28 米的方尖碑纪念碑。纪念碑由建筑师 Agustín L. Rodríguez 设计，于 1939 年建成向公众开放。"
+        "description": "为纪念独立战争英雄 El Pípila，瓜纳华托市政府在 Cerro de San Miguel 山丘上兴建了这座高 28 米的方尖碑纪念碑。纪念碑由雕塑家 Juan Fernando Olaguíbel 和建筑师 Augusto Petriccioli 共同设计建造，于 1939 年建成向公众开放。"
       },
       {
         "year": "今天",
@@ -389,17 +387,17 @@
       {
         "id": "origin",
         "title": "出身与绰号由来",
-        "content": "Juan José de los Reyes Martínez Amaro 于 1782 年出生在墨西哥的瓜纳华托地区，是一位采矿工人。他因患有皮肤疾病（皮皮拉病，一种导致皮肤变厚的疾病）而获得了绰号 El Pípila（皮皮拉）。尽管出身贫寒，他后来成为了墨西哥独立战争中最具传奇色彩的英雄人物之一。"
+        "content": "Juan José de los Reyes Martínez Amaro 于 1782 年出生在墨西哥的瓜纳华托地区，是一位采矿工人。他因脸上长满雀斑，看起来像火鸡卵，从而获得了当地俚语中意为“雌火鸡”的绰号 El Pípila（皮皮拉）。尽管出身贫寒，他后来成为了墨西哥独立战争中最具传奇色彩的英雄人物之一。"
       },
       {
         "id": "courage",
         "title": "瓜纳华托围城战中的英勇壮举",
-        "content": "1810 年 9 月 28 日，在墨西哥独立战争的瓜纳华托围城战中，El Pípila 展现了非凡的勇气。当时，西班牙守军占据了阿尔霍迪斯亚托（Alhóndiga de Granaditas，一个大型粮仓建筑）作为防御据点，起义军多次进攻均告失败。El Pípila 勇敢地背负着一块点燃的石板，冲向据点的大门，用火焰成功焚烧了木制大门，为起义军攻占据点开辟了道路。这一壮举直接导致了西班牙守军的溃败，成为了墨西哥独立战争中的关键转折点。"
+        "content": "1810 年 9 月 28 日，在墨西哥独立战争的瓜纳华托围城战中，El Pípila 展现了非凡的勇气。当时，西班牙守军占据了阿尔霍迪斯亚托（Alhóndiga de Granaditas，一个大型公共粮仓，由于建筑坚固、窗户少且高，被守军作为天然堡垒）作为防御据点，起义军多次进攻均告失败。El Pípila 背负一块沉重的石板作为防弹盾牌，冒着枪林弹雨冲向大门，并用手中的火把和焦油焚烧了西班牙守军占据的木制大门，为起义军攻占据点开辟了道路。这一壮举直接导致了西班牙守军的溃败，成为了墨西哥独立战争中的关键转折点。"
       },
       {
         "id": "legacy",
         "title": "历史遗产与纪念",
-        "content": "El Pípila 的英勇事迹在墨西哥历史上留下了不可磨灭的印记。为了纪念这位独立战争英雄，瓜纳华托市政府于 1939 年在 Cerro de San Miguel 山丘上兴建了这座高 28 米的方尖碑纪念碑。纪念碑由建筑师 Agustín L. Rodríguez 设计，如今已成为瓜纳华托最具标志性的地标之一，也是墨西哥独立精神的重要象征。每年都有成千上万的游客前来参观，缅怀这位为墨西哥独立献身的英雄。"
+        "content": "El Pípila 的英勇事迹在墨西哥历史上留下了不可磨灭的印记。为了纪念这位独立战争英雄，瓜纳华托市政府于 1939 年在 Cerro de San Miguel 山丘上兴建了这座高 28 米的方尖碑纪念碑。纪念碑由雕塑家 Juan Fernando Olaguíbel 和建筑师 Augusto Petriccioli 共同设计建造，如今已成为瓜纳华托最具标志性的地标之一，也是墨西哥独立精神的重要象征。每年都有成千上万的游客前来参观，缅怀这位为墨西哥独立献身的英雄。"
       }
     ]
   }
