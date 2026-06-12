@@ -82,7 +82,7 @@ export default function Gallery() {
 
             <div className="flex justify-center mt-8">
               <a
-                href="https://maps.app.goo.gl/RUu82rxrCQKy1Unq5"
+                href="https://www.google.com/maps/search/?api=1&query=Monumento+Al+Pipila+Guanajuato"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"
