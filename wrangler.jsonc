@@ -1,0 +1,20 @@
+{
+  // Cloudflare Workers 配置 —— monumentoalpipila.com
+  // 部署前请先执行 npm run build 生成静态产物到 out/，再执行 npm run deploy
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "monumento-al-pipila",
+  "main": "src/worker/index.js",
+  "compatibility_date": "2025-09-01",
+  "assets": {
+    "directory": "out",
+    "binding": "ASSETS",
+    "run_worker_first": true
+  },
+  "observability": {
+    "enabled": true
+  },
+  "routes": [
+    // 自定义域名（上线后替换为你绑定到本 Worker 的域名；也可以仅使用 *.workers.dev）
+    // { "pattern": "monumentoalpipila.com", "custom_domain": true }
+  ]
+}

@@ -1,15 +1,48 @@
 import { useTranslations, useMessages } from 'next-intl';
 
+/** 将 **加粗** 语法渲染为语义化 <strong> */
+function renderRich(text: string): string {
+  return text.replace(/\*\*(.*?)\*\*/g, '<strong style="color: var(--text-primary)">$1</strong>');
+}
+
 export default function Intro() {
   const t = useTranslations('intro');
   const tOff = useTranslations('officialManagement');
+  const tBreadcrumb = useTranslations('breadcrumb');
   const messages = useMessages() as any;
   const items: string[] = messages?.intro?.visitGuide?.items || [];
   const alsoKnownAsItems: string[] = messages?.intro?.alsoKnownAs?.items || [];
+  const breadcrumbItems: string[] = messages?.breadcrumb?.items || [];
 
   return (
     <section className="section-padding">
       <div className="max-w-4xl mx-auto">
+        {/* 地理面包屑 / 归属层级：全称 → 城市 → 州 → 国家 */}
+        {breadcrumbItems.length > 0 && (
+          <nav aria-label={tBreadcrumb('ariaLabel')} className="mb-8">
+            <ol
+              className="flex flex-wrap items-center gap-1.5 text-sm"
+              style={{ color: 'var(--text-muted)' }}
+            >
+              {breadcrumbItems.map((crumb, i) => (
+                <li key={i} className="flex items-center gap-1.5">
+                  {i > 0 && (
+                    <span aria-hidden="true" style={{ color: 'var(--text-muted)' }}>
+                      ›
+                    </span>
+                  )}
+                  <span
+                    className={i === breadcrumbItems.length - 1 ? 'font-medium' : ''}
+                    style={i === breadcrumbItems.length - 1 ? { color: 'var(--text-primary)' } : undefined}
+                  >
+                    {crumb}
+                  </span>
+                </li>
+              ))}
+            </ol>
+          </nav>
+        )}
+
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
           style={{ color: 'var(--text-primary)' }}
@@ -17,6 +50,13 @@ export default function Intro() {
           {t('title')}
         </h2>
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
+
+        {/* 首段等位声明：全称 = 俗称 + 城市归属 */}
+        <p
+          className="text-lg leading-relaxed mb-6"
+          style={{ color: 'var(--text-secondary)' }}
+          dangerouslySetInnerHTML={{ __html: renderRich(t('welcome')) }}
+        />
 
         <p
           className="text-lg leading-relaxed mb-12"

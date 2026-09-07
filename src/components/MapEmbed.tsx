@@ -1,4 +1,5 @@
 import { useTranslations } from 'next-intl';
+import { SITE } from '@/config/site';
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
@@ -25,21 +26,21 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=Monumento+Al+Pipila+Guanajuato+Mexico&t=&z=15&ie=UTF8&iwloc=&output=embed"
+            src={SITE.mapsEmbedSrc}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Monumento Al Pipila"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title="Google Maps - Monumento Al Pipila, Guanajuato"
           />
         </div>
 
         {/* Open in Google Maps */}
         <div className="mt-6 flex justify-center">
           <a
-            href="https://www.google.com/maps/search/?api=1&query=Monumento+Al+Pipila+Guanajuato"
+            href={SITE.mapsShareUrl}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium text-white transition-colors"
@@ -57,6 +58,24 @@ export default function MapEmbed() {
             </svg>
           </a>
         </div>
+
+        {/* 权威出站链接：当地政府 / 官方旅游局 */}
+        <p
+          className="mt-6 text-center text-sm leading-relaxed"
+          style={{ color: 'var(--text-muted)' }}
+        >
+          {t('officialPortalNote')}{' '}
+          <a
+            href={SITE.govtTourismUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:underline"
+            style={{ color: 'var(--accent)' }}
+          >
+            {t('officialPortalLabel')}
+          </a>
+          .
+        </p>
       </div>
     </section>
   );

@@ -1,25 +1,337 @@
 {
   "meta": {
-    "title": "Monumento Al Pipila | Guanajuato | México",
-    "description": "Explora el Monumento al Pípila en Guanajuato, México. Este icónico monumento se encuentra en la cima de un cerro y ofrece una vista panorámica breathtaking de la ciudad de Guanajuato, Patrimonio de la Humanidad de la UNESCO."
+    "title": "Monumento al Pípila Guanajuato | Mejor mirador y guía del funicular",
+    "description": "Visita el mirador de El Pípila en Guanajuato: horarios y precio del funicular, vistas al atardecer y de noche, historia del monumento de 1939 y qué ver cerca."
+  },
+  "funicularGuide": {
+    "title": "Funicular de Guanajuato a El Pípila: precio, horario y consejos",
+    "description": "Cómo subir al Monumento al Pípila en el funicular de Guanajuato (teleférico): precios de boletos, horario de operación, dónde se aborda y el mejor momento para ir al atardecer.",
+    "eyebrow": "Guía de transporte",
+    "lastUpdated": "Actualizado: septiembre de 2026",
+    "introTitle": "Un minuto hasta la mejor vista de Guanajuato",
+    "intro": [
+      "El funicular de Guanajuato (que en letreros y guías locales también aparece como teleférico) es la forma más fácil de llegar al Monumento al Pípila, el mirador más famoso de la ciudad. La estación inferior está en el centro histórico, detrás del Teatro Juárez, a un paso del Jardín de la Unión, y la estación superior desemboca directamente en la plaza-mirador del Pípila.",
+      "El recorrido dura cerca de un minuto y te ahorra una subida empinada de 20-30 minutos a pie. Las tarifas de abajo siguen los precios publicados por la oficina de turismo local, con una nota sobre qué confirmar al llegar."
+    ],
+    "factsTitle": "Funicular de Guanajuato: datos clave",
+    "facts": [
+      { "name": "Recorrido", "value": "Teatro Juárez / Jardín de la Unión a Monumento al Pípila" },
+      { "name": "Duración", "value": "Alrededor de 1 minuto (vía de unos 100 m en pendiente pronunciada)" },
+      { "name": "Tarifa de adulto", "value": "Unos MX$35 sencillo / MX$70 ida y vuelta (algunos letreros actuales indican MX$80; confirma en taquilla)" },
+      { "name": "Niños y mayores", "value": "Niños de 4-11 y adultos mayores con credencial pagan aproximadamente la mitad" },
+      { "name": "Horario", "value": "Generalmente lun-vie 08:00-21:50, sáb 09:00-21:50, dom 10:00-20:50; varía por temporada y eventos" },
+      { "name": "A tener en cuenta", "value": "No se permiten bicicletas ni mascotas; residentes locales viajan con descuento mostrando identificación" }
+    ],
+    "routeTitle": "A dónde va y dónde se aborda",
+    "route": [
+      "La estación inferior está detrás del Teatro Juárez, a un paso del Jardín de la Unión; busca la pequeña taquilla y la zona de espera. El funicular funciona en ambos sentidos, así que puedes comprar el boleto en cualquiera de los dos extremos y subir o bajar.",
+      "Al salir de la estación superior llegas directo a la plaza del Pípila, junto al monumento de 28 metros, las tiendas de recuerdos y los miradores sobre la ciudad."
+    ],
+    "ticketTitle": "Boletos y precios",
+    "ticketParagraphs": [
+      "Los boletos se venden en taquillas junto a ambas estaciones y la mayoría de los visitantes compra ida y vuelta. La tarifa de adulto publicada por la oficina de turismo ha sido de MX$35 sencillo y MX$70 ida y vuelta (2024-2025), con una tarifa aún menor para residentes de Guanajuato que muestren identificación.",
+      "Los niños de 4-11 años y los adultos mayores con credencial INAPAM suelen pagar aproximadamente la mitad. Algunas guías de 2025-2026 citan MX$80 por el boleto redondo de adulto, así que los precios pueden haber cambiado; lo más seguro es revisar la tarifa en la ventanilla antes de comprar."
+    ],
+    "hoursTitle": "Horario",
+    "hours": [
+      "El servicio publicado es, en general, de lunes a viernes de 08:00 a 21:50, sábados de 09:00 a 21:50 y domingos de 10:00 a 20:50. En eventos grandes como el Festival Internacional Cervantino, en octubre, el horario a veces se amplía.",
+      "Los horarios pueden cambiar con poca antelación por mantenimiento, clima o días festivos. Si tu plan es el atardecer, llega al menos 30 minutos antes del cierre publicado para que la bajada no se sienta apurada."
+    ],
+    "sunsetTitle": "El mejor momento: atardecer y noche",
+    "sunset": [
+      "Procura estar en la plaza del Pípila unos 45 minutos antes del atardecer. Verás la luz cálida sobre el centro colonial y luego el encendido de las luces del valle: dos vistas completamente distintas desde el mismo punto.",
+      "Recuerda que el funicular puede cerrar entre las 20:50 y las 21:50 según el día. Si te quedas después del cierre, la bajada a pie es segura, bien iluminada y toma 20-30 minutos; muchos viajeros la prefieren para ver los callejones de noche."
+    ],
+    "walkTitle": "La alternativa gratis: subir caminando",
+    "walk": [
+      "Si prefieres ahorrarte el boleto, la ruta clásica sube desde el centro hasta El Pípila en 20-30 minutos por calles pavimentadas, escalinatas y rampas. Es empinada pero concurrida de día y pasa junto a pequeñas tiendas y cafés.",
+      "Un plan popular es subir en funicular y bajar caminando (o al revés): así tienes la vista aérea y la experiencia a ras de calle de los famosos callejones de Guanajuato."
+    ],
+    "faqTitle": "Funicular de Guanajuato: respuestas rápidas",
+    "faq": [
+      { "q": "¿El funicular es lo mismo que el teleférico?", "a": "Sí. En letreros y entre locales se le llama casi siempre teleférico, aunque técnicamente es un funicular: un vagón que sube sobre rieles por la pendiente. Ambos nombres se refieren al mismo viaje corto hasta El Pípila." },
+      { "q": "¿Cuánto cuesta el funicular?", "a": "La tarifa de adulto publicada ha rondado los MX$35 sencillo y MX$70 ida y vuelta, con precios menores para niños, mayores y residentes. Guías recientes citan MX$80 por el boleto redondo, así que confirma el precio en la pizarra al llegar." },
+      { "q": "¿Dónde se aborda?", "a": "En el centro histórico, detrás del Teatro Juárez, junto al Jardín de la Unión. La estación superior está justo en el Monumento al Pípila." },
+      { "q": "¿Puedo subir caminando en lugar de pagar?", "a": "Sí. La subida desde el centro toma 20-30 minutos a pie y es gratis; combinar un trayecto en funicular con una caminata es una opción muy popular." }
+    ],
+    "ctaCardTitle": "Ve el panorama completo",
+    "ctaCardText": "El funicular es solo uno de los atractivos de Guanajuato. Revisa la lista completa con lo mejor que ver y hacer en la ciudad, museos y miradores.",
+    "ctaCardLabel": "15 mejores cosas que hacer en Guanajuato",
+    "sunsetCta": "Guía completa del atardecer y la noche en El Pípila",
+    "ctaHomeLabel": "Volver a la guía principal de El Pípila",
+    "backLabel": "Volver a las cosas que hacer en Guanajuato"
+  },
+  "pipilaSunsetGuide": {
+    "title": "El Pípila al atardecer y de noche: el mejor momento, fotos y consejos",
+    "description": "Guía completa para ver el atardecer y el anochecer desde el Monumento al Pípila, en Guanajuato: a qué hora llegar según la temporada, cómo cambia la vista, dónde tomar las mejores fotos y cómo bajar al oscurecer.",
+    "eyebrow": "Guía de fotografía y horarios",
+    "lastUpdated": "Actualizado: septiembre de 2026",
+    "introTitle": "Dos vistas por el precio de una",
+    "intro": [
+      "El funicular te deja en uno de los miradores más fotografiados de México, pero la verdadera magia es cuestión de horario. Llega a El Pípila en la última hora de luz y tendrás dos espectáculos distintos en una sola visita: primero la luz dorada sobre el centro colonial pintado de Guanajuato, y después el valle encendiéndose poco a poco bajo tus pies.",
+      "Esta página es tu guía de tiempos: cuándo llegar según la temporada, dónde pararte para los mejores ángulos y cómo planear la bajada una vez que el funicular ha cerrado."
+    ],
+    "seasonTitle": "A qué hora oscurece en Guanajuato",
+    "season": [
+      "La hora del atardecer cambia mucho a lo largo del año. Cerca del solsticio de invierno (diciembre-enero) el sol se pone hacia las 18:15-18:30, así que puedes disfrutar del espectáculo y todavía cenar temprano. Cerca del solsticio de verano (junio-julio) puede acercarse a las 20:30-20:45, lo que empuja la mejor vista a la noche cerrada.",
+      "Procura llegar 45-60 minutos antes de la hora del ocaso. Así eliges sin prisa tu lugar en la barandilla, vives la hora dorada completa y puedes quedarte 30-60 minutos después de que caiga el sol, que es cuando las luces de la ciudad toman el relevo."
+    ],
+    "crowdTitle": "Noches con gente y noches tranquilas",
+    "crowd": [
+      "El atardecer es muy popular y los fines de semana por la noche hay más ambiente, con familias y grupos compartiendo los mejores sitios de la barandilla. Entre semana es más tranquilo, y llegar un poco antes siempre funciona.",
+      "Recuerda que el mirador es pequeño: la hora dorada se vive en un ambiente animado y social, no meditativo. Si prefieres la calma, llega 45-60 minutos antes del ocaso y disfruta los últimos minutos relajados antes de que se llene."
+    ],
+    "photoTitle": "Dónde pararte y consejos de fotografía",
+    "photo": [
+      "La mayor parte del panorama mira al centro histórico, así que busca un punto de la barandilla orientado hacia la cúpula de la basílica y la escalinata de la universidad. Una posición a media altura, no demasiado cerca del monumento, suele enmarcar mejor los tejados.",
+      "Pequeños detalles marcan la diferencia: lleva un trípode ligero para la hora azul; deja el borde del monumento o una línea de la barandilla en el encuadre para dar profundidad; espera 15-30 minutos después del atardecer, cuando las luces están ya encendidas, para la foto nocturna clásica; y visita una vez de día para conocer tus ángulos antes de que oscurezca."
+    ],
+    "cityLightsTitle": "La vista nocturna que buscabas",
+    "cityLights": [
+      "Cuando el sol desaparece, el centro histórico hace algo maravilloso: las lámparas cálidas dibujan los callejones y escalinatas de abajo, la basílica brilla sobre la Plaza de la Paz y el cañón de tejados se convierte en un mar de luces.",
+      "Los colores cambian rápido en la primera media hora: sigue tomando fotos o simplemente sigue mirando. En noches despejadas, este es también el mejor momento para exposiciones largas con siluetas sobre la barandilla."
+    ],
+    "gettingDownTitle": "Cómo bajar de noche",
+    "gettingDown": [
+      "Tienes dos opciones. El funicular suele operar hasta las 20:50-21:50 según el día y aun así forma fila después del atardecer. Si te quedas más tarde, la bajada a pie toma 20-30 minutos por calles y callejones bien iluminados: un paseo nocturno precioso que muchos viajeros prefieren.",
+      "El descenso pasa por los callejones con más ambiente de la ciudad. Si tienes energía, baja despacio y termina con una copa en el Jardín de la Unión."
+    ],
+    "bestMonthsTitle": "Mejores meses y noches especiales",
+    "bestMonths": [
+      "Todos los meses funcionan. El final del otoño y el invierno dan tardes más tempranas y a menudo despejadas; en la temporada de lluvias (aproximadamente de junio a septiembre) el cielo suele despejarse tras la tormenta de la tarde y deja nubes dramáticas al atardecer. Durante el Festival Internacional Cervantino, en octubre, el centro histórico de abajo brilla con actividad extra, y en fiestas y Año Nuevo el mirador se llena temprano para ver los fuegos artificiales sobre el valle."
+    ],
+    "faqTitle": "Atardecer en El Pípila: respuestas rápidas",
+    "faq": [
+      { "q": "¿Cuál es el mejor momento para ir a El Pípila?", "a": "La hora dorada. Llega 45-60 minutos antes del atardecer para ver la luz cálida y quédate al menos 30 minutos después de que caiga el sol para ver encenderse las luces de la ciudad." },
+      { "q": "¿Cuánto tiempo conviene quedarse arriba?", "a": "Calcula 1.5-2 horas para el atardecer, las luces y las fotos; si añades la cena después, se convierte en una media tarde relajada." },
+      { "q": "¿Es seguro El Pípila de noche?", "a": "Sí. Es uno de los miradores más visitados de México: la plaza está iluminada y concurrida por la noche, y la bajada a pie sigue calles principales y callejones muy transitados." },
+      { "q": "¿Necesito el funicular para bajar?", "a": "No. Puedes bajar caminando los 20-30 minutos en cualquier momento. Si prefieres el funicular, revisa el horario de cierre de ese día para no quedarte esperando: mira la guía del funicular para los horarios actuales." }
+    ],
+    "ctaCardTitle": "Sigue planeando tu visita a Guanajuato",
+    "ctaCardText": "Esta guía del atardecer es parte de una colección mayor: lo mejor que hacer en la ciudad y la guía completa del funicular a El Pípila.",
+    "ctaThingsLabel": "15 mejores cosas que hacer en Guanajuato",
+    "ctaFunicularLabel": "Guía del funicular: precios, horarios y consejos",
+    "backLabel": "Volver a la guía del funicular de El Pípila"
+  },
+  "churchesGuide": {
+    "title": "Iglesias de Guanajuato, México: las 5 imprescindibles",
+    "description": "Las mejores iglesias que visitar en Guanajuato, México: la Basílica de Nuestra Señora de Guanajuato, San Diego, San Roque, la Compañía y La Valenciana, con su historia y consejos prácticos de visita.",
+    "eyebrow": "Guía de la ciudad",
+    "lastUpdated": "Actualizado: septiembre de 2026",
+    "introTitle": "Un centro Patrimonio Mundial lleno de templos",
+    "intro": [
+      "El centro histórico de Guanajuato es Patrimonio Mundial de la UNESCO y, entre las casas de colores, se esconden unas dos docenas de iglesias, capillas y antiguos conventos. Podrías visitar una distinta cada día, pero la mayoría de los viajeros viene por cinco, y cubren capítulos muy distintos de la historia de la ciudad.",
+      "La lista va de la basílica principal a una pequeña iglesia de plaza que dio origen a un festival mundialmente famoso, además de una joya de la era de la plata a un corto trayecto del centro."
+    ],
+    "listTitle": "Las cinco iglesias que ver primero",
+    "churches": [
+      {
+        "name": "Basílica Colegiata de Nuestra Señora de Guanajuato",
+        "area": "Plaza de la Paz, centro histórico",
+        "tag": "La iglesia principal de la ciudad",
+        "body": "La iglesia más importante de Guanajuato se construyó entre 1671 y 1696 en piedra local rosa y amarilla. Con sus dos torres y su cúpula central, domina la elegante Plaza de la Paz. En su interior resguarda la imagen de la Virgen de Guanajuato, una escultura de madera de la Virgen con el Niño traída desde España en 1557 y considerada una de las imágenes cristianas más antiguas de América; las familias mineras la adornaron después con joyas. Fue elevada a basílica menor en 1957 y la entrada es gratuita."
+      },
+      {
+        "name": "Templo de San Diego",
+        "area": "En la orilla del Jardín de la Unión, junto al Teatro Juárez",
+        "tag": "La iglesia que enmarca la plaza principal",
+        "body": "San Diego se levanta junto al frondoso Jardín de la Unión, la plaza donde acabarás tomando un café sí o sí. Construida como iglesia de la orden de los dieguinos (franciscanos descalzos), guarda un interior barroco ornamentado que se usa con frecuencia para misas y bodas. Es una de las escenas de iglesia y plaza más fotografiadas de la ciudad."
+      },
+      {
+        "name": "Templo de San Roque",
+        "area": "Plazuela de San Roque, a pocos pasos del Mercado Hidalgo",
+        "tag": "Cuna del Festival Internacional Cervantino",
+        "body": "Construido en 1726, este modesto templo de piedra rosa mira a una pequeña plaza donde, desde 1952, se representaron al aire libre los entremeses de Cervantes. Esa tradición creció hasta convertirse en el actual Festival Internacional Cervantino, así que cada octubre las escalinatas y la plaza frente a San Roque vuelven a ser un escenario."
+      },
+      {
+        "name": "Templo de la Compañía (Compañía de Jesús - Oratorio de San Felipe Neri)",
+        "area": "A una cuadra de la basílica, hacia la Universidad",
+        "tag": "La iglesia barroca de los jesuitas",
+        "body": "Iniciado por los jesuitas en 1747, la Compañía es uno de los templos barrocos más notables de la ciudad. Su conjunto histórico, el Templo y Casa de la Compañía, es un rincón tranquilo a un minuto de las multitudes de la basílica, y parte del complejo alberga la colección de arte de la Pinacoteca, así que los amantes del arte pueden convertir la visita a una iglesia en una mini visita a galería."
+      },
+      {
+        "name": "Templo de San Cayetano, La Valenciana",
+        "area": "Sobre la carretera a Dolores Hidalgo, a un corto trayecto al norte del centro",
+        "tag": "La gran iglesia del auge de la plata",
+        "body": "Construida entre 1765 y 1788 con dinero de la mina La Valenciana, esta iglesia muestra lo que la riqueza minera de Guanajuato podía comprar. Su portada churrigueresca de piedra se considera una de las mejores del centro de México, y dentro encontrarás altares dorados y un púlpito con incrustaciones de marfil. Fíjate en que la fachada es asimétrica: se planeó una segunda torre que nunca se construyó. Combínala con la vecina mina La Valenciana; el taxi desde el centro es la opción más fácil (unos MX$40), o toma uno de los pocos autobuses que pasan por ahí."
+      }
+    ],
+    "etiquetteTitle": "Consejos de visita y etiqueta",
+    "etiquette": [
+      "La mayoría de los templos son de entrada gratuita y es cortés dejar una pequeña donación. Algunas colecciones, como la Pinacoteca del conjunto de la Compañía, pueden cobrar una entrada moderada.",
+      "Son iglesias en uso, no museos. Viste con modestia (hombros y rodillas cubiertos), habla en voz baja y retírate si llegas durante una ceremonia. La fotografía en el interior suele permitirse cuando no hay misa, pero evita el flash y nunca fotografíes ceremonias sin pedir permiso.",
+      "Los horarios no son fijos: las puertas suelen abrir por la mañana y pueden cerrar por la tarde o durante los oficios. Planea las visitas a los templos entre semana por la mañana y deja 15-25 minutos por iglesia (más si quieres sentarte)."
+    ],
+    "walkTitle": "Únelo todo en un solo paseo",
+    "walk": [
+      "El centro se organiza muy bien: empieza en la Basílica, en la Plaza de la Paz; desvíate una cuadra a la Compañía; pasea hasta el Jardín de la Unión y San Diego; y sigue por los callejones hasta San Roque y el Mercado Hidalgo.",
+      "Guarda La Valenciana para otra mañana o tarde. La iglesia está sobre la carretera de salida de la ciudad, junto a la antigua mina, y visitar ambos lugares es una clásica salida de medio día con vistas de vuelta sobre Guanajuato."
+    ],
+    "faqTitle": "Iglesias de Guanajuato: respuestas rápidas",
+    "faq": [
+      { "q": "¿Las iglesias de Guanajuato son gratuitas?", "a": "Sí, los templos en sí son de entrada libre, aunque se agradece una donación. Algunas colecciones, como la Pinacoteca del conjunto de la Compañía, pueden cobrar una entrada pequeña." },
+      { "q": "¿Hay un código de vestimenta?", "a": "Ve con respeto: cubre hombros y rodillas y habla en voz baja. Las iglesias pueden cerrarse a los visitantes durante los servicios." },
+      { "q": "¿Puedo tomar fotos en el interior?", "a": "Por lo general sí, cuando no hay un servicio en curso. Evita el flash y no fotografíes bodas o ceremonias sin pedir permiso antes." },
+      { "q": "¿Qué iglesia no debería perderme?", "a": "La Basílica de Nuestra Señora de Guanajuato es la parada imprescindible del centro. Si tienes un par de horas libres, el Templo de San Cayetano (La Valenciana) es la iglesia más espectacular de todas y vale el corto trayecto." }
+    ],
+    "ctaCardTitle": "Haz un día completo con lo mejor de Guanajuato",
+    "ctaCardText": "Las iglesias están en el centro de una historia más grande. Revisa la lista completa de lo mejor que hacer en la ciudad y combina tu recorrido por los templos con el mirador de El Pípila al atardecer.",
+    "ctaThingsLabel": "15 mejores cosas que hacer en Guanajuato",
+    "ctaFunicularLabel": "Guía del funicular a El Pípila",
+    "backLabel": "Volver a las cosas que hacer en Guanajuato"
+  },
+  "thingsToDo": {
+    "title": "15 Mejores Cosas Que Hacer en Guanajuato, México | Guía Local",
+    "description": "¿Viajas a Guanajuato? Cosas que hacer en Guanajuato: el mirador El Pípila y su funicular, iglesias históricas, museos, callejones y rincones locales, con consejos de guía local.",
+    "eyebrow": "Guía de viaje de Guanajuato",
+    "lastUpdated": "Actualizado: septiembre de 2026",
+    "introTitle": "Lo mejor que ver y hacer en Guanajuato",
+    "intro": [
+      "Compacta, colorida y caminable en su centro, la zona histórica de Guanajuato es una de las ciudades más fáciles de recorrer en México. Casi todo lo que aparece abajo queda a 10-25 minutos a pie del Jardín de la Unión, y el funicular conecta la plaza principal con el Monumento al Pípila en la cima en aproximadamente un minuto.",
+      "Esta lista se centra en planes reales para una visita corta: miradores inolvidables, iglesias a minutos de distancia entre sí, museos, gastronomía y las calles subterráneas que hacen única a esta ciudad Patrimonio de la Humanidad.",
+      "Si solo tienes tiempo para un plan, empieza por el mirador de El Pípila al atardecer; el funicular y una alternativa gratuita caminando están descritos abajo."
+    ],
+    "chipsTitle": "Ir a",
+    "chips": [
+      "Funicular a El Pípila",
+      "Subida a pie al atardecer",
+      "Callejón del Beso",
+      "Iglesias del centro",
+      "La Valenciana",
+      "Museo de la Alhóndiga",
+      "Museo Diego Rivera",
+      "Escalinata universitaria",
+      "Jardín y Teatro Juárez",
+      "Callejoneadas nocturnas",
+      "Comida en el Mercado Hidalgo",
+      "Museo de las Momias",
+      "Calles subterráneas",
+      "Excursiones de un día",
+      "3 itinerarios"
+    ],
+    "listTitle": "15 cosas que hacer en Guanajuato",
+    "listIntro": "Ordenadas, en general, de lo imprescindible a lo que puedes sumar si tienes tiempo. Todo queda dentro de la ciudad salvo que se indique lo contrario.",
+    "items": [
+      {
+        "title": "Sube en funicular al mirador de El Pípila",
+        "desc": "La forma más rápida y panorámica de llegar a la mejor vista de Guanajuato. El funicular desde el Jardín de la Unión evita la empinada subida y dura solo un minuto. Arriba, camina alrededor del monumento de 28 metros que honra al héroe El Pípila y contempla toda la ciudad Patrimonio de la Humanidad.",
+        "tip": "Mejor hora: unos 45 minutos antes del atardecer"
+      },
+      {
+        "title": "O sube caminando por el Cerro de San Miguel",
+        "desc": "Evita la fila y asciende por las calles y escalinatas del centro (unos 20-30 minutos). El camino es empinado pero pavimentado y seguro de día, con pequeñas tiendas y miradores en el trayecto.",
+        "tip": "Sube a pie y baja en funicular"
+      },
+      {
+        "title": "Besa bajo el Callejón del Beso",
+        "desc": "El callejón más famoso de Guanajuato, a pasos del Jardín de la Unión, guarda la leyenda de unos enamorados cuyos balcones casi se tocan. Las parejas se besan en el tercer escalón mientras el público aplaude. Ve temprano para evitar la fila.",
+        "tip": "Parada de 10 minutos entre dos atracciones"
+      },
+      {
+        "title": "Visita las iglesias del centro histórico",
+        "desc": "En pocos minutos a pie puedes ver la Basílica Colegiata rosa en la Plaza de la Paz, el ornamentado Templo de San Diego frente al Jardín de la Unión, la fachada tallada de La Compañía y la pequeña plaza de San Roque. La entrada es gratuita.",
+        "tip": "Empieza en la Basílica y termina en San Roque"
+      },
+      {
+        "title": "Admira el templo y la mina de La Valenciana",
+        "desc": "Una de las iglesias coloniales más suntuosas de México se alza sobre la ciudad junto a la antigua mina de plata de La Valenciana. Su altar barroco brilla con pan de oro, testimonio de la riqueza que construyó Guanajuato.",
+        "tip": "A unos 20 minutos en autobús local o taxi"
+      },
+      {
+        "title": "Entra a la Alhóndiga de Granaditas",
+        "desc": "Este antiguo granero fortificado fue el escenario de la hazaña de El Pípila en 1810 durante el Sitio de Guanajuato. Hoy es el museo regional del estado, con murales, piezas prehispánicas e historia de la Independencia: la mejor forma de entender el monumento de arriba.",
+        "tip": "Suele cerrar los lunes; confirma el horario"
+      },
+      {
+        "title": "Conoce la casa natal de Diego Rivera",
+        "desc": "El Museo Casa Diego Rivera ocupa la casa donde nació el muralista en 1886. La colección reúne objetos familiares, pinturas y un cuaderno de bocetos, y la azotea ofrece una vista inesperada de los tejados de la ciudad.",
+        "tip": "Museo pequeño; dedica alrededor de una hora"
+      },
+      {
+        "title": "Sube la escalinata de la universidad",
+        "desc": "La escalinata neoclásica de la Universidad de Guanajuato es el punto de encuentro de la ciudad y un clásico para las fotos. Siéntate entre los estudiantes y admira la fachada amarilla y los callejones que caen hacia abajo.",
+        "tip": "Luz ideal al final de la tarde"
+      },
+      {
+        "title": "Descansa en el Jardín de la Unión",
+        "desc": "El corazón social de Guanajuato es una plaza arbolada rodeada de cafés y músicos callejeros, frente a los arcos moriscos del Teatro Juárez. Escucha a las estudiantinas o reserva un espectáculo dentro del teatro de 1903.",
+        "tip": "Música en vivo casi todas las noches"
+      },
+      {
+        "title": "Únete a una callejoneada nocturna",
+        "desc": "La callejoneada es el gran plan nocturno de Guanajuato: músicos guían un desfile alegre y con faroles por los callejones, con leyendas, canciones y un brindis. Aun sin español, disfrutarás el ambiente festivo.",
+        "tip": "Salidas desde el Jardín de la Unión al anochecer"
+      },
+      {
+        "title": "Come en el Mercado Hidalgo",
+        "desc": "El elegante mercado de hierro, cerca de la plaza principal, es ideal para comer informal y comprar recuerdos. Prueba platillos regionales como las enchiladas mineras, o fruta, quesadillas y charamuscas, los dulces de caña con forma de Pípila.",
+        "tip": "Come aquí para ahorrar tiempo y dinero"
+      },
+      {
+        "title": "Visita el Museo de las Momias, con precaución",
+        "desc": "A unos 25 minutos del centro, el Museo de las Momias exhibe cuerpos momificados de forma natural exhumados del panteón municipal. Es famoso en el mundo, pero macabro; no es recomendable para niños pequeños.",
+        "tip": "Ve en autobús o taxi; consulta las normas de fotografía"
+      },
+      {
+        "title": "Recorre las calles subterráneas",
+        "desc": "El centro histórico se apoya sobre una red de túneles construidos para desviar el agua de lluvia y hoy usados como avenidas principales. Conducir o caminar por ellos es una de las experiencias urbanas más peculiares de México.",
+        "tip": "Un desvío rápido, gratuito y muy local"
+      },
+      {
+        "title": "Añade una excursión a Dolores Hidalgo o San Miguel",
+        "desc": "Con un segundo día, visita Dolores Hidalgo, a unos 40 minutos, donde comenzó el Grito de Independencia, o la colorida San Miguel de Allende, a unos 1.5 horas en autobús. Ambos son fáciles de recorrer de ida y vuelta.",
+        "tip": "Los autobuses salen con frecuencia de la central"
+      },
+      {
+        "title": "Sigue la luz: usa nuestros 3 mini itinerarios",
+        "desc": "¿No sabes por dónde empezar? El plan de mañana / tarde / noche que está al final de esta página une los miradores, iglesias, museos y paradas gastronómicas en un día caminable.",
+        "tip": "Baja para ver el plan completo"
+      }
+    ],
+    "calloutTitle": "Datos clave: el funicular de Guanajuato",
+    "calloutText": "El funicular (también llamado teleférico) sale junto al Teatro Juárez, en el Jardín de la Unión, y llega al Monumento al Pípila en cerca de un minuto. La tarifa redonda para adultos ha rondado los MX$70-80 en los últimos años y la estación suele abrir a diario desde la mañana hasta las ~21:00, aunque los horarios cambian según la temporada.",
+    "calloutCta": "Guía completa de El Pípila: horarios, precios y sendero",
+    "calloutCta2": "Guía del funicular: precios, horarios y atardecer",
+    "calloutCta3": "Iglesias de Guanajuato: los 5 templos imprescindibles",
+    "itineraryTitle": "Organiza tu día según la luz",
+    "itineraryIntro": "Guanajuato es pequeña: puedes ver mucho en un solo día. Estos tres bloques siguen la forma en que la luz y la gente se mueven por la ciudad.",
+    "itinerary": [
+      { "period": "Mañana", "text": "Evita el calor: entra al museo de la Alhóndiga de Granaditas en cuanto abra y sigue con el Museo Diego Rivera y la escalinata universitaria antes del mediodía." },
+      { "period": "Tarde", "text": "Recorre el circuito de iglesias (Basílica, San Diego, La Compañía), pasea por el Mercado Hidalgo y sube en funicular o a pie para la hora dorada en El Pípila." },
+      { "period": "Noche", "text": "Contempla cómo se encienden las luces de la ciudad desde el mirador, baja por los callejones y termina con una callejoneada o una cena cerca del Jardín de la Unión." }
+    ]
   },
   "header": {
     "home": "Inicio",
+    "weather": "Clima",
+    "plan": "Guía",
+    "practical": "Servicios",
     "gallery": "Galería",
     "reviews": "Reseñas",
     "map": "Mapa",
     "backToHome": "Volver al inicio"
   },
+  "breadcrumb": {
+    "ariaLabel": "Ruta de navegación: Monumento Al Pipila en Guanajuato, México",
+    "items": [
+      "Monumento Al Pipila",
+      "Guanajuato",
+      "Guanajuato",
+      "México"
+    ]
+  },
   "hero": {
-    "title": "Monumento Al Pipila",
+    "title": "Monumento Al Pipila (Guanajuato)",
     "subtitle": "Guanajuato · México",
     "rating": "4.7",
-    "reviewCount": "38,759",
+    "reviewCount": "39,069",
     "hours": "Abierto 24/7",
-    "openMaps": "Ver ubicación"
+    "openMaps": "Ver ubicación",
+    "imageAlt": "Monumento Al Pipila – vista principal en Guanajuato, México"
   },
   "intro": {
-    "title": "Explora el Monumento Al Pipila",
+    "title": "Acerca del Monumento Al Pipila",
+    "welcome": "Bienvenido a **Monumento Al Pipila**, ampliamente reconocido como el icónico monumento **El Pípila** y el mirador más emblemático de Guanajuato. Ubicado en el corazón de **Guanajuato**, estado de **Guanajuato**, **México**, este destino es un punto de partida esencial para los viajeros que visitan la región.",
     "description": "El Monumento al Pípila es uno de los lugares más icónicos de Guanajuato, ciudad Patrimonio de la Humanidad de la UNESCO en el estado de Guanajuato, México. El obelisco de 28 metros de altura fue construido en 1939 para honrar a Juan José de los Reyes Martínez Amaro, apodado 'El Pípila', héroe de la Guerra de Independencia de México. Desde la plaza del monumento, los visitantes pueden disfrutar de una vista panorámica de 360 grados de Guanajuato, lo que lo convierte en un mirador imperdible.",
     "visitGuide": {
       "title": "Consejos de visita",
@@ -101,7 +413,7 @@
     "address": "Dirección",
     "addressValue": "Cerro de San Miguel S/N, Zona Centro, 36000 Guanajuato, Gto., Mexico",
     "plusCode": "Coordenadas GPS",
-    "plusCodeValue": "21.0160° N, 101.2534° W"
+    "plusCodeValue": "21.0145° N, 101.2544° W"
   },
   "hours": {
     "title": "Horarios",
@@ -120,9 +432,9 @@
     "outdoorPrice": "Gratis (plaza pública)",
     "lighthouse": "Teleférico",
     "adults": "Ida y vuelta (adulto)",
-    "adultsPrice": "Aproximadamente 80-100 MXN (precio sujeto a cambios)",
+    "adultsPrice": "Unos MX$70 ida y vuelta (aprox. MX$35 sencillo); tarifas sujetas a cambios",
     "students": "Niños/Estudiantes",
-    "studentsPrice": "Puede haber descuento (se requiere identificación válida)",
+    "studentsPrice": "Niños 4-11 y adultos mayores con credencial: aprox. la mitad",
     "children": "Caminar hacia arriba",
     "childrenPrice": "Gratis (unos 20-30 minutos caminando desde el centro)",
     "card": "Consejos",
@@ -146,6 +458,7 @@
   "gallery": {
     "title": "Fotos impresionantes",
     "subtitle": "El encanto del Monumento Al Pipila",
+    "altPrefix": "Monumento Al Pipila",
     "captions": [
       "Vista panorámica del monumento",
       "Panorama de Guanajuato",
@@ -217,11 +530,14 @@
     ]
   },
   "mapSection": {
-    "title": "Ubicación y mapa",
+    "title": "Ubicación y cómo visitar El Pípila en Guanajuato",
     "subtitle": "Cerro de San Miguel S/N, Zona Centro, 36000 Guanajuato, Gto., Mexico",
-    "openMaps": "Ver en Google Maps"
+    "openMaps": "Ver en Google Maps",
+    "officialPortalNote": "Para información oficial y actualizaciones de turismo regional, visita",
+    "officialPortalLabel": "el portal oficial de la Secretaría de Turismo de México (Gob.mx)"
   },
   "footer": {
+    "thingsToDo": "Cosas que hacer en Guanajuato",
     "rights": "© 2026 Monumento Al Pipila. Todos los derechos reservados.",
     "privacy": "Política de privacidad",
     "terms": "Términos de servicio",
@@ -249,7 +565,8 @@
         "url": "https://www.gob.mx/sre"
       }
     },
-    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales."
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales.",
+    "imageRights": "Derechos de imagen: todas las fotografías mostradas en este sitio web son propiedad y derechos de autor de sus respectivos fotógrafos. 本网站所展示的所有图片产权及版权均归原摄影者所有。"
   },
   "privacy": {
     "title": "Política de privacidad",
@@ -350,7 +667,7 @@
     "text": "El Monumento al Pípila se encuentra en Guanajuato, Estado de Guanajuato, México. Construido en 1939, el obelisco de 28 metros de altura honra a Juan José de los Reyes Martínez Amaro (apodado El Pípila), héroe de la Guerra de Independencia de México. El 28 de septiembre de 1810, durante el Sitio de Guanajuato, El Pípila valientemente prendió fuego a la puerta del fuerte español, haciendo una contribución crucial a la independencia mexicana. Hoy en día, es el mejor mirador para vistas panorámicas de la ciudad de Guanajuato, Patrimonio de la Humanidad de la UNESCO."
   },
   "historyTimeline": {
-    "title": "Línea de tiempo histórica",
+    "title": "Historia y significado del Monumento Al Pipila",
     "items": [
       {
         "year": "1782",
@@ -398,6 +715,365 @@
         "id": "legacy",
         "title": "Legado histórico y conmemoración",
         "content": "Las hazañas heroicas de El Pípila dejaron una marca indeleble en la historia mexicana. Para conmemorar a este héroe de la Guerra de Independencia, el gobierno municipal de Guanajuato construyó este obelisco de 28 metros de altura en el Cerro de San Miguel en 1939. El monumento fue diseñado conjuntamente por el escultor Juan Fernando Olaguíbel y el arquitecto Augusto Petriccioli, y ahora se ha convertido en uno de los lugares más icónicos de Guanajuato y un símbolo importante del espíritu de independencia mexicana. Cada año, decenas de miles de visitantes vienen a visitar y rendir homenaje a este héroe que se dedicó a la independencia mexicana."
+      }
+    ]
+  },
+  "nearby": {
+    "title": "Monumentos y atracciones alrededor de El Pípila",
+    "intro": "Al visitar **Monumento Al Pipila**, los visitantes pueden explorar fácilmente los monumentos históricos y puntos de interés cercanos, incluidos **Alhóndiga de Granaditas** y **Jardín de la Unión**, a pocos minutos caminando cuesta abajo del mirador.",
+    "hint": "Empieza en la plaza del monumento y baja hacia el centro histórico de Guanajuato para descubrir estos lugares:",
+    "places": [
+      {
+        "name": "Alhóndiga de Granaditas",
+        "desc": "La fortaleza-granero donde tuvo lugar la hazaña de El Pípila en 1810; hoy alberga un museo regional."
+      },
+      {
+        "name": "Jardín de la Unión",
+        "desc": "La animada plaza central de Guanajuato, rodeada de restaurantes y con la estación inferior del funicular del Pípila."
+      },
+      {
+        "name": "Teatro Juárez",
+        "desc": "Un gran teatro neoclásico justo debajo del cerro, inaugurado en 1903."
+      },
+      {
+        "name": "Basílica de Nuestra Señora de Guanajuato",
+        "desc": "La iglesia principal de la ciudad, famosa por conservar una de las imágenes cristianas más antiguas de México."
+      },
+      {
+        "name": "Universidad de Guanajuato",
+        "desc": "Su emblemática escalinata de piedra se ha convertido en símbolo de la vida cultural de la ciudad."
+      },
+      {
+        "name": "Callejón del Beso",
+        "desc": "El famoso «Callejón del Beso», a pocos minutos a pie cuesta abajo del monumento."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "subtitle": "Todo lo que necesitas saber antes de visitar el Monumento Al Pipila en Guanajuato.",
+    "items": [
+      {
+        "q": "¿Dónde se encuentra el Monumento Al Pipila?",
+        "a": "El Monumento Al Pipila se encuentra en el Cerro de San Miguel, en el centro histórico de Guanajuato, estado de Guanajuato, México. La dirección completa es Cerro de San Miguel S/N, Zona Centro, 36000 Guanajuato, Gto., México."
+      },
+      {
+        "q": "¿Es gratuito visitar el Monumento Al Pipila?",
+        "a": "Sí. El monumento y su plaza pública son de acceso gratuito todo el año. Solo se paga si prefieres subir en el funicular (teleférico) en lugar de caminar."
+      },
+      {
+        "q": "¿Cómo llego al Monumento Al Pipila?",
+        "a": "Puedes caminar desde el centro de Guanajuato en unos 20–30 minutos, tomar el teleférico que sale cerca del Jardín de la Unión o llegar en automóvil hasta el estacionamiento junto al mirador."
+      },
+      {
+        "q": "¿Por qué se llama Monumento Al Pipila?",
+        "a": "Honra a Juan José de los Reyes Martínez Amaro, apodado «El Pípila», un minero que se convirtió en héroe de la Guerra de Independencia de México al incendiar la puerta de la Alhóndiga de Granaditas durante el Sitio de Guanajuato de 1810."
+      },
+      {
+        "q": "¿Qué se ve desde el Monumento Al Pipila?",
+        "a": "La plaza ofrece una vista panorámica de 360 grados del centro histórico de Guanajuato, Patrimonio de la Humanidad de la UNESCO, incluyendo la Basílica de Nuestra Señora de Guanajuato, la Universidad de Guanajuato, la Alhóndiga de Granaditas y las montañas circundantes, especialmente hermosa al atardecer y de noche."
+      },
+      {
+        "q": "¿Qué atracciones hay cerca del Monumento Al Pipila?",
+        "a": "La Alhóndiga de Granaditas, el Jardín de la Unión, el Teatro Juárez, la Basílica de Nuestra Señora de Guanajuato y el famoso Callejón del Beso están a pocos minutos a pie cuesta abajo del monumento."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Fuentes y referencias",
+    "intro": "La información de esta página se ha elaborado a partir de las siguientes fuentes oficiales y de referencia para que los viajeros planifiquen una visita precisa.",
+    "items": [
+      {
+        "name": "Wikipedia – Monumento al Pípila",
+        "url": "https://es.wikipedia.org/wiki/Monumento_al_P%C3%ADpila"
+      },
+      {
+        "name": "Consejo Nacional de Turismo de México (VisitMexico)",
+        "url": "https://visitmexico.com/"
+      },
+      {
+        "name": "Secretaría de Turismo del Gobierno de México",
+        "url": "https://www.gob.mx/sectur"
+      },
+      {
+        "name": "Secretaría de Turismo del Estado de Guanajuato",
+        "url": "https://guanajuato.travel/"
+      },
+      {
+        "name": "INAH – Base de Datos de Patrimonio Nacional y Monumentos Históricos",
+        "url": "https://lugares.inah.gob.mx/es"
+      },
+      {
+        "name": "Centro del Patrimonio Mundial UNESCO – Guanajuato",
+        "url": "https://whc.unesco.org/es/list/482/"
+      },
+      {
+        "name": "Google Maps – Ficha de Monumento Al Pipila",
+        "url": "https://maps.app.goo.gl/tijtga6Z8omokNxv9"
+      }
+    ]
+  },
+  "weather": {
+    "title": "Clima en vivo y pronóstico de 7 días en Guanajuato",
+    "subtitle": "Condiciones actuales junto al Monumento Al Pipila en el Cerro de San Miguel — la plaza del mirador se encuentra a unos 2,050 m sobre el nivel del mar; lleva una prenda ligera para las tardes con brisa.",
+    "today": "Hoy",
+    "feelsLike": "Sensación",
+    "humidity": "Humedad",
+    "wind": "Viento",
+    "precipitation": "Precip.",
+    "chanceRain": "Prob. de lluvia",
+    "condition": {
+      "clear": "Cielo despejado",
+      "mainlyClear": "Mayormente despejado",
+      "partlyCloudy": "Parcialmente nublado",
+      "overcast": "Nublado",
+      "rain": "Lluvia",
+      "thunderstorm": "Tormenta"
+    },
+    "loading": "Cargando el clima…",
+    "unavailable": "El reporte del clima en vivo no está disponible por el momento. Inténtalo de nuevo en unos instantes.",
+    "retry": "Reintentar",
+    "uvIndex": "Índice UV",
+    "uvLevels": {
+      "low": "Bajo",
+      "moderate": "Moderado",
+      "high": "Alto",
+      "veryHigh": "Muy alto",
+      "extreme": "Extremo"
+    },
+    "smart": {
+      "title": "Consejos para tu visita",
+      "subtitle": "Generados con el pronóstico en vivo: cada consejo solo aparece cuando importa para ese día.",
+      "forDay": "Consejos para {date}",
+      "riskTitle": "Aviso de seguridad",
+      "outfit": "Qué ponerte",
+      "activity": "Qué hacer",
+      "gear": "Qué llevar",
+      "noRisk": "Por ahora no hay riesgos meteorológicos importantes: disfruta la visita.",
+      "forecastTitle": "Próximos 7 días: toca un día para ver sus consejos",
+      "tokens": {
+        "fit_mild": "Clima templado y agradable: ropa cómoda de diario.",
+        "fit_warm": "Calor y sol: elige ropa ligera, holgada y de colores claros.",
+        "fit_cool": "Fresco a 2,050 m: lleva una capa de abrigo para la brisa de la plaza.",
+        "fit_swing": "Mucha diferencia térmica entre el día y la noche: vestirse por capas es lo más práctico.",
+        "fit_rainOuter": "Posible lluvia: una capa exterior impermeable sobre ropa de secado rápido.",
+        "fit_windy": "Ráfagas en la cima: un cortavientos o una capucha ajustada ayuda.",
+        "act_sunny": "Despejado y luminoso: ideal para recorrer la plaza del monumento y el centro histórico.",
+        "act_cloudy": "Luz suave y sin sol intenso: cómodo para caminar y fotografiar.",
+        "act_rainLight": "Lluvia ligera: el empedrado se vuelve resbaladizo; ve despacio en escalones y cuestas.",
+        "act_rainHeavy": "Lluvia fuerte: mejor posponer la subida; el funicular y los miradores estarán mojados. Primero los museos.",
+        "act_thunder": "Tormenta: evita zonas altas y miradores abiertos, aléjate de las barandillas metálicas y refúgiate en interiores.",
+        "act_wind": "Viento fuerte en el cerro: no te acerques a las barandillas; el funicular puede ir lento o detenerse.",
+        "act_fog": "Poca visibilidad: el panorama se verá brumoso y los caminos resbaladizos; ve con calma.",
+        "act_heat": "Calor fuerte a mediodía: planifica el exterior para primera hora de la mañana o el atardecer.",
+        "act_chill": "Despejado pero frío tras el atardecer: abrígate si te quedas a la vista nocturna.",
+        "act_pop": "Es probable que llueva más tarde: lleva un paraguas pequeño y ten un museo o una arcada como plan B.",
+        "gear_umbrella": "Paraguas plegable",
+        "gear_raincoat": "Impermeable o poncho (los paraguas largos luchan contra el viento aquí arriba)",
+        "gear_sunscreen": "Protector solar y sombrero",
+        "gear_sunglasses": "Lentes de sol",
+        "gear_water": "Botella de agua",
+        "gear_wind": "Sombrero o bufanda bien sujetos para la plaza ventosa",
+        "risk_thunder": "Riesgo de rayos: evita cimas expuestas, árboles aislados y barandillas metálicas hasta que pase la tormenta.",
+        "risk_heavy": "La lluvia intensa puede dejar fangosos y resbaladizos los caminos de la ladera: evita zonas bajas y rutas empinadas.",
+        "risk_wind": "Se reporta viento muy fuerte: mantente alejado del borde de la plaza y sujeta bien tus objetos.",
+        "risk_heat": "Calor muy intenso: limita el tiempo bajo el sol del mediodía y bebe agua con frecuencia."
+      }
+    }
+  },
+  "seasons": {
+    "title": "Visitar Guanajuato por temporada – estrategia anual",
+    "subtitle": "Una guía rápida de las tierras altas de Guanajuato basada en promedios climáticos a largo plazo, para elegir la mejor época, luz y afluencia para tu visita.",
+    "note": "Es una perspectiva general de largo plazo; confirma siempre con el pronóstico en vivo antes de salir. Las fechas de las festividades pueden variar cada año.",
+    "colSeason": "Temporada",
+    "colMonths": "Meses",
+    "colClimate": "Clima y ambiente",
+    "colTips": "Consejos para el visitante",
+    "rows": [
+      {
+        "season": "Primavera",
+        "span": "Marzo – mayo",
+        "climate": "Cálida, seca y mayormente soleada (unos 14–29 °C). El cielo despejado hace que el panorama desde el monumento sea especialmente nítido; la Semana Santa trae procesiones y plazas animadas a finales de marzo o abril.",
+        "tip": "Ropa ligera, sombrero y protector solar. El amanecer y el final de la tarde ofrecen la mejor luz y menos gente."
+      },
+      {
+        "season": "Verano lluvioso",
+        "span": "Junio – agosto",
+        "climate": "Más caluroso y húmedo, con lluvias cortas por la tarde (unos 18–30 °C). Las colinas se llenan de verde y las nubes se vuelven dramáticas antes de las tormentas vespertinas.",
+        "tip": "Las mañanas suelen estar despejadas: sube temprano. Lleva paraguas compacto o poncho y ten cuidado con los adoquines mojados y resbaladizos."
+      },
+      {
+        "season": "Otoño",
+        "span": "Septiembre – noviembre",
+        "climate": "Agradable de día y templado al atardecer. Octubre acoge el famoso Festival Cervantino y, a inicios de noviembre, el Día de Muertos llena el centro histórico de altares y eventos nocturnos.",
+        "tip": "Reserva el alojamiento con antelación en las semanas de festival. Las noches son templadas; basta una chaqueta ligera."
+      },
+      {
+        "season": "Invierno",
+        "span": "Diciembre – febrero",
+        "climate": "Fresco y mayormente seco (unos 6–24 °C), más frío al anochecer. La luz invernal es excelente para la fotografía y el Jardín brilla con adornos navideños alrededor de Navidad y Año Nuevo.",
+        "tip": "Lleva ropa de abrigo para el atardecer y la vista nocturna desde la plaza. Las mañanas entre semana son las más tranquilas para fotografiar."
+      }
+    ]
+  },
+  "visitPlans": {
+    "audienceTitle": "Rutas adaptadas a tu forma de viajar",
+    "subtitle": "Tres enfoques autoguiados para visitar el Monumento Al Pipila y el centro histórico: elige según tu grupo, ritmo y necesidades.",
+    "routesTitle": "Rutas generales recomendadas – medio día y día completo",
+    "subtitle2": "Dos circuitos flexibles que parten del centro histórico. Los tiempos son aproximados y fáciles de acortar o ampliar.",
+    "halfTitle": "Ruta de medio día",
+    "halfTime": "Aprox. 3–4 horas",
+    "fullTitle": "Ruta de día completo",
+    "fullTime": "Aprox. 6–8 horas, sin prisa",
+    "audiences": [
+      {
+        "title": "Familias con niños",
+        "intro": "Deja que el funicular haga el ascenso y combina el monumento con las plazas animadas del centro.",
+        "points": [
+          "Sube y baja en el teleférico para ahorrar energía a los más pequeños.",
+          "Combina el mirador con las plazas, callejones y el museo regional.",
+          "Planea 2–3 horas con descansos y evita las horas centrales de más calor."
+        ]
+      },
+      {
+        "title": "Amantes de la fotografía y la naturaleza",
+        "intro": "Este mirador es el panorama más clásico de Guanajuato: adáptalo a la luz.",
+        "points": [
+          "Llega 60–90 minutos antes del atardecer para la luz dorada sobre los tejados.",
+          "Usa los bordes de la plaza para encuadres en capas de la catedral y el valle.",
+          "Al anochecer brillan las luces de la ciudad; un trípode pequeño o un apoyo firme ayuda."
+        ]
+      },
+      {
+        "title": "Ritmo tranquilo y accesibilidad",
+        "intro": "Se puede disfrutar del monumento sin una subida exigente.",
+        "points": [
+          "Toma el funicular desde el Jardín de la Unión o la carretera vehicular hasta arriba.",
+          "Los caminos empedrados tienen escalones: tómate más tiempo y descansa en los bancos.",
+          "Ve temprano por la mañana para encontrar aire fresco, menos gente y mayor facilidad."
+        ]
+      }
+    ],
+    "itineraryHalf": {
+      "stops": [
+        {
+          "t": "Comienza en el Jardín de la Unión",
+          "d": "Sube caminando o en el funicular hasta el monumento (unos 15 minutos desde la estación inferior)."
+        },
+        {
+          "t": "Mirador del Monumento Al Pipila",
+          "d": "Dedica 40–60 minutos a recorrer la plaza para el panorama de 360 grados, las fotos y un descanso en los bancos."
+        },
+        {
+          "t": "Baja al centro histórico",
+          "d": "Desciende por los callejones antiguos hacia el Callejón del Beso y el Teatro Juárez (20–30 minutos)."
+        },
+        {
+          "t": "Termina en una plaza principal",
+          "d": "Cierra en el Jardín de la Unión o en la plaza de la Basílica para descansar entre el ambiente local."
+        }
+      ]
+    },
+    "itineraryFull": {
+      "stops": [
+        {
+          "t": "Mañana – núcleo del centro histórico",
+          "d": "Explora la zona del museo Alhóndiga de Granaditas y la Basílica de Nuestra Señora de Guanajuato."
+        },
+        {
+          "t": "Mediodía – mercados y plazas centrales",
+          "d": "Haz una pausa para comer entre los puestos de comida y los restaurantes informales de las plazas y mercados principales."
+        },
+        {
+          "t": "Tarde temprana – monumentos y callejones",
+          "d": "Conoce la escalinata de la Universidad de Guanajuato, el Callejón del Beso y las calles laterales más tranquilas."
+        },
+        {
+          "t": "Final de la tarde – subida al monumento",
+          "d": "Toma el funicular y observa el atardecer panorámico desde la plaza (calcula alrededor de una hora)."
+        },
+        {
+          "t": "Noche – luces de la ciudad y descenso pausado",
+          "d": "Contempla el centro histórico iluminado y regresa caminando o en teleférico mientras las calles siguen animadas."
+        }
+      ]
+    }
+  },
+  "practical": {
+    "title": "Servicios e instalaciones para el visitante",
+    "subtitle": "Qué esperar en el sitio y en el centro histórico cercano, de un vistazo.",
+    "neutralNote": "Solo una visión general neutral por tipo de servicio: indicamos las clases de servicios que suelen encontrarse cerca del monumento, sin recomendar ningún negocio concreto.",
+    "items": [
+      {
+        "t": "Baños públicos",
+        "d": "Hay servicios cerca de la plaza del monumento y en el centro histórico; algunos sanitarios municipales cobran una pequeña tarifa."
+      },
+      {
+        "t": "Estacionamiento",
+        "d": "Se encuentran estacionamientos de pago y algunas calles con espacio cerca del centro histórico; en la carretera que sube al mirador hay estacionamiento lateral limitado. Los fines de semana se llenan temprano."
+      },
+      {
+        "t": "Restaurantes y comida",
+        "d": "Una amplia variedad de restaurantes con servicio de mesa, puestos informales y comida callejera se concentra en las plazas y mercados principales, para muchos presupuestos."
+      },
+      {
+        "t": "Tiendas de conveniencia y mercados",
+        "d": "Las tiendas de conveniencia son habituales en el centro; los supermercados más grandes quedan a poca distancia en coche por las vías principales."
+      },
+      {
+        "t": "Alojamiento",
+        "d": "Hoteles, hostales boutique y albergues se concentran en el centro histórico y sus alrededores, a poca distancia a pie de la estación del teleférico."
+      },
+      {
+        "t": "Combustible y carga eléctrica",
+        "d": "Las gasolineras están en las vías de acceso a la ciudad, no dentro del núcleo peatonal; los puntos públicos de carga eléctrica aparecen poco a poco en los estacionamientos."
+      },
+      {
+        "t": "Transporte público y teleférico",
+        "d": "Autobuses locales y taxis dan servicio al centro; el funicular conecta el Jardín de la Unión con el monumento en aproximadamente un minuto (muchos visitantes disfrutan bajar caminando)."
+      },
+      {
+        "t": "Cajeros y efectivo",
+        "d": "Los bancos y cajeros se concentran cerca de las plazas principales. Lleva algo de efectivo, porque los pequeños comercios y mercados pueden no aceptar tarjetas."
+      },
+      {
+        "t": "Farmacias y salud",
+        "d": "Hay farmacias frecuentes en el centro y clínicas y hospitales que atienden a toda la ciudad. En caso de emergencia marca el 911."
+      },
+      {
+        "t": "Información turística",
+        "d": "En el centro histórico funcionan puntos municipales de información turística: pregunta allí por mapas actualizados, horarios y el calendario de eventos."
+      }
+    ]
+  },
+  "guidelines": {
+    "title": "Conciencia patrimonial y visita responsable",
+    "subtitle": "La plaza del monumento es un espacio público abierto y un sitio protegido: un poco de cuidado lo mantiene acogedor para todos.",
+    "note": "Esta guía es un resumen educativo independiente y sin fines de lucro. Las normas pueden cambiar; sigue la señalización local y la reglamentación vigente.",
+    "items": [
+      {
+        "t": "Protege el monumento",
+        "d": "La escultura, el pedestal y las barandillas del mirador son patrimonio protegido. No subas a la escultura ni pases más allá de las barreras."
+      },
+      {
+        "t": "No dejes basura",
+        "d": "Usa los botes de la plaza o llévate tus residuos: la ladera no cuenta con limpieza diaria."
+      },
+      {
+        "t": "Cuida tus pasos",
+        "d": "Las superficies son empedradas e irregulares, con escalones y bordes abiertos cerca de los miradores. Usa calzado firme y vigila a los niños."
+      },
+      {
+        "t": "Clima y altitud",
+        "d": "La plaza está a unos 2,050 m sobre el nivel del mar. Camina con calma si no estás acostumbrado a la altitud, protégete del sol intenso del mediodía y ten cuidado con los adoquines mojados."
+      },
+      {
+        "t": "Respeta a todos",
+        "d": "Mantén un tono moderado, no bloquees los miradores por mucho tiempo y pide permiso antes de fotografiar a personas o vendedores."
+      },
+      {
+        "t": "Sigue las normas locales",
+        "d": "El uso de drones y la filmación comercial pueden estar restringidos en el centro histórico; consulta la reglamentación municipal vigente antes de usar cualquier equipo."
       }
     ]
   }

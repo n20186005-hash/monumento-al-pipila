@@ -2,18 +2,19 @@
 
 import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
+import { SITE } from '@/config/site';
 
 const photoFiles = [
-  'monumento-al-pipila (1).jpg',
-  'monumento-al-pipila (2).jpg',
-  'monumento-al-pipila (3).jpg',
-  'monumento-al-pipila (4).jpg',
-  'monumento-al-pipila (5).jpg',
-  'monumento-al-pipila (6).jpg',
-  'monumento-al-pipila (7).jpg',
-  'monumento-al-pipila (8).jpg',
-  'monumento-al-pipila (9).jpg',
-  'monumento-al-pipila (10).jpg',
+  'monumento-al-pipila-1.jpg',
+  'monumento-al-pipila-2.jpg',
+  'monumento-al-pipila-3.jpg',
+  'monumento-al-pipila-4.jpg',
+  'monumento-al-pipila-5.jpg',
+  'monumento-al-pipila-6.jpg',
+  'monumento-al-pipila-7.jpg',
+  'monumento-al-pipila-8.jpg',
+  'monumento-al-pipila-9.jpg',
+  'monumento-al-pipila-10.jpg',
 ];
 
 export default function Gallery() {
@@ -24,7 +25,7 @@ export default function Gallery() {
 
   const photos = photoFiles.map((file, i) => ({
     src: `/gallery/${file}`,
-    alt: captions?.[i] || `Monumento Al Pipila ${i + 1}`,
+    alt: captions?.[i] ? `${t('altPrefix')} – ${captions[i]}` : `Monumento Al Pipila ${i + 1}`,
   }));
 
   const visiblePhotos = photos;
@@ -82,7 +83,7 @@ export default function Gallery() {
 
             <div className="flex justify-center mt-8">
               <a
-                href="https://www.google.com/maps/search/?api=1&query=Monumento+Al+Pipila+Guanajuato"
+                href={SITE.mapsShareUrl}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"

@@ -29,6 +29,13 @@ yarn-error.log*
 # vercel
 .vercel
 
+# cloudflare workers
+.wrangler/
+.dev.vars
+
+# local full-resolution image backups (kept out of the repo & deployment)
+_image_backup/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts

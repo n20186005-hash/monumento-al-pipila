@@ -1,25 +1,337 @@
 {
   "meta": {
-    "title": "Monumento Al Pipila | Guanajuato Viewpoint | Mexico",
-    "description": "Explore Monumento Al Pipila in Guanajuato, Mexico. This iconic monument sits atop a hill offering breathtaking panoramic views of the UNESCO World Heritage city of Guanajuato."
+    "title": "Monumento al Pípila Guanajuato | Best Viewpoint & Funicular Guide",
+    "description": "Visit El Pípila viewpoint in Guanajuato: funicular tickets & hours, sunset views, the 1939 monument's history, and the best things to do nearby."
+  },
+  "funicularGuide": {
+    "title": "Guanajuato Funicular to El Pípila: Price, Hours & Sunset Guide",
+    "description": "How to ride the Guanajuato funicular (teleférico) from Teatro Juárez to the El Pípila viewpoint: ticket prices, opening hours, where to board and the best time to ride.",
+    "eyebrow": "Transport guide",
+    "lastUpdated": "Last updated: September 2026",
+    "introTitle": "The one-minute ride to Guanajuato's best view",
+    "intro": [
+      "The Guanajuato funicular (often written teleférico on local signs and guides) is the easiest way to reach the Monumento al Pípila, the city's most famous viewpoint. The lower station sits in the historic center behind Teatro Juárez, a step from Jardín de la Unión, and the upper station opens directly onto the Pípila lookout plaza.",
+      "The ride takes about a minute and can save you a steep 20-30 minute climb. The fares below follow the tariffs published by the local tourism board, with a note on what to double-check when you arrive."
+    ],
+    "factsTitle": "Funicular Guanajuato: fast facts",
+    "facts": [
+      { "name": "Route", "value": "Teatro Juárez / Jardín de la Unión to Monumento al Pípila" },
+      { "name": "Ride time", "value": "About 1 minute (track around 100 m long on a steep incline)" },
+      { "name": "Adult fare", "value": "Roughly MX$35 one way / MX$70 round trip (some current signs list MX$80; check the booth)" },
+      { "name": "Kids & seniors", "value": "Children 4-11 and seniors with ID pay about half price" },
+      { "name": "Opening hours", "value": "Usually Mon-Fri 08:00-21:50, Sat 09:00-21:50, Sun 10:00-20:50; varies by season and events" },
+      { "name": "Good to know", "value": "No bikes or pets on board; local residents ride at a discount with ID" }
+    ],
+    "routeTitle": "Where it goes and where to board",
+    "route": [
+      "The lower station is tucked behind Teatro Juárez, just off Jardín de la Unión; look for the small ticket booth and the glass waiting area. The funicular runs in both directions, so you can buy a ticket at either end and ride up or down.",
+      "From the upper station you step straight onto the Pípila plaza, next to the 28-meter monument, souvenir shops and viewpoints over the city."
+    ],
+    "ticketTitle": "Tickets and prices",
+    "ticketParagraphs": [
+      "Tickets are sold at booths by both stations and most visitors buy a round trip. The tourism board's published adult tariff has been MX$35 one way and MX$70 round trip (2024-2025), with an even lower one-way rate for Guanajuato residents who show ID.",
+      "Children aged 4-11 and seniors with INAPAM ID generally pay about half. Some 2025-2026 traveler guides quote an adult round-trip fare of MX$80, so prices may have moved; the safest move is to check the tariff board at the window before buying."
+    ],
+    "hoursTitle": "Opening hours",
+    "hours": [
+      "Published service hours are roughly Monday-Friday 08:00-21:50, Saturday 09:00-21:50 and Sunday 10:00-20:50. Around big events such as the Festival Internacional Cervantino in October the schedule is sometimes extended.",
+      "Hours can change at short notice for maintenance, weather or holidays. If your plan is sunset, arrive at least 30 minutes before the published closing time so the ride down never feels rushed."
+    ],
+    "sunsetTitle": "Best time to ride: sunset and after dark",
+    "sunset": [
+      "Aim to be on the Pípila plaza about 45 minutes before sunset. You will see the warm light wash over the painted colonial center, then watch the valley lights switch on - two completely different views from the same spot.",
+      "Remember the funicular can close between 20:50 and 21:50 depending on the day. If you stay past closing, the walk down is safe, well-lit and takes 20-30 minutes; many travelers prefer it for the alleys at night."
+    ],
+    "walkTitle": "The free alternative: walking up",
+    "walk": [
+      "If you want to skip the ticket, the classic route climbs from the center to El Pípila in 20-30 minutes over paved streets, stairways and ramps. It is steep but busy with walkers during the day and passes small shops and cafes.",
+      "A popular trick is to ride up and walk down (or the reverse): you get the aerial view plus the street-level experience of Guanajuato's famous alleys."
+    ],
+    "faqTitle": "Funicular Guanajuato: quick answers",
+    "faq": [
+      { "q": "Is the funicular the same as the teleférico / cable car?", "a": "Yes. Signs and locals usually call it the teleférico (cable car), but it is technically a funicular - a car pulled on rails up the slope. Both names refer to the same short ride to El Pípila." },
+      { "q": "How much does the funicular cost?", "a": "The official adult tariff has been around MX$35 one way and MX$70 round trip, with cheaper fares for children, seniors and residents. Recent guides have quoted MX$80 round trip, so confirm the board price when you arrive." },
+      { "q": "Where do I catch it?", "a": "In the historic center behind Teatro Juárez, next to Jardín de la Unión. The upper station sits directly at the Monumento al Pípila." },
+      { "q": "Can I walk instead?", "a": "Yes. The route from the center takes 20-30 minutes on foot and is free; combining one funicular ride with a walk is a popular option." }
+    ],
+    "ctaCardTitle": "See the full picture",
+    "ctaCardText": "The funicular is just one highlight of Guanajuato. Browse the complete list of the city's best things to do, museums and viewpoints.",
+    "ctaCardLabel": "15 best things to do in Guanajuato",
+    "sunsetCta": "Read the full El Pípila sunset & night guide",
+    "ctaHomeLabel": "Back to the main El Pípila guide",
+    "backLabel": "Back to things to do in Guanajuato"
+  },
+  "pipilaSunsetGuide": {
+    "title": "El Pípila at Sunset & Night: Best Time, Photos & Practical Tips",
+    "description": "The complete guide to watching sunset and nightfall from the Monumento al Pípila viewpoint in Guanajuato: when to arrive by season, how the view changes, photo spots and how to get back down after dark.",
+    "eyebrow": "Photo & timing guide",
+    "lastUpdated": "Last updated: September 2026",
+    "introTitle": "Two views for the price of one",
+    "intro": [
+      "The funicular drops you at one of Mexico's most photographed viewpoints, but the real magic is a question of timing. Catch El Pípila in the last hour of daylight and you get two completely different shows in one visit: first the golden light washing over Guanajuato's painted colonial center, then the valley slowly switching on below you.",
+      "This page is your timing guide: when to arrive by season, where to stand for the best angles, and how to plan the trip back down once the funicular has closed."
+    ],
+    "seasonTitle": "When sunset happens in Guanajuato",
+    "season": [
+      "Guanajuato's sunset time swings widely through the year. Around the winter solstice (December-January) the sun sets by roughly 18:15-18:30, so you can enjoy the show and still have an early dinner. Around the summer solstice (June-July) sunset can come close to 20:30-20:45, which pushes the best viewing into the late evening.",
+      "Aim to arrive 45-60 minutes before the published sunset time. That gives you a relaxed choice of railing spots, the full golden hour, and lets you stay 30-60 minutes after the sun goes down - the stretch when the city lights really take over."
+    ],
+    "crowdTitle": "Busy vs quiet evenings",
+    "crowd": [
+      "Sunset is genuinely popular, and weekend evenings are the busiest, with families and groups sharing the best railings. A weekday visit is calmer, and arriving slightly early is always the trick.",
+      "Remember that the viewpoint is compact, so the golden-hour atmosphere is social and lively rather than meditative. If you prefer quiet, be there 45-60 minutes before sunset to enjoy the last relaxed minutes before the crowd fills in."
+    ],
+    "photoTitle": "Where to stand and photo tips",
+    "photo": [
+      "Most of the panorama faces the historic center, so look for a spot along the railing toward the basilica's dome and the university's landmark staircase. A mid-height position - not too close to the monument - usually frames the rooftops best.",
+      "Small changes make a real difference: bring a lightweight tripod for the blue hour; keep the monument's edge or a railing line in the frame for depth; wait until 15-30 minutes after sunset, when the street lights are fully on, for the classic night shot; and visit once in daylight first so you know your angles before dark."
+    ],
+    "cityLightsTitle": "The night view you came for",
+    "cityLights": [
+      "After the sun drops, the historic center does something wonderful: warm street lamps trace the alleys and staircases below, the basilica glows above Plaza de la Paz, and the canyon of rooftops turns into a pool of light.",
+      "The colors shift fast in the first half hour - keep shooting or just keep watching. On clear evenings this is also the best window for long-exposure photos with silhouettes along the rail."
+    ],
+    "gettingDownTitle": "Getting down after dark",
+    "gettingDown": [
+      "You have two options. The funicular normally runs until about 20:50-21:50 depending on the day, and it still draws a queue after the sunset show. If you stay later, the walk down takes 20-30 minutes on well-lit streets and alleys - a lovely night walk in its own right that many visitors actually prefer.",
+      "The descent passes through the city's most atmospheric alleys. If you have the energy, plan a slow walk down and finish with a drink in the Jardín de la Unión."
+    ],
+    "bestMonthsTitle": "Best months and special evenings",
+    "bestMonths": [
+      "Every month works. Late autumn and winter bring earlier, often clearer evenings; the rainy season (roughly June-September) frequently clears after an afternoon storm, leaving dramatic clouds at sunset. During October's Festival Internacional Cervantino the historic center below glows with extra activity, and around holidays and New Year the viewpoint fills early for the fireworks and celebrations over the valley."
+    ],
+    "faqTitle": "Sunset at El Pípila: quick answers",
+    "faq": [
+      { "q": "What is the best time to go to El Pípila?", "a": "Golden hour. Arrive 45-60 minutes before sunset to catch the warm light, then stay at least 30 minutes after the sun goes down to watch the city lights come on." },
+      { "q": "How long should I spend up there?", "a": "Plan 1.5-2 hours for the sunset, the lights and photos. Add dinner afterwards and it becomes a relaxed half evening." },
+      { "q": "Is El Pípila safe at night?", "a": "Yes. It is one of Mexico's most visited viewpoints: the plaza is lit and busy in the evening, and the walk down follows main streets and well-trodden alleys." },
+      { "q": "Do I need the funicular to come down?", "a": "No. You can walk the 20-30 minute route down at any time. If you prefer to ride, check that day's closing time so you are not left waiting - see the funicular guide for current hours." }
+    ],
+    "ctaCardTitle": "Keep planning your Guanajuato visit",
+    "ctaCardText": "This sunset guide is part of a bigger collection: the city's best things to do and the full funicular guide to El Pípila.",
+    "ctaThingsLabel": "15 best things to do in Guanajuato",
+    "ctaFunicularLabel": "Funicular guide: prices, hours & tips",
+    "backLabel": "Back to the El Pípila funicular guide"
+  },
+  "churchesGuide": {
+    "title": "Churches in Guanajuato, Mexico: the 5 Must-See Temples",
+    "description": "The best churches to visit in Guanajuato, Mexico: the Basilica of Our Lady of Guanajuato, San Diego, San Roque, La Compañía and La Valenciana, with their history and practical visiting tips.",
+    "eyebrow": "City guide",
+    "lastUpdated": "Last updated: September 2026",
+    "introTitle": "A UNESCO center full of temples",
+    "intro": [
+      "Guanajuato's historic core is a UNESCO World Heritage site, and tucked among the painted houses are around two dozen churches, chapels and former convents. You could tour a different one every day - but most visitors come for five, and they cover very different chapters of the city's story.",
+      "The list below ranges from the city's main basilica to a small plaza church that gave birth to a world-famous festival, plus a jewel of the silver age a short ride outside the center."
+    ],
+    "listTitle": "The five churches to see first",
+    "churches": [
+      {
+        "name": "Basilica of Our Lady of Guanajuato (Basílica Colegiata de Nuestra Señora de Guanajuato)",
+        "area": "Plaza de la Paz, historic center",
+        "tag": "The city's main church",
+        "body": "Guanajuato's most important church was built between 1671 and 1696 in pink-and-yellow local stone. With twin towers and a central dome, it overlooks the elegant Plaza de la Paz. Inside it guards the image of the Virgin of Guanajuato, a wooden Virgin-and-Child sculpture brought from Spain in 1557 and considered one of the oldest Christian images in the Americas; mining families later adorned it with jewels. The church was raised to a minor basilica in 1957 and entry is free."
+      },
+      {
+        "name": "Templo de San Diego",
+        "area": "On the edge of Jardín de la Unión, next to Teatro Juárez",
+        "tag": "The church that frames the city's main square",
+        "body": "San Diego rises beside the leafy Jardín de la Unión, the square you will naturally end up in for a coffee. Built as a church of the Dieguino order of Discalced Franciscans, it holds an ornate baroque interior that is frequently in use for masses and weddings. It is one of the most photographed church-and-plaza scenes in the city."
+      },
+      {
+        "name": "Templo de San Roque",
+        "area": "Plazuela de San Roque, a short walk from the Mercado Hidalgo",
+        "tag": "Cradle of the Festival Internacional Cervantino",
+        "body": "Built in 1726, this modest pink-stone temple faces a small plaza where, from 1952, open-air performances of Cervantes' short plays - the Entremeses Cervantinos - were staged. That tradition grew into today's Festival Internacional Cervantino, so every October the steps and square in front of San Roque turn into a stage again."
+      },
+      {
+        "name": "Templo de la Compañía (Compañía de Jesús - Oratorio de San Felipe Neri)",
+        "area": "One block from the basilica, toward the University",
+        "tag": "The Jesuits' baroque church",
+        "body": "Begun by the Jesuits in 1747, the Compañía is one of the city's most notable baroque temples. Its historic complex, the Templo y Casa de la Compañía, is a quiet spot a minute's walk from the basilica's crowds, and part of the complex hosts the Pinacoteca art collection - so art lovers can turn a church stop into a mini gallery visit."
+      },
+      {
+        "name": "Templo de San Cayetano, La Valenciana",
+        "area": "On the road to Dolores Hidalgo, a short ride north of the center",
+        "tag": "The silver boom's greatest church",
+        "body": "Built between 1765 and 1788 with money from the La Valenciana silver mine, this church shows what Guanajuato's mining wealth could buy. Its Churrigueresque stone entrance is regarded as one of the finest in central Mexico, and inside you will find gilded altars and an ivory-inlaid pulpit. Note that the facade is asymmetrical: a second bell tower was planned but never finished. Combine it with the neighboring La Valenciana mine; a taxi from the center is the easiest option (around MX$40), or take one of the few buses that pass by."
+      }
+    ],
+    "etiquetteTitle": "Visiting tips and etiquette",
+    "etiquette": [
+      "Most temples are free to enter, and it is polite to leave a small donation. Some collections, such as the Pinacoteca in the Compañía complex, may charge a modest admission.",
+      "These are working churches, not museums. Dress modestly (shoulders and knees covered), speak softly, and step out if you arrive during a service. Photography is usually fine inside when no mass is underway, but skip the flash and never photograph ceremonies without asking.",
+      "Opening hours are not fixed: doors typically open in the morning and may close in the afternoon or during services. Plan temple stops for weekday mornings and allow 15-25 minutes per church (more if you want to sit)."
+    ],
+    "walkTitle": "Put it together in one walk",
+    "walk": [
+      "The center clusters nicely: start at the Basilica on Plaza de la Paz, detour one block to the Compañía, drift to the Jardín de la Unión and San Diego, then follow the alleys to San Roque and the Mercado Hidalgo.",
+      "Save La Valenciana for a separate morning or afternoon. The church sits on the main road out of the city beside the old mine, and a visit to both makes a classic half-day outing with views back over Guanajuato."
+    ],
+    "faqTitle": "Churches in Guanajuato: quick answers",
+    "faq": [
+      { "q": "Are the churches in Guanajuato free?", "a": "Yes, the temples themselves are free to enter, though a donation is appreciated. Separate collections, like the Pinacoteca inside the Compañía complex, may charge a small admission." },
+      { "q": "Is there a dress code?", "a": "Keep it respectful: cover your shoulders and knees, and keep your voice low. Churches may close to visitors during services." },
+      { "q": "Can I take photos inside?", "a": "Usually yes when no service is underway. Avoid flash, and never photograph weddings or ceremonies without asking first." },
+      { "q": "Which church should I not miss?", "a": "The Basilica of Our Lady of Guanajuato is the essential stop in the center. If you have a couple of spare hours, Templo de San Cayetano (La Valenciana) is the most spectacular church of all and worth the short ride." }
+    ],
+    "ctaCardTitle": "Make a day of Guanajuato's highlights",
+    "ctaCardText": "The churches sit in the middle of a bigger story. Browse the full list of the city's best things to do and pair your church walk with the sunset viewpoint at El Pípila.",
+    "ctaThingsLabel": "15 best things to do in Guanajuato",
+    "ctaFunicularLabel": "Funicular guide to El Pípila",
+    "backLabel": "Back to things to do in Guanajuato"
+  },
+  "thingsToDo": {
+    "title": "15 Best Things to Do in Guanajuato, Mexico | Local Guide",
+    "description": "Planning a trip to Guanajuato? Top things to do include the El Pípila viewpoint & funicular, historic churches and museums, alleys and hidden local gems. Local tips inside.",
+    "eyebrow": "Guanajuato travel guide",
+    "lastUpdated": "Last updated: September 2026",
+    "introTitle": "The best things to do in Guanajuato",
+    "intro": [
+      "Compact, colorful and walkable at its core, the historic center of Guanajuato is one of Mexico's easiest cities to explore. Nearly every attraction below is within a 10-25 minute walk of the Jardín de la Unión, and the funicular connects the main plaza to the hilltop Monumento al Pípila in about one minute.",
+      "This list focuses on things you can genuinely do on a short trip: unforgettable viewpoints, churches you can walk between in minutes, museums, food, and the underground streets that make this UNESCO World Heritage city unique.",
+      "If you only have time for one highlight, start with the El Pípila viewpoint at sunset; the funicular ride and a free walking alternative are both described below."
+    ],
+    "chipsTitle": "Jump to",
+    "chips": [
+      "Funicular to El Pípila",
+      "Sunset walk-up trail",
+      "Alley of the Kiss",
+      "Churches of the center",
+      "La Valenciana",
+      "Alhóndiga museum",
+      "Diego Rivera museum",
+      "University steps",
+      "Jardín & Teatro Juárez",
+      "Callejoneadas at night",
+      "Mercado Hidalgo food",
+      "Mummy museum",
+      "Underground tunnels",
+      "Day-trip ideas",
+      "3 itineraries"
+    ],
+    "listTitle": "15 things to do in Guanajuato",
+    "listIntro": "Ordered roughly from can't-miss to nice-if-you-have-time. Every stop is inside Guanajuato city unless noted.",
+    "items": [
+      {
+        "title": "Ride the funicular to the El Pípila viewpoint",
+        "desc": "The quickest, most scenic route to Guanajuato's best panorama. The one-minute funicular from Jardín de la Unión saves you the steep climb and feels like a mini ride in itself. At the top, walk around the 28-meter monument honoring hero El Pípila and look out over the whole UNESCO-listed city.",
+        "tip": "Best time: about 45 minutes before sunset"
+      },
+      {
+        "title": "Or hike the Cerro de San Miguel trail instead",
+        "desc": "Skip the ticket line and climb the switchback streets and steps from the center (roughly 20-30 minutes). The route is steep but paved and safe in daylight, with little shops and viewpoints along the way.",
+        "tip": "Walk up, ride the funicular back down"
+      },
+      {
+        "title": "Kiss under the Callejón del Beso",
+        "desc": "Guanajuato's most famous alley, a few steps from the Jardín de la Unión, tells a legend of lovers whose balconies almost touch. Couples kiss on the third step while the crowd below cheers. Go early to avoid the queue.",
+        "tip": "A 10-minute stop between nearby sights"
+      },
+      {
+        "title": "Visit the churches of the historic center",
+        "desc": "Within a short walk you can see the pink Basílica Colegiata on Plaza de la Paz, the ornate Templo de San Diego facing Jardín de la Unión, the carved facade of La Compañía and the small plaza of San Roque. Entry is free and photography is welcome.",
+        "tip": "Start at the Basílica, finish at San Roque"
+      },
+      {
+        "title": "Admire La Valenciana church and mine",
+        "desc": "One of Mexico's most lavish colonial churches stands above the city beside the old Valenciana silver mine. Its baroque altar glows with gold leaf - the shining monument to the silver wealth that built Guanajuato.",
+        "tip": "About 20 minutes by local bus or taxi from the center"
+      },
+      {
+        "title": "Step inside the Alhóndiga de Granaditas",
+        "desc": "This handsome former grain fortress was the stage for El Pípila's famous 1810 deed during the Siege of Guanajuato. Today it is the state's regional museum, with murals, pre-Hispanic pieces and Independence history - the best indoor way to understand the monument above.",
+        "tip": "Usually closed on Mondays; confirm hours"
+      },
+      {
+        "title": "See Diego Rivera's childhood home",
+        "desc": "Museo Casa Diego Rivera occupies the house where the muralist was born in 1886. Its collection holds family objects, early paintings and a sketchbook, and the roof terrace gives an unexpected view over the rooftops.",
+        "tip": "Small museum; allow about one hour"
+      },
+      {
+        "title": "Climb the university steps",
+        "desc": "The neoclassical staircase of the University of Guanajuato is the city's meeting point and a classic photo spot. Join the students on the steps, then turn and admire the yellow facade and the alleys falling away below.",
+        "tip": "Best in late-afternoon light"
+      },
+      {
+        "title": "People-watch in Jardín de la Unión",
+        "desc": "Guanajuato's social heart is a leafy plaza ringed by cafés and street musicians, facing the soaring Moorish arches of Teatro Juárez. Listen to estudiantinas play, or book a show inside the 1903 theater.",
+        "tip": "Live music on most evenings"
+      },
+      {
+        "title": "Join a callejoneada at night",
+        "desc": "A callejoneada is Guanajuato's signature evening event: musicians lead a cheerful, lantern-lit parade through the alleys with legends, songs and a toast. Even without Spanish you will enjoy the festive crowd.",
+        "tip": "Departures from Jardín de la Unión after dark"
+      },
+      {
+        "title": "Eat at Mercado Hidalgo",
+        "desc": "The handsome iron market near the main plaza is the place for casual meals and souvenirs. Try regional dishes such as enchiladas mineras, or grab fruit, quesadillas and charamuscas (the Pípila-shaped sugarcane candy).",
+        "tip": "Lunch here to save time and money"
+      },
+      {
+        "title": "Visit the Mummy Museum - with caution",
+        "desc": "About 25 minutes from the center, the Museo de las Momias displays naturally mummified bodies recovered from the municipal cemetery. It is internationally famous but genuinely macabre, and not for small children.",
+        "tip": "Take a bus or taxi; check photo rules inside"
+      },
+      {
+        "title": "Explore the underground streets",
+        "desc": "The historic center sits above a network of tunnels built to divert floodwater, now used as the city's main roads. Driving or walking through them is one of the most unusual urban experiences in Mexico.",
+        "tip": "A quick, free and very local detour"
+      },
+      {
+        "title": "Add a day trip to Dolores Hidalgo or San Miguel",
+        "desc": "With a second day, visit Dolores Hidalgo, about 40 minutes away, where the Grito de Independencia began, or colorful San Miguel de Allende, roughly 1.5 hours away by bus. Both make easy round trips from Guanajuato.",
+        "tip": "Buses leave regularly from the central station"
+      },
+      {
+        "title": "Follow the light: use our 3 mini-itineraries",
+        "desc": "Not sure where to start? The morning / late-afternoon / night plan at the bottom of this page strings the viewpoints, churches, museums and food stops above into one walkable day.",
+        "tip": "Scroll down for the plan"
+      }
+    ],
+    "calloutTitle": "Fast facts: the Funicular Guanajuato",
+    "calloutText": "The funicular (also called teleférico or cable car) departs beside Teatro Juárez at Jardín de la Unión and reaches Monumento al Pípila in about one minute. Adult round-trip fares have been around MX$70-80 in recent years and the station is usually open daily from morning until about 21:00, but hours do change seasonally.",
+    "calloutCta": "Full El Pípila guide: tickets, hours & trail",
+    "calloutCta2": "Dedicated funicular guide: price, hours & sunset tips",
+    "calloutCta3": "Churches of Guanajuato: the 5 must-see temples",
+    "itineraryTitle": "Plan your day around the light",
+    "itineraryIntro": "Guanajuato is small enough to see a lot in one day. These three blocks follow the way sunlight and crowds move through the city.",
+    "itinerary": [
+      { "period": "Morning", "text": "Beat the heat: visit the Alhóndiga de Granaditas museum when it opens, then the Diego Rivera museum and university steps before midday." },
+      { "period": "Late afternoon", "text": "Walk the church circuit (Basílica, San Diego, La Compañía), browse Mercado Hidalgo, then take the funicular or walk up in time for golden hour at El Pípila." },
+      { "period": "Night", "text": "Watch the city lights switch on from the viewpoint, wander back down through the alleys, and finish with a callejoneada or dinner around Jardín de la Unión." }
+    ]
   },
   "header": {
     "home": "Home",
+    "weather": "Weather",
+    "plan": "Visit Guide",
+    "practical": "Facilities",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
     "backToHome": "Back to Home"
   },
+  "breadcrumb": {
+    "ariaLabel": "Breadcrumb: Monumento Al Pipila in Guanajuato, Mexico",
+    "items": [
+      "Monumento Al Pipila",
+      "Guanajuato",
+      "Guanajuato",
+      "Mexico"
+    ]
+  },
   "hero": {
-    "title": "Monumento Al Pipila",
+    "title": "Monumento Al Pipila (Guanajuato)",
     "subtitle": "Guanajuato · Mexico",
     "rating": "4.7",
-    "reviewCount": "38,759",
+    "reviewCount": "39,069",
     "hours": "Open 24/7",
-    "openMaps": "View Location"
+    "openMaps": "View Location",
+    "imageAlt": "Monumento Al Pipila – Main view in Guanajuato, Mexico"
   },
   "intro": {
-    "title": "Explore Monumento Al Pipila",
+    "title": "About Monumento Al Pipila",
+    "welcome": "Welcome to **Monumento Al Pipila**, widely recognized as the iconic **El Pípila** monument and Guanajuato's most famous observation deck. Located in the heart of **Guanajuato**, **Guanajuato**, **Mexico**, this destination serves as a primary hub for travelers visiting the region.",
     "description": "Monumento Al Pipila is one of the most iconic landmarks of Guanajuato, a UNESCO World Heritage city in Guanajuato State, Mexico. The 28-meter high obelisk was built in 1939 to honor Juan José de los Reyes Martínez Amaro, nicknamed 'El Pípila', a hero of Mexico's War of Independence. From the monument plaza, visitors can enjoy a 360-degree panoramic view of Guanajuato, making it a must-visit viewpoint.",
     "visitGuide": {
       "title": "Visiting Tips",
@@ -101,7 +413,7 @@
     "address": "Address",
     "addressValue": "Cerro de San Miguel S/N, Zona Centro, 36000 Guanajuato, Gto., Mexico",
     "plusCode": "GPS Coordinates",
-    "plusCodeValue": "21.0160° N, 101.2534° W"
+    "plusCodeValue": "21.0145° N, 101.2544° W"
   },
   "hours": {
     "title": "Opening Hours",
@@ -120,9 +432,9 @@
     "outdoorPrice": "Free (public plaza)",
     "lighthouse": "Cable Car (Teleférico)",
     "adults": "Round-trip Adult",
-    "adultsPrice": "Approximately 80-100 MXN (price subject to change)",
+    "adultsPrice": "About MX$70 round trip (approx. MX$35 one way); fares may change",
     "students": "Children/Students",
-    "studentsPrice": "Discount may be available (valid ID required)",
+    "studentsPrice": "Kids 4-11 & seniors with ID: roughly half price",
     "children": "Walk Up",
     "childrenPrice": "Free (about 20-30 minutes walk from downtown)",
     "card": "Tips",
@@ -146,6 +458,7 @@
   "gallery": {
     "title": "Stunning Photos",
     "subtitle": "The Charm of Monumento Al Pipila",
+    "altPrefix": "Monumento Al Pipila",
     "captions": [
       "Monument panoramic view",
       "Guanajuato panorama",
@@ -217,11 +530,14 @@
     ]
   },
   "mapSection": {
-    "title": "Location & Map",
+    "title": "Location & How to Visit El Pípila in Guanajuato",
     "subtitle": "Cerro de San Miguel S/N, Zona Centro, 36000 Guanajuato, Gto., Mexico",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "officialPortalNote": "For official updates and regional tourism information, visit",
+    "officialPortalLabel": "the Mexico Secretariat of Tourism official portal (Gob.mx)"
   },
   "footer": {
+    "thingsToDo": "Things to Do in Guanajuato",
     "rights": "© 2026 Monumento Al Pipila. All rights reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
@@ -249,7 +565,8 @@
         "url": "https://www.gob.mx/sre"
       }
     },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions.",
+    "imageRights": "Image rights: all photographs displayed on this website remain the property and copyright of their respective photographers. 本网站所展示的所有图片产权及版权均归原摄影者所有。"
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -350,7 +667,7 @@
     "text": "Monumento Al Pipila is located in Guanajuato, Guanajuato State, Mexico. Built in 1939, the 28-meter high obelisk honors Juan José de los Reyes Martínez Amaro (nicknamed El Pípila), a hero of Mexico's War of Independence. On September 28, 1810, during the Siege of Guanajuato, El Pípila bravely set fire to the gate of the Spanish stronghold, making a crucial contribution to Mexican independence. Today, it is the best viewpoint for panoramic views of the UNESCO World Heritage city of Guanajuato."
   },
   "historyTimeline": {
-    "title": "History Timeline",
+    "title": "History & Significance of Monumento Al Pipila",
     "items": [
       {
         "year": "1782",
@@ -398,6 +715,365 @@
         "id": "legacy",
         "title": "Historical Legacy and Commemoration",
         "content": "El Pípila's heroic deeds left an indelible mark on Mexican history. To commemorate this Independence War hero, the Guanajuato municipal government built this 28-meter high obelisk monument on Cerro de San Miguel in 1939. The monument was jointly designed by sculptor Juan Fernando Olaguíbel and architect Augusto Petriccioli, and has now become one of Guanajuato's most iconic landmarks and an important symbol of the Mexican independence spirit. Every year, tens of thousands of visitors come to visit and pay tribute to this hero who dedicated himself to Mexican independence."
+      }
+    ]
+  },
+  "nearby": {
+    "title": "Landmarks & Attractions Around El Pípila",
+    "intro": "When visiting **Monumento Al Pipila**, visitors can easily explore surrounding historical landmarks and points of interest, including **Alhóndiga de Granaditas** and **Jardín de la Unión**, all within a short walk downhill from the viewpoint.",
+    "hint": "Start from the monument plaza and walk down into Guanajuato's historic centre to discover these places:",
+    "places": [
+      {
+        "name": "Alhóndiga de Granaditas",
+        "desc": "The granary fortress where El Pípila's legendary act of 1810 took place; today it houses a regional museum."
+      },
+      {
+        "name": "Jardín de la Unión",
+        "desc": "Guanajuato's lively central square, lined with restaurants and the lower station of the Pípila funicular."
+      },
+      {
+        "name": "Teatro Juárez",
+        "desc": "A grand neoclassical theatre standing just below the hill, inaugurated in 1903."
+      },
+      {
+        "name": "Basilica of Our Lady of Guanajuato",
+        "desc": "The city's main church, famous for housing one of Mexico's oldest Christian images."
+      },
+      {
+        "name": "University of Guanajuato",
+        "desc": "Its iconic stone staircase has become a symbol of the city's cultural life."
+      },
+      {
+        "name": "Callejón del Beso",
+        "desc": "The famous \"Alley of the Kiss\", only a few minutes' walk downhill from the monument."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know before visiting Monumento Al Pipila in Guanajuato.",
+    "items": [
+      {
+        "q": "Where is Monumento Al Pipila located?",
+        "a": "Monumento Al Pipila is located on Cerro de San Miguel in the historic centre of Guanajuato, Guanajuato State, Mexico. The full address is Cerro de San Miguel S/N, Zona Centro, 36000 Guanajuato, Gto., Mexico."
+      },
+      {
+        "q": "Is Monumento Al Pipila free to visit?",
+        "a": "Yes. The monument and its public plaza are free to visit year-round. A fee only applies if you choose to ride the funicular (teleférico) up the hill instead of walking."
+      },
+      {
+        "q": "How do I get to Monumento Al Pipila?",
+        "a": "You can walk up from downtown Guanajuato in about 20–30 minutes, take the cable car (teleférico) that departs near Jardín de la Unión, or drive to the parking area beside the viewpoint."
+      },
+      {
+        "q": "Why is it called Monumento Al Pipila?",
+        "a": "It honours Juan José de los Reyes Martínez Amaro, nicknamed 'El Pípila', a miner who became a hero of Mexico's War of Independence after setting fire to the Alhóndiga de Granaditas gate during the Siege of Guanajuato in 1810."
+      },
+      {
+        "q": "What can you see from Monumento Al Pipila?",
+        "a": "The plaza offers a 360-degree panoramic view over Guanajuato's UNESCO World Heritage historic centre, including the Basilica of Our Lady of Guanajuato, the University of Guanajuato, the Alhóndiga de Granaditas and the surrounding mountains — especially beautiful at sunset and after dark."
+      },
+      {
+        "q": "What attractions are near Monumento Al Pipila?",
+        "a": "Alhóndiga de Granaditas, Jardín de la Unión, Teatro Juárez, the Basilica of Our Lady of Guanajuato and the famous Callejón del Beso are all within a short walk downhill from the monument."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Sources & References",
+    "intro": "The information on this page has been compiled from the following official and reference sources to help travellers plan an accurate visit.",
+    "items": [
+      {
+        "name": "Wikipedia – Monumento al Pípila",
+        "url": "https://en.wikipedia.org/wiki/Monumento_al_P%C3%ADpila"
+      },
+      {
+        "name": "Mexico National Tourism Board (VisitMexico)",
+        "url": "https://visitmexico.com/"
+      },
+      {
+        "name": "Secretariat of Tourism, Government of Mexico",
+        "url": "https://www.gob.mx/sectur"
+      },
+      {
+        "name": "Guanajuato State Tourism Office",
+        "url": "https://guanajuato.travel/"
+      },
+      {
+        "name": "INAH – National Heritage Sites Database",
+        "url": "https://lugares.inah.gob.mx/es"
+      },
+      {
+        "name": "UNESCO World Heritage Centre – Guanajuato",
+        "url": "https://whc.unesco.org/en/list/482/"
+      },
+      {
+        "name": "Google Maps – Monumento Al Pipila listing",
+        "url": "https://maps.app.goo.gl/tijtga6Z8omokNxv9"
+      }
+    ]
+  },
+  "weather": {
+    "title": "Live Weather & 7-Day Forecast in Guanajuato",
+    "subtitle": "Current conditions near Monumento Al Pipila on Cerro de San Miguel — the view plaza sits about 2,050 m above sea level, so bring a layer for breezy sunsets.",
+    "today": "Today",
+    "feelsLike": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "precipitation": "Precip.",
+    "chanceRain": "Rain chance",
+    "condition": {
+      "clear": "Clear sky",
+      "mainlyClear": "Mostly clear",
+      "partlyCloudy": "Partly cloudy",
+      "overcast": "Cloudy",
+      "rain": "Rainy",
+      "thunderstorm": "Thunderstorm"
+    },
+    "loading": "Loading weather…",
+    "unavailable": "The live weather report is temporarily unavailable. Please try again shortly.",
+    "retry": "Try again",
+    "uvIndex": "UV index",
+    "uvLevels": {
+      "low": "Low",
+      "moderate": "Moderate",
+      "high": "High",
+      "veryHigh": "Very high",
+      "extreme": "Extreme"
+    },
+    "smart": {
+      "title": "Visit tips",
+      "subtitle": "Generated from the live forecast — each line only appears when it matters for today.",
+      "forDay": "Tips for {date}",
+      "riskTitle": "Safety reminder",
+      "outfit": "What to wear",
+      "activity": "What to do",
+      "gear": "What to pack",
+      "noRisk": "No significant weather risk right now — enjoy your visit.",
+      "forecastTitle": "Next 7 days — tap a day for its tips",
+      "tokens": {
+        "fit_mild": "Mild and pleasant — regular comfortable clothing.",
+        "fit_warm": "Hot and sunny — light, loose, light-coloured layers.",
+        "fit_cool": "Cool at 2,050 m — bring a warm layer for the plaza breeze.",
+        "fit_swing": "Big temperature swing between day and night — layers are the smartest choice.",
+        "fit_rainOuter": "Rain possible — a water-resistant outer layer over quick-dry clothing.",
+        "fit_windy": "Gusty at the top — a windbreaker or close-fitting hood helps.",
+        "act_sunny": "Clear and bright — great for exploring the monument plaza and the historic centre.",
+        "act_cloudy": "Soft, even light without harsh sun — comfortable for a long walk and photography.",
+        "act_rainLight": "Light rain — cobblestones turn slippery, so slow down on steps and slopes.",
+        "act_rainHeavy": "Heavy rain — postpone the uphill walk; the funicular and viewpoints will be wet and windy. Museums first.",
+        "act_thunder": "Thunderstorm — stay off high ground and open viewpoints, keep away from metal railings and shelter indoors.",
+        "act_wind": "Strong wind on the hill — keep clear of railings; the funicular may slow or stop.",
+        "act_fog": "Low visibility — the panorama will be hazy and the paths slippery; take it slow.",
+        "act_heat": "Strong midday heat — plan outdoor time for early morning or late afternoon.",
+        "act_chill": "Clear but cold after sunset — wrap up warm if you stay for the night view.",
+        "act_pop": "Rain is likely later — take a small umbrella and keep a museum or arcade as plan B.",
+        "gear_umbrella": "Folding umbrella",
+        "gear_raincoat": "Rain jacket or poncho (long umbrellas fight the wind up here)",
+        "gear_sunscreen": "Sunscreen and a sun hat",
+        "gear_sunglasses": "Sunglasses",
+        "gear_water": "Water bottle",
+        "gear_wind": "Secure hat or scarf for the gusty plaza",
+        "risk_thunder": "Lightning risk: avoid exposed hilltops, lone trees and metal railings until the storm passes.",
+        "risk_heavy": "Heavy rain can make hillside paths muddy and slippery — avoid low areas and steep routes.",
+        "risk_wind": "Very strong wind reported: stay back from the plaza edge and hold onto loose items.",
+        "risk_heat": "Very hot conditions — limit time in the midday sun and drink plenty of water."
+      }
+    }
+  },
+  "seasons": {
+    "title": "Visiting Guanajuato by Season – Year-Round Strategy",
+    "subtitle": "A quick outlook for the Guanajuato highlands based on long-term climate averages, so you can choose the best season, light and crowds for your visit.",
+    "note": "This is a general, long-term overview — always confirm with the live forecast before you set out. Dates of festivities may change each year.",
+    "colSeason": "Season",
+    "colMonths": "Months",
+    "colClimate": "Climate & atmosphere",
+    "colTips": "Visitor tips",
+    "rows": [
+      {
+        "season": "Spring",
+        "span": "March – May",
+        "climate": "Warm, dry and mostly sunny (about 14–29 °C). Clear skies make the panorama from the monument especially sharp; Semana Santa brings processions and lively plazas in late March or April.",
+        "tip": "Light layers, hat and sunscreen. Sunrise and late afternoon offer the softest light and the calmest crowds."
+      },
+      {
+        "season": "Rainy summer",
+        "span": "June – August",
+        "climate": "Hotter and more humid, with short afternoon downpours (about 18–30 °C). The hills turn lush green and dramatic clouds build before evening storms.",
+        "tip": "Mornings are usually clear — go early. Carry a compact umbrella or poncho and take care on wet, slippery cobblestones."
+      },
+      {
+        "season": "Autumn",
+        "span": "September – November",
+        "climate": "Pleasant by day and mild in the evening. October hosts the famous Festival Cervantino, and early November brings Día de Muertos altars and night events across the historic centre.",
+        "tip": "Book accommodation well ahead for festival weeks. Evenings stay mild, so a light jacket is enough."
+      },
+      {
+        "season": "Winter",
+        "span": "December – February",
+        "climate": "Cool, crisp and mostly dry (about 6–24 °C), coldest after dark. Clear winter light suits photography, and the Jardín glows with festive decorations around Christmas and New Year.",
+        "tip": "Bring warm layers for sunset and night viewing from the plaza. Weekday mornings are the quietest for photos."
+      }
+    ]
+  },
+  "visitPlans": {
+    "audienceTitle": "Routes Tailored to the Way You Travel",
+    "subtitle": "Three self-guided approaches to Monumento Al Pipila and the historic centre — pick by your group, pace and needs.",
+    "routesTitle": "Recommended General Routes – Half Day & Full Day",
+    "subtitle2": "Two flexible loops starting from the historic centre. Times are approximate and easy to shorten or stretch.",
+    "halfTitle": "Half-Day Route",
+    "halfTime": "About 3–4 hours",
+    "fullTitle": "Full-Day Route",
+    "fullTime": "About 6–8 hours, unhurried",
+    "audiences": [
+      {
+        "title": "Families with Children",
+        "intro": "Let the funicular do the climbing and mix the monument with the lively squares below.",
+        "points": [
+          "Ride the cable car up and down to save energy for little legs.",
+          "Combine the viewpoint with plazas, alleys and the regional museum.",
+          "Plan 2–3 hours with breaks and avoid the hottest midday hours."
+        ]
+      },
+      {
+        "title": "Photography & Nature Lovers",
+        "intro": "This viewpoint is Guanajuato's most classic panorama — time it for the light.",
+        "points": [
+          "Arrive 60–90 minutes before sunset for golden light over the rooftops.",
+          "Use the plaza rail edges for layered frames of the cathedral and valley.",
+          "After dark the city lights glow; a small tripod or steady support helps."
+        ]
+      },
+      {
+        "title": "Easy-Paced & Low-Mobility Visitors",
+        "intro": "The monument can be enjoyed without a steep climb.",
+        "points": [
+          "Take the funicular from Jardín de la Unión or the vehicle road to the top.",
+          "Cobbled paths have some steps — allow extra time and rest on plaza benches.",
+          "Go in the early morning for cooler air, fewer people and easier access."
+        ]
+      }
+    ],
+    "itineraryHalf": {
+      "stops": [
+        {
+          "t": "Start at Jardín de la Unión",
+          "d": "Walk or ride the funicular up to the monument (about 15 minutes from the lower station)."
+        },
+        {
+          "t": "Monumento Al Pipila viewpoint",
+          "d": "Spend 40–60 minutes circling the plaza for the 360-degree panorama, photos and a rest at the benches."
+        },
+        {
+          "t": "Walk down into the historic centre",
+          "d": "Descend the old alleyways towards Callejón del Beso and Teatro Juárez (20–30 minutes)."
+        },
+        {
+          "t": "Close at a main square",
+          "d": "Finish at Jardín de la Unión or the Basilica plaza to rest among the local bustle."
+        }
+      ]
+    },
+    "itineraryFull": {
+      "stops": [
+        {
+          "t": "Morning – historic centre core",
+          "d": "Explore the Alhóndiga de Granaditas museum and the Basilica of Our Lady of Guanajuato area."
+        },
+        {
+          "t": "Midday – markets and central squares",
+          "d": "Pause for a bite among the food stalls and casual eateries around the main plazas and markets."
+        },
+        {
+          "t": "Early afternoon – monuments and alleys",
+          "d": "See the University of Guanajuato staircase, Callejón del Beso and the quieter side streets."
+        },
+        {
+          "t": "Late afternoon – up to the monument",
+          "d": "Ride the funicular up and watch the sunset panorama from the plaza (allow about an hour)."
+        },
+        {
+          "t": "Evening – city lights and slow descent",
+          "d": "Admire the illuminated historic centre, then walk or ride back while the streets are lively."
+        }
+      ]
+    }
+  },
+  "practical": {
+    "title": "Visitor Services & Facilities Around the Monument",
+    "subtitle": "What to expect on site and in the surrounding historic centre, at a glance.",
+    "neutralNote": "Neutral, type-level overview only: we list the kinds of services commonly available near the monument without endorsing any specific business.",
+    "items": [
+      {
+        "t": "Public restrooms",
+        "d": "Facilities exist around the monument plaza and in the historic centre; some municipal toilets charge a small fee."
+      },
+      {
+        "t": "Parking",
+        "d": "Paid parking lots and some street spaces are found near the historic centre, with limited roadside parking on the road up to the viewpoint. Weekends fill up early."
+      },
+      {
+        "t": "Dining",
+        "d": "A wide range of sit-down restaurants, casual eateries and street-food stands clusters around the main plazas and markets, across many budgets."
+      },
+      {
+        "t": "Convenience stores & markets",
+        "d": "Small convenience stores are common in the centre; larger supermarkets are a short drive away on the main roads."
+      },
+      {
+        "t": "Accommodation",
+        "d": "Hotels, boutique inns and hostels cluster in and around the historic centre, within walking distance of the cable-car station."
+      },
+      {
+        "t": "Fuel & EV charging",
+        "d": "Service stations sit on the access roads into the city rather than inside the pedestrian core; public EV charging points are gradually appearing at parking facilities."
+      },
+      {
+        "t": "Public transport & cable car",
+        "d": "Local buses and taxis serve the centre; the funicular connects Jardín de la Unión with the monument in about a minute (many visitors enjoy the walk down)."
+      },
+      {
+        "t": "ATMs & cash",
+        "d": "Banks and ATMs concentrate near the main squares. Carry some cash, as small vendors and market stalls may not accept cards."
+      },
+      {
+        "t": "Pharmacies & health",
+        "d": "Pharmacies are frequent in the centre, with clinics and hospitals serving the wider city. In an emergency dial 911."
+      },
+      {
+        "t": "Tourist information",
+        "d": "Municipal tourist-information points operate in the historic centre — ask there for current maps, opening times and the local events calendar."
+      }
+    ]
+  },
+  "guidelines": {
+    "title": "Heritage Awareness & Responsible Visiting",
+    "subtitle": "The monument plaza is an open public space and a protected landmark — a little care keeps it welcoming for everyone.",
+    "note": "This guide is an independent, non-profit educational summary. Regulations may change; please follow on-site signage and current local rules.",
+    "items": [
+      {
+        "t": "Protect the monument",
+        "d": "The statue, pedestal and viewpoint railings are protected heritage. Do not climb on the sculpture or step beyond the barriers."
+      },
+      {
+        "t": "Leave no litter",
+        "d": "Use the bins at the plaza or carry waste out with you — the hillside has no daily cleaning crew."
+      },
+      {
+        "t": "Mind your step",
+        "d": "Surfaces are cobbled and uneven, with steps and open edges near the viewpoints. Wear sturdy shoes and keep an eye on children."
+      },
+      {
+        "t": "Weather & altitude",
+        "d": "The plaza is about 2,050 m above sea level. Move slowly if you are not used to altitude, protect against the strong midday sun and be careful on wet cobblestones."
+      },
+      {
+        "t": "Respect everyone",
+        "d": "Keep noise moderate, do not block the viewpoints for long, and ask permission before photographing people or street vendors."
+      },
+      {
+        "t": "Follow local rules",
+        "d": "Drone use and commercial filming may be restricted around the historic centre — check current municipal regulations before operating any equipment."
       }
     ]
   }

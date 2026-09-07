@@ -39,6 +39,9 @@ export default function Footer() {
             </div>
           </div>
           <div className="flex flex-wrap gap-4 text-sm mt-4 sm:mt-0">
+            <a href={`${prefix}/things-to-do-in-guanajuato`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
+              {t('thingsToDo')}
+            </a>
             <a href={`${prefix}/privacy-policy`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
               {t('privacy')}
             </a>
@@ -57,6 +60,7 @@ export default function Footer() {
         >
           <p>{t('rights')}</p>
           <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('disclaimer')}</p>
+          <p className="text-xs max-w-3xl mx-auto leading-relaxed opacity-90">{t('imageRights')}</p>
         </div>
       </div>
     </footer>

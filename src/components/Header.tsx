@@ -33,8 +33,8 @@ export default function Header() {
           Monumento Al Pipila
         </a>
 
-        <nav className="hidden md:flex items-center gap-6">
-          {(['gallery', 'reviews', 'map'] as const).map((section) => (
+        <nav className="hidden md:flex items-center gap-4 lg:gap-6">
+          {(['weather', 'plan', 'practical', 'gallery', 'reviews', 'map'] as const).map((section) => (
             <a
               key={section}
               href={`#${section}`}
